@@ -67,7 +67,7 @@ STYLE DS_SETFONT | DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
 CAPTION "关于 DDNSpod"
 FONT 9, "宋体", 0, 0, 0x1
 BEGIN
-    LTEXT           "DDNSpod 0.4.2 By kuyur",IDC_STATIC,53,14,119,8,SS_NOPREFIX
+    LTEXT           "DDNSpod 0.4.3 By kuyur",IDC_STATIC,53,14,119,8,SS_NOPREFIX
     LTEXT           "http://code.google.com/p/ddnspod/",IDC_STATIC_LINK,53,29,146,8
     DEFPUSHBUTTON   "确定",IDOK,182,7,50,16,WS_GROUP
 END
@@ -132,8 +132,8 @@ END
 //
 
 VS_VERSION_INFO VERSIONINFO
- FILEVERSION 0,4,2,0
- PRODUCTVERSION 0,4,2,0
+ FILEVERSION 0,4,3,0
+ PRODUCTVERSION 0,4,3,0
  FILEFLAGSMASK 0x3fL
 #ifdef _DEBUG
  FILEFLAGS 0x1L
@@ -148,14 +148,15 @@ BEGIN
     BEGIN
         BLOCK "080403a8"
         BEGIN
-            VALUE "CompanyName", "kuyurasu"
+            VALUE "Comments", "kuyur.info"
+            VALUE "CompanyName", "kuyur.info"
             VALUE "FileDescription", "DDNSpod"
-            VALUE "FileVersion", "0.4.2"
+            VALUE "FileVersion", "0.4.3"
             VALUE "InternalName", "DDNSpod.exe"
-            VALUE "LegalCopyright", "(C) 2009"
+            VALUE "LegalCopyright", "(C) 2010"
             VALUE "OriginalFilename", "DDNSpod.exe"
             VALUE "ProductName", "DDNSpod"
-            VALUE "ProductVersion", "0.4.2"
+            VALUE "ProductVersion", "0.4.3"
         END
     END
     BLOCK "VarFileInfo"

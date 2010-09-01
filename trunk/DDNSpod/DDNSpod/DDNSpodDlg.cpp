@@ -40,7 +40,7 @@ CDDNSpodDlg::CDDNSpodDlg(CWnd* pParent /*=NULL*/)
 	ip6=_T("::1");
 	AllRecordList=NULL;
 	m_confpath="";
-	DNSpodAPIVer=_T("1.5");
+	DNSpodAPIVer=_T("1.6");
 	//带命令行参数
 	if (AfxGetApp()->m_lpCmdLine[0]!='\0')
 	{
@@ -808,7 +808,6 @@ void CDDNSpodDlg::OnFileRefresh()
 		return;
 	}
 
-	//静默处理
 	if (m_conf.A_Record_enabled&&m_conf.A_RecordID!=0)
 	{
 		DNSpod.RecordModify(m_conf.DomainID,m_conf.A_RecordID,m_conf.A_Record,_T("A"),_T("default"),ip4,1,1);
@@ -818,6 +817,7 @@ void CDDNSpodDlg::OnFileRefresh()
 		DNSpod.RecordModify(m_conf.DomainID,m_conf.AAAA_RecordID,m_conf.AAAA_Record,_T("AAAA"),_T("default"),ip6,1,1);
 	}
 	SaveConfFile(FALSE); //保存各ID
+	::AfxMessageBox(_T("成功更新!"));
 	return;
 }
 
@@ -871,7 +871,6 @@ void CDDNSpodDlg::OnTrayRefresh()
 		return;
 	}
 
-	//静默处理
 	if (m_conf.A_Record_enabled&&m_conf.A_RecordID!=0)
 	{
 		DNSpod.RecordModify(m_conf.DomainID,m_conf.A_RecordID,m_conf.A_Record,_T("A"),_T("default"),ip4,1,1);
@@ -881,6 +880,7 @@ void CDDNSpodDlg::OnTrayRefresh()
 		DNSpod.RecordModify(m_conf.DomainID,m_conf.AAAA_RecordID,m_conf.AAAA_Record,_T("AAAA"),_T("default"),ip6,1,1);
 	}
 	SaveConfFile(FALSE); //保存各ID
+	::AfxMessageBox(_T("成功更新!"));
 	return;
 }
 
@@ -1085,7 +1085,7 @@ void CDDNSpodDlg::OnTimer(UINT_PTR nIDEvent)
 			{
 				DNSpod.RecordModify(m_conf.DomainID,m_conf.AAAA_RecordID,m_conf.AAAA_Record,_T("AAAA"),_T("default"),ip6,1,1);
 			}
-			//::AfxMessageBox(_T("Refresh Done!"));
+			::AfxMessageBox(_T("Refresh Done!"));
 		}
 		//更新后退出程序
 		if (m_conf.UpdateType==ONCE)
