@@ -95,7 +95,7 @@ TiXmlDocument CDNSpodAPI::GetAPIVersion()
 		pServer=session.GetHttpConnection(ServerURL,nPort,login_email,login_password);
 		pFile=pServer->OpenRequest(CHttpConnection::HTTP_VERB_POST,paraStr,NULL,1,NULL,NULL,INTERNET_FLAG_EXISTING_CONNECT);
 		pFile->AddRequestHeaders(strHeaders);
-		pFile->AddRequestHeaders(_T("User-Agent: DDNSpod 0.4"));
+		pFile->AddRequestHeaders(_T("User-Agent: DDNSpod 0.4.3"));
 		pFile->SendRequest(strHeaders,(LPVOID)(LPCSTR)strFormDataA,strFormDataA.GetLength()); //发送表单内容
 		pFile->QueryInfoStatusCode(retcode);
 
@@ -200,7 +200,7 @@ TiXmlDocument CDNSpodAPI::DomainCreate(CString Domain)
 		pServer=session.GetHttpConnection(ServerURL,nPort,login_email,login_password);
 		pFile=pServer->OpenRequest(CHttpConnection::HTTP_VERB_POST,paraStr,NULL,1,NULL,NULL,INTERNET_FLAG_EXISTING_CONNECT);
 		pFile->AddRequestHeaders(strHeaders);
-		pFile->AddRequestHeaders(_T("User-Agent: DDNSpod 0.4"));
+		pFile->AddRequestHeaders(_T("User-Agent: DDNSpod 0.4.3"));
 		pFile->SendRequest(strHeaders,(LPVOID)(LPCSTR)strFormDataA,strFormDataA.GetLength()); //发送表单内容
 		pFile->QueryInfoStatusCode(retcode);
 		
@@ -294,7 +294,7 @@ TiXmlDocument CDNSpodAPI::DomainList()
 		pServer=session.GetHttpConnection(ServerURL,nPort,login_email,login_password);
 		pFile=pServer->OpenRequest(CHttpConnection::HTTP_VERB_POST,paraStr,NULL,1,NULL,NULL,INTERNET_FLAG_EXISTING_CONNECT);
 		pFile->AddRequestHeaders(strHeaders);
-		pFile->AddRequestHeaders(_T("User-Agent: DDNSpod 0.4"));
+		pFile->AddRequestHeaders(_T("User-Agent: DDNSpod 0.4.3"));
 		pFile->SendRequest(strHeaders,(LPVOID)(LPCSTR)strFormDataA,strFormDataA.GetLength()); //发送表单内容
 		pFile->QueryInfoStatusCode(retcode);
 		
@@ -420,7 +420,7 @@ TiXmlDocument CDNSpodAPI::DomainRemove(int DomainID)
 		pServer=session.GetHttpConnection(ServerURL,nPort,login_email,login_password);
 		pFile=pServer->OpenRequest(CHttpConnection::HTTP_VERB_POST,paraStr,NULL,1,NULL,NULL,INTERNET_FLAG_EXISTING_CONNECT);
 		pFile->AddRequestHeaders(strHeaders);
-		pFile->AddRequestHeaders(_T("User-Agent: DDNSpod 0.4"));
+		pFile->AddRequestHeaders(_T("User-Agent: DDNSpod 0.4.3"));
 		pFile->SendRequest(strHeaders,(LPVOID)(LPCSTR)strFormDataA,strFormDataA.GetLength()); //发送表单内容
 		pFile->QueryInfoStatusCode(retcode);
 		
@@ -526,7 +526,7 @@ TiXmlDocument CDNSpodAPI::DomainStatus(int DomainID,BOOL DomainEnabled)
 		pServer=session.GetHttpConnection(ServerURL,nPort,login_email,login_password);
 		pFile=pServer->OpenRequest(CHttpConnection::HTTP_VERB_POST,paraStr,NULL,1,NULL,NULL,INTERNET_FLAG_EXISTING_CONNECT);
 		pFile->AddRequestHeaders(strHeaders);
-		pFile->AddRequestHeaders(_T("User-Agent: DDNSpod 0.4"));
+		pFile->AddRequestHeaders(_T("User-Agent: DDNSpod 0.4.3"));
 		pFile->SendRequest(strHeaders,(LPVOID)(LPCSTR)strFormDataA,strFormDataA.GetLength()); //发送表单内容
 		pFile->QueryInfoStatusCode(retcode);
 		
@@ -656,7 +656,7 @@ TiXmlDocument CDNSpodAPI::RecordCreate(int DomainID,CString SubDomain,CString re
 		pServer=session.GetHttpConnection(ServerURL,nPort,login_email,login_password);
 		pFile=pServer->OpenRequest(CHttpConnection::HTTP_VERB_POST,paraStr,NULL,1,NULL,NULL,INTERNET_FLAG_EXISTING_CONNECT);
 		pFile->AddRequestHeaders(strHeaders);
-		pFile->AddRequestHeaders(_T("User-Agent: DDNSpod 0.4"));
+		pFile->AddRequestHeaders(_T("User-Agent: DDNSpod 0.4.3"));
 		pFile->SendRequest(strHeaders,(LPVOID)(LPCSTR)strFormDataA,strFormDataA.GetLength()); //发送表单内容
 		pFile->QueryInfoStatusCode(retcode);
 		
@@ -743,7 +743,7 @@ TiXmlDocument CDNSpodAPI::RecordList(int DomainID)
 		pServer=session.GetHttpConnection(ServerURL,nPort,login_email,login_password);
 		pFile=pServer->OpenRequest(CHttpConnection::HTTP_VERB_POST,paraStr,NULL,1,NULL,NULL,INTERNET_FLAG_EXISTING_CONNECT);
 		pFile->AddRequestHeaders(strHeaders);
-		pFile->AddRequestHeaders(_T("User-Agent: DDNSpod 0.4"));
+		pFile->AddRequestHeaders(_T("User-Agent: DDNSpod 0.4.3"));
 		pFile->SendRequest(strHeaders,(LPVOID)(LPCSTR)strFormDataA,strFormDataA.GetLength()); //发送表单内容
 		pFile->QueryInfoStatusCode(retcode);
 		
@@ -867,7 +867,7 @@ TiXmlDocument CDNSpodAPI::RecordModify(int DomainID,int RecordID,CString SubDoma
 		pServer=session.GetHttpConnection(ServerURL,nPort,login_email,login_password);
 		pFile=pServer->OpenRequest(CHttpConnection::HTTP_VERB_POST,paraStr,NULL,1,NULL,NULL,INTERNET_FLAG_EXISTING_CONNECT);
 		pFile->AddRequestHeaders(strHeaders);
-		pFile->AddRequestHeaders(_T("User-Agent: DDNSpod 0.4"));
+		pFile->AddRequestHeaders(_T("User-Agent: DDNSpod 0.4.3"));
 		pFile->SendRequest(strHeaders,(LPVOID)(LPCSTR)strFormDataA,strFormDataA.GetLength()); //发送表单内容
 		pFile->QueryInfoStatusCode(retcode);
 		
@@ -958,7 +958,7 @@ TiXmlDocument CDNSpodAPI::RecordRemove(int DomainID, int RecordID)
 		pServer=session.GetHttpConnection(ServerURL,nPort,login_email,login_password);
 		pFile=pServer->OpenRequest(CHttpConnection::HTTP_VERB_POST,paraStr,NULL,1,NULL,NULL,INTERNET_FLAG_EXISTING_CONNECT);
 		pFile->AddRequestHeaders(strHeaders);
-		pFile->AddRequestHeaders(_T("User-Agent: DDNSpod 0.4"));
+		pFile->AddRequestHeaders(_T("User-Agent: DDNSpod 0.4.3"));
 		pFile->SendRequest(strHeaders,(LPVOID)(LPCSTR)strFormDataA,strFormDataA.GetLength()); //发送表单内容
 		pFile->QueryInfoStatusCode(retcode);
 		
@@ -1071,7 +1071,7 @@ TiXmlDocument CDNSpodAPI::RecordStatus(int DomainID, int RecordID,BOOL RecordEna
 		pServer=session.GetHttpConnection(ServerURL,nPort,login_email,login_password);
 		pFile=pServer->OpenRequest(CHttpConnection::HTTP_VERB_POST,paraStr,NULL,1,NULL,NULL,INTERNET_FLAG_EXISTING_CONNECT);
 		pFile->AddRequestHeaders(strHeaders);
-		pFile->AddRequestHeaders(_T("User-Agent: DDNSpod 0.4"));
+		pFile->AddRequestHeaders(_T("User-Agent: DDNSpod 0.4.3"));
 		pFile->SendRequest(strHeaders,(LPVOID)(LPCSTR)strFormDataA,strFormDataA.GetLength()); //发送表单内容
 		pFile->QueryInfoStatusCode(retcode);
 		

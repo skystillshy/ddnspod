@@ -1,19 +1,19 @@
-From: <由 Windows Internet Explorer 8 保存>
+From: =?gb2312?B?08kgV2luZG93cyBJbnRlcm5ldCBFeHBsb3JlciA4ILGjtOY=?=
 Subject: =?gb2312?B?RE5TUG9kIEFQSSDB0LHtIC0gRE5TUG9kILDv1vrW0NDE?=
-Date: Wed, 2 Dec 2009 17:39:43 +0800
+Date: Wed, 1 Sep 2010 20:48:48 +0800
 MIME-Version: 1.0
 Content-Type: multipart/related;
 	type="text/html";
-	boundary="----=_NextPart_000_001B_01CA7376.6EBCC2C0"
-X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.5512
+	boundary="----=_NextPart_000_0000_01CB4A17.13D328E0"
+X-MimeOLE: Produced By Microsoft MimeOLE V6.1.7600.16543
 
-This is a multi-part message in MIME format.
+这是 MIME 格式的多方邮件。
 
-------=_NextPart_000_001B_01CA7376.6EBCC2C0
+------=_NextPart_000_0000_01CB4A17.13D328E0
 Content-Type: text/html;
 	charset="utf-8"
 Content-Transfer-Encoding: quoted-printable
-Content-Location: http://support.dnspod.com/index.php?_m=knowledgebase&_a=viewarticle&kbarticleid=43&nav=0
+Content-Location: http://support.dnspod.com/index.php?_m=knowledgebase&_a=viewarticle&kbarticleid=43
 
 =EF=BB=BF<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" =
 "http://www.w3c.org/TR/1999/REC-html401-19991224/loose.dtd">
@@ -31,14 +31,14 @@ var swiftpath =3D "http://support.dnspod.com/";
 var =
 BLANK_IMAGE=3D"http://support.dnspod.com/themes/client_default/space.gif"=
 ;
-var swiftsessionid =3D "gug0bso1va6n6tfsxyxffu7kz6dg0uzk";
+var swiftsessionid =3D "8d5gjm7cdgvwqnqtyss6rpabgql33qtw";
 </SCRIPT>
 
 <SCRIPT language=3DJavascript type=3Dtext/javascript=20
 src=3D"http://support.dnspod.com/themes/client_default/basejs.js"></SCRIP=
 T>
 
-<META name=3DGENERATOR content=3D"MSHTML 8.00.6001.18702"></HEAD>
+<META name=3DGENERATOR content=3D"MSHTML 8.00.7600.16625"></HEAD>
 <BODY leftMargin=3D0 marginwidth=3D"0">
 <CENTER>
 <TABLE border=3D0 cellSpacing=3D0 cellPadding=3D0 width=3D"100%">
@@ -187,9 +187,28 @@ src=3D"http://support.dnspod.com/themes/client_default/space.gif"=20
 class=3Dswiftfieldset><LEGEND>=E6=96=87=E7=AB=A0</LEGEND><SPAN=20
                   class=3Dmediumtext>
                   =
+<DIV>=E5=A6=82=E6=9E=9C=E6=82=A8=E9=9C=80=E8=A6=81=E4=BD=BF=E7=94=A8=E7=AC=
+=AC=E4=B8=89=E6=96=B9=E5=9F=BA=E4=BA=8EDNSPod =
+API=E5=BC=80=E5=8F=91=E7=9A=84=E5=BA=94=E7=94=A8=E7=A8=8B=E5=BA=8F=EF=BC=8C=
+=E8=AF=B7=E7=9C=8B <A=20
+                  =
+href=3D"http://support.dnspod.com/index.php?_m=3Dknowledgebase&amp;_a=3Dv=
+iewarticle&amp;kbarticleid=3D49">DNSPod=E5=AE=A2=E6=88=B7=E7=AB=AF=E5=92=8C=
+=E5=B7=A5=E5=85=B7=E8=BD=AF=E4=BB=B6=E5=88=97=E8=A1=A8</A></DIV>
+                  <DIV><BR></DIV>
+                  =
 <DIV>=E7=9B=AE=E5=89=8DDNSPod=E7=9A=84API=E6=98=AF=E5=AE=8C=E5=85=A8=E5=85=
 =8D=E8=B4=B9=E5=BC=80=E6=94=BE=E7=BB=99=E5=A4=A7=E5=AE=B6=E4=BD=BF=E7=94=A8=
-=E3=80=82</DIV>
+=EF=BC=8C<FONT class=3DApple-style-span=20
+                  =
+color=3D#ff0000>=E4=BD=86=E6=98=AF=E8=AF=B7=E6=B1=82=E6=95=B0=E9=87=8F=E6=
+=98=AF=E6=9C=89=E9=99=90=E5=88=B6=E7=9A=84=EF=BC=8C</FONT><A=20
+                  =
+href=3D"http://blog.dnspod.com/2010/05/api-usage-limit/"><FONT=20
+                  class=3DApple-style-span =
+color=3D#ff0000>=E8=AF=A6=E6=83=85=E7=82=B9=E5=87=BB=E8=BF=99=E9=87=8C</F=
+ONT></A>=E3=80=82</DIV>
+                  <DIV><BR></DIV>
                   =
 <DIV>API=E8=B0=83=E7=94=A8=E7=A4=BA=E4=BE=8B=E8=AF=B7=E7=9C=8B<A=20
                   =
@@ -222,15 +241,30 @@ class=3DApple-style-span>=E6=B3=A8=E6=84=8F=EF=BC=9A</SPAN>=E7=94=A8=E4=BA=
                   <DIV><FONT class=3DApple-style-span=20
                   =
 color=3D#ff0000><B>=E5=BD=93=E5=89=8DAPI=E7=89=88=E6=9C=AC=E5=8F=B7=EF=BC=
-=9A1.5=EF=BC=8C=E6=9C=80=E5=90=8E=E4=BF=AE=E6=94=B9=E4=BA=8E2009-11-26</B=
+=9A1.6=EF=BC=8C=E6=9C=80=E5=90=8E=E4=BF=AE=E6=94=B9=E4=BA=8E2010-08-27</B=
 ></FONT></DIV>
+                  <DIV><FONT class=3DApple-style-span=20
+                  color=3D#ff0000><B><BR></B></FONT></DIV>
+                  <DIV>2010-08-27 =
+=E6=9B=B4=E6=96=B0=EF=BC=9A=E6=96=B0=E5=A2=9E<FONT =
+class=3DApple-style-span=20
+                  =
+color=3D#ff0000>=E5=9F=9F=E5=90=8D=E5=88=97=E8=A1=A8</FONT>=E8=BF=94=E5=9B=
+=9E=E5=88=86=E9=A1=B5=EF=BC=8C<FONT class=3DApple-style-span=20
+                  =
+color=3D#ff0000>=E8=AE=B0=E5=BD=95=E5=88=97=E8=A1=A8</FONT>=E8=BF=94=E5=9B=
+=9E=E5=88=86=E9=A1=B5</DIV>
+                  <DIV><BR></DIV>
                   <H2>=E6=96=B9=E6=B3=95=E5=88=97=E8=A1=A8<BR></H2>
                   <DIV><BR></DIV>
                   <DIV>
                   <H3>=3D=3D =
 =E8=8E=B7=E5=8F=96API=E7=89=88=E6=9C=AC=E5=8F=B7<BR></H3>
                   <DIV><BR></DIV>
-                  <DIV>URL: /API/Info.Version</DIV>
+                  <DIV>URL: <A =
+href=3D"https://www.dnspod.com/API/Info.Version"=20
+                  =
+target=3D_blank>https://www.dnspod.com/API/Info.Version</A></DIV>
                   <DIV>=E6=96=B9=E6=B3=95: POST</DIV>
                   <DIV>=E5=8F=82=E6=95=B0:</DIV>
                   <DIV>&nbsp;login_email - =
@@ -285,7 +319,10 @@ encoding=3D"UTF-8"?&gt;</ADDRESS>
                   <H3>=3D=3D =
 =E6=B7=BB=E5=8A=A0=E6=96=B0=E5=9F=9F=E5=90=8D<BR></H3>
                   <DIV><BR></DIV>
-                  <DIV>URL: /API/Domain.Create</DIV>
+                  <DIV>URL: <A =
+href=3D"https://www.dnspod.com/API/Domain.Create"=20
+                  =
+target=3D_blank>https://www.dnspod.com/API/Domain.Create</A></DIV>
                   <DIV>=E6=96=B9=E6=B3=95: POST</DIV>
                   <DIV>=E5=8F=82=E6=95=B0:</DIV>
                   <DIV>&nbsp;login_email - =
@@ -370,7 +407,10 @@ success.",</SPAN></DIV>
                   <DIV><BR></DIV>
                   <H3>=3D=3D =
 =E8=8E=B7=E5=8F=96=E5=9F=9F=E5=90=8D=E5=88=97=E8=A1=A8<BR></H3>
-                  <DIV>URL: /API/Domain.List</DIV>
+                  <DIV>URL: <A =
+href=3D"https://www.dnspod.com/API/Domain.List"=20
+                  =
+target=3D_blank>https://www.dnspod.com/API/Domain.List</A></DIV>
                   <DIV>=E6=96=B9=E6=B3=95: POST</DIV>
                   <DIV>=E5=8F=82=E6=95=B0:</DIV>
                   <DIV>&nbsp;login_email - =
@@ -385,7 +425,26 @@ success.",</SPAN></DIV>
 SPAN=20
                   style=3D"COLOR: =
 rgb(255,0,0)">Free=EF=BC=8CExpress=EF=BC=8CExtra=EF=BC=8CUltra</SPAN>=E5=9B=
-=9B=E7=B1=BB<BR></DIV>
+=9B=E7=B1=BB</DIV>
+                  <DIV><FONT class=3DApple-style-span =
+color=3D#ff0000>&nbsp;offset -=20
+                  =
+=E8=AE=B0=E5=BD=95=E5=BC=80=E5=A7=8B=E7=9A=84=E5=81=8F=E7=A7=BB=EF=BC=8C=E7=
+=AC=AC=E4=B8=80=E6=9D=A1=E8=AE=B0=E5=BD=95=E4=B8=BA =
+0=EF=BC=8C=E4=BE=9D=E6=AC=A1=E7=B1=BB=E6=8E=A8</FONT></DIV>
+                  <DIV><FONT class=3DApple-style-span =
+color=3D#ff0000>&nbsp;length -=20
+                  =
+=E5=85=B1=E8=A6=81=E8=8E=B7=E5=8F=96=E7=9A=84=E8=AE=B0=E5=BD=95=E7=9A=84=E6=
+=95=B0=E9=87=8F=EF=BC=8C=E6=AF=94=E5=A6=82=E8=8E=B7=E5=8F=9620=E6=9D=A1=EF=
+=BC=8C=E5=88=99=E4=B8=BA20</FONT></DIV>
+                  <DIV><FONT class=3DApple-style-span=20
+                  =
+color=3D#ff0000>&nbsp;=E4=BB=A5=E4=B8=8A=E4=B8=A4=E4=B8=AA=E5=8F=82=E6=95=
+=B0=E7=94=A8=E4=BA=8E=E5=88=86=E9=A1=B5=E8=AF=B7=E6=B1=82=E5=88=97=E8=A1=A8=
+=EF=BC=8C=E6=AF=94=E5=A6=8220=E6=9D=A1=E8=AE=B0=E5=BD=95=E4=B8=80=E9=A1=B5=
+=EF=BC=8C=E8=A6=81=E5=8F=96=E7=AC=AC=E4=BA=8C=E9=A1=B5=EF=BC=8C=E5=88=99=E8=
+=AF=B7=E6=B1=82&nbsp;offset=3D20=EF=BC=8Clength=3D20</FONT></DIV>
                   <DIV>=E5=93=8D=E5=BA=94=E4=BB=A3=E7=A0=81:</DIV>
                   <DIV>&nbsp;-1 =
 =E7=99=BB=E9=99=86=E5=A4=B1=E8=B4=A5</DIV>
@@ -422,6 +481,17 @@ class=3DApple-style-span>&nbsp;&nbsp;&lt;created_at&gt;2008-11-26=20
                   <DIV><SPAN style=3D"FONT-STYLE: italic"=20
                   =
 class=3DApple-style-span>&nbsp;&lt;/status&gt;</SPAN></DIV>
+                  <DIV><SPAN style=3D"FONT-STYLE: italic" =
+class=3DApple-style-span>
+                  <DIV><FONT class=3DApple-style-span=20
+                  color=3D#ff0000>&nbsp;&lt;info&gt;</FONT></DIV>
+                  <DIV><FONT class=3DApple-style-span=20
+                  =
+color=3D#ff0000>&nbsp;&nbsp;&lt;domain_total&gt;5&lt;/domain_total&gt;</F=
+ONT></DIV>
+                  <DIV><FONT class=3DApple-style-span=20
+                  =
+color=3D#ff0000>&nbsp;&lt;/info&gt;</FONT></DIV></SPAN></DIV>
                   <DIV><SPAN style=3D"FONT-STYLE: italic"=20
                   =
 class=3DApple-style-span>&nbsp;&lt;domains&gt;</SPAN></DIV>
@@ -490,6 +560,24 @@ success.",</SPAN></DIV>
                   <DIV><SPAN style=3D"FONT-STYLE: italic"=20
                   class=3DApple-style-span>&nbsp;&nbsp; =
 &nbsp;},</SPAN></DIV>
+                  <DIV><SPAN style=3D"FONT-STYLE: italic"=20
+                  class=3DApple-style-span><FONT =
+class=3DApple-style-span=20
+                  color=3D#ff0000>&nbsp;&nbsp; =
+"info":{</FONT></SPAN></DIV>
+                  <DIV><SPAN style=3D"FONT-STYLE: italic"=20
+                  class=3DApple-style-span><FONT =
+class=3DApple-style-span=20
+                  color=3D#ff0000>&nbsp;&nbsp; &nbsp;=20
+                  &nbsp;"domain_total</FONT></SPAN><SPAN=20
+                  style=3D"FONT-STYLE: italic" =
+class=3DApple-style-span><FONT=20
+                  class=3DApple-style-span =
+color=3D#ff0000>":"5"</FONT></SPAN></DIV>
+                  <DIV><SPAN style=3D"FONT-STYLE: italic"=20
+                  class=3DApple-style-span><FONT =
+class=3DApple-style-span=20
+                  color=3D#ff0000>&nbsp;&nbsp; },</FONT></SPAN></DIV>
                   <DIV><SPAN style=3D"FONT-STYLE: italic"=20
                   class=3DApple-style-span>&nbsp;&nbsp; &nbsp;"domains": =
 
@@ -566,7 +654,10 @@ nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=20
                   <H3>=3D=3D =
 =E5=88=A0=E9=99=A4=E5=8D=95=E4=B8=AA=E5=9F=9F=E5=90=8D<BR></H3>
                   <DIV><BR></DIV>
-                  <DIV>URL: /API/Domain.Remove</DIV>
+                  <DIV>URL: <A =
+href=3D"https://www.dnspod.com/API/Domain.Remove"=20
+                  =
+target=3D_blank>https://www.dnspod.com/API/Domain.Remove</A></DIV>
                   <DIV>=E6=96=B9=E6=B3=95: POST</DIV>
                   <DIV>=E5=8F=82=E6=95=B0:</DIV>
                   <DIV>&nbsp;login_email - =
@@ -592,6 +683,10 @@ nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=20
 =E5=9F=9F=E5=90=8D=E4=B8=8D=E5=AD=98=E5=9C=A8</DIV>
                   <DIV>&nbsp;6 =
 =E9=9D=9E=E5=9F=9F=E5=90=8D=E6=89=80=E6=9C=89=E8=80=85</DIV>
+                  <DIV>&nbsp;7 =
+=E5=9F=9F=E5=90=8D=E5=B7=B2=E9=94=81=E5=AE=9A</DIV>
+                  <DIV>&nbsp;8 =
+VIP=E5=9F=9F=E5=90=8D=E4=B8=8D=E5=8F=AF=E4=BB=A5=E5=88=A0=E9=99=A4</DIV>
                   =
 <DIV>=E8=BF=94=E5=9B=9E=E6=95=B0=E6=8D=AE=E5=8F=82=E8=80=83:</DIV>
                   <DIV>XML</DIV>
@@ -648,7 +743,10 @@ success.",</SPAN></DIV>
                   <H3>=3D=3D =
 =E8=AE=BE=E7=BD=AE=E5=9F=9F=E5=90=8D=E7=8A=B6=E6=80=81<BR></H3>
                   <DIV><BR></DIV>
-                  <DIV>URL: /API/Domain.Status</DIV>
+                  <DIV>URL: <A =
+href=3D"https://www.dnspod.com/API/Domain.Status"=20
+                  =
+target=3D_blank>https://www.dnspod.com/API/Domain.Status</A></DIV>
                   <DIV>=E6=96=B9=E6=B3=95: POST</DIV>
                   <DIV>=E5=8F=82=E6=95=B0:</DIV>
                   <DIV>&nbsp;login_email - =
@@ -731,7 +829,10 @@ success.",</SPAN></DIV>
                   <H3>=3D=3D =
 =E5=88=9B=E5=BB=BA=E6=96=B0=E8=AE=B0=E5=BD=95<BR></H3>
                   <DIV><BR></DIV>
-                  <DIV>URL: /API/Record.Create</DIV>
+                  <DIV>URL: <A =
+href=3D"https://www.dnspod.com/API/Record.Create"=20
+                  =
+target=3D_blank>https://www.dnspod.com/API/Record.Create</A></DIV>
                   <DIV>=E6=96=B9=E6=B3=95: POST</DIV>
                   <DIV>=E5=8F=82=E6=95=B0:</DIV>
                   <DIV>&nbsp;login_email - =
@@ -745,9 +846,10 @@ success.",</SPAN></DIV>
 12345</DIV>
                   <DIV>&nbsp;sub_domain - =
 =E4=B8=BB=E6=9C=BA=E8=AE=B0=E5=BD=95, =E5=A6=82 www</DIV>
-                  <DIV>&nbsp;record_type=20
-                  {'A','CNAME','MX','URL','NS','TXT','AAAA'} - =
-=E8=AE=B0=E5=BD=95=E7=B1=BB=E5=9E=8B</DIV>
+                  <DIV>&nbsp;record_type {'A','<SPAN=20
+                  =
+highlight=3D"Search">CNAME</SPAN>','MX','URL','NS','TXT','AAAA'}=20
+                  - =E8=AE=B0=E5=BD=95=E7=B1=BB=E5=9E=8B</DIV>
                   <DIV>&nbsp;record_line {'default', 'tel', 'cnc', =
 'edu', '<SPAN=20
                   style=3D"COLOR: rgb(255,0,0)">cmc</SPAN>', '<SPAN=20
@@ -761,8 +863,10 @@ success.",</SPAN></DIV>
 bold">=EF=BC=88=E7=BA=A2=E5=AD=97=E4=BB=85=E5=AF=B9VIP=E6=9C=89=E6=95=88=EF=
 =BC=89</SPAN><BR></DIV>
                   <DIV>&nbsp;value - =E8=AE=B0=E5=BD=95=E5=80=BC, =
-=E5=A6=82 IP:200.200.200.200, CNAME:=20
-                  cname.dnspod.com., MX: mail.dnspod.com.</DIV>
+=E5=A6=82 IP:200.200.200.200, <SPAN=20
+                  highlight=3D"Search">CNAME</SPAN>: cname.dnspod.com., =
+MX:=20
+                  mail.dnspod.com.</DIV>
                   <DIV>&nbsp;mx {1-20} - MX=E4=BC=98=E5=85=88=E7=BA=A7, =
 =E5=BD=93=E8=AE=B0=E5=BD=95=E7=B1=BB=E5=9E=8B=E6=98=AF MX =
 =E6=97=B6=E6=9C=89=E6=95=88=EF=BC=8C=E8=8C=83=E5=9B=B41-20</DIV>
@@ -797,8 +901,9 @@ TTL=EF=BC=8C=E8=8C=83=E5=9B=B41-604800</DIV>
                   <DIV>&nbsp;12 MX =E5=BF=85=E9=A1=BB=E5=A4=A7=E4=BA=8E =
 1</DIV>
                   <DIV>&nbsp;12 =
-=E8=AE=B0=E5=BD=95=E9=87=8D=E5=A4=8D=E6=88=96=E8=80=85=E5=92=8C CNAME =
-=E8=AE=B0=E5=BD=95=E5=86=B2=E7=AA=81</DIV>
+=E8=AE=B0=E5=BD=95=E9=87=8D=E5=A4=8D=E6=88=96=E8=80=85=E5=92=8C <SPAN =
+highlight=3D"Search">CNAME</SPAN>=20
+                  =E8=AE=B0=E5=BD=95=E5=86=B2=E7=AA=81</DIV>
                   =
 <DIV>=E8=BF=94=E5=9B=9E=E6=95=B0=E6=8D=AE=E5=8F=82=E8=80=83:</DIV>
                   <DIV>XML</DIV>
@@ -881,7 +986,10 @@ success",</SPAN></DIV>
                   <H3>=3D=3D =
 =E8=8E=B7=E5=8F=96=E8=AE=B0=E5=BD=95=E5=88=97=E8=A1=A8<BR></H3>
                   <DIV><BR></DIV>
-                  <DIV>URL: /API/Record.List</DIV>
+                  <DIV>URL: <A =
+href=3D"https://www.dnspod.com/API/Record.List"=20
+                  =
+target=3D_blank>https://www.dnspod.com/API/Record.List</A></DIV>
                   <DIV>=E6=96=B9=E6=B3=95: POST</DIV>
                   <DIV>=E5=8F=82=E6=95=B0:</DIV>
                   <DIV>&nbsp;login_email - =
@@ -893,6 +1001,26 @@ success",</SPAN></DIV>
 =94=AF=E6=8C=81json=E5=92=8Cxml.</DIV>
                   <DIV>&nbsp;domain_id - =E5=9F=9F=E5=90=8DID, =E5=A6=82 =
 12345</DIV>
+                  <DIV>
+                  <DIV><FONT class=3DApple-style-span =
+color=3D#ff0000>&nbsp;offset -=20
+                  =
+=E8=AE=B0=E5=BD=95=E5=BC=80=E5=A7=8B=E7=9A=84=E5=81=8F=E7=A7=BB=EF=BC=8C=E7=
+=AC=AC=E4=B8=80=E6=9D=A1=E8=AE=B0=E5=BD=95=E4=B8=BA =
+0=EF=BC=8C=E4=BE=9D=E6=AC=A1=E7=B1=BB=E6=8E=A8</FONT></DIV>
+                  <DIV><FONT class=3DApple-style-span =
+color=3D#ff0000>&nbsp;length -=20
+                  =
+=E5=85=B1=E8=A6=81=E8=8E=B7=E5=8F=96=E7=9A=84=E8=AE=B0=E5=BD=95=E7=9A=84=E6=
+=95=B0=E9=87=8F=EF=BC=8C=E6=AF=94=E5=A6=82=E8=8E=B7=E5=8F=9620=E6=9D=A1=EF=
+=BC=8C=E5=88=99=E4=B8=BA20</FONT></DIV>
+                  <DIV><FONT class=3DApple-style-span=20
+                  =
+color=3D#ff0000>&nbsp;=E4=BB=A5=E4=B8=8A=E4=B8=A4=E4=B8=AA=E5=8F=82=E6=95=
+=B0=E7=94=A8=E4=BA=8E=E5=88=86=E9=A1=B5=E8=AF=B7=E6=B1=82=E5=88=97=E8=A1=A8=
+=EF=BC=8C=E6=AF=94=E5=A6=8220=E6=9D=A1=E8=AE=B0=E5=BD=95=E4=B8=80=E9=A1=B5=
+=EF=BC=8C=E8=A6=81=E5=8F=96=E7=AC=AC=E4=BA=8C=E9=A1=B5=EF=BC=8C=E5=88=99=E8=
+=AF=B7=E6=B1=82&nbsp;offset=3D20=EF=BC=8Clength=3D20</FONT></DIV></DIV>
                   <DIV>=E5=93=8D=E5=BA=94=E4=BB=A3=E7=A0=81:</DIV>
                   <DIV>&nbsp;-1 =
 =E7=99=BB=E9=99=86=E5=A4=B1=E8=B4=A5</DIV>
@@ -935,6 +1063,17 @@ class=3DApple-style-span>&nbsp;&nbsp;&lt;created_at&gt;2008-11-26=20
                   <DIV><SPAN style=3D"FONT-STYLE: italic"=20
                   =
 class=3DApple-style-span>&nbsp;&lt;/status&gt;</SPAN></DIV>
+                  <DIV><SPAN style=3D"FONT-STYLE: italic" =
+class=3DApple-style-span>
+                  <DIV><FONT class=3DApple-style-span=20
+                  color=3D#ff0000>&nbsp;&lt;info&gt;</FONT></DIV>
+                  <DIV><FONT class=3DApple-style-span=20
+                  =
+color=3D#ff0000>&nbsp;&nbsp;&lt;record_total&gt;5&lt;/record_total&gt;</F=
+ONT></DIV>
+                  <DIV><FONT class=3DApple-style-span=20
+                  =
+color=3D#ff0000>&nbsp;&lt;/info&gt;</FONT></DIV></SPAN></DIV>
                   <DIV><SPAN style=3D"FONT-STYLE: italic"=20
                   =
 class=3DApple-style-span>&nbsp;&lt;records&gt;</SPAN></DIV>
@@ -948,11 +1087,24 @@ class=3DApple-style-span>&nbsp;&nbsp;&lt;record&gt;</SPAN></DIV>
                   class=3DApple-style-span>&nbsp;&nbsp;=20
                   &lt;name&gt;test&lt;/name&gt;</SPAN></DIV>
                   <DIV><SPAN style=3D"FONT-STYLE: italic"=20
-                  class=3DApple-style-span>&nbsp;&nbsp;=20
-                  &lt;line&gt;CNAME&lt;/line&gt;</SPAN></DIV>
+                  class=3DApple-style-span>&nbsp;&nbsp; =
+&lt;line&gt;<SPAN=20
+                  highlight=3D"Search"></SPAN></SPAN><SPAN=20
+                  style=3D"FONT-STYLE: italic"=20
+                  class=3DApple-style-span>tel</SPAN><SPAN=20
+                  style=3D"FONT-STYLE: italic" =
+class=3DApple-style-span><SPAN=20
+                  highlight=3D"Search"></SPAN></SPAN><SPAN=20
+                  style=3D"FONT-STYLE: italic"=20
+                  class=3DApple-style-span>&lt;/line&gt;</SPAN></DIV>
                   <DIV><SPAN style=3D"FONT-STYLE: italic"=20
-                  class=3DApple-style-span>&nbsp;&nbsp;=20
-                  &lt;type&gt;tel&lt;/type&gt;</SPAN></DIV>
+                  class=3DApple-style-span>&nbsp;&nbsp; =
+&lt;type&gt;</SPAN><SPAN=20
+                  style=3D"FONT-STYLE: italic" =
+class=3DApple-style-span><SPAN=20
+                  highlight=3D"Search">CNAME</SPAN></SPAN><SPAN=20
+                  style=3D"FONT-STYLE: italic"=20
+                  class=3DApple-style-span>&lt;/type&gt;</SPAN></DIV>
                   <DIV><SPAN style=3D"FONT-STYLE: italic"=20
                   class=3DApple-style-span>&nbsp;&nbsp;=20
                   &lt;ttl&gt;3600&lt;/ttl&gt;</SPAN></DIV>
@@ -1032,6 +1184,28 @@ success.",</SPAN></DIV>
                   <DIV><SPAN style=3D"FONT-STYLE: italic"=20
                   class=3DApple-style-span>&nbsp;&nbsp; =
 &nbsp;},</SPAN></DIV>
+                  <DIV><SPAN style=3D"FONT-STYLE: italic" =
+class=3DApple-style-span>
+                  <DIV style=3D"FONT-STYLE: normal"><SPAN=20
+                  style=3D"FONT-STYLE: italic" =
+class=3DApple-style-span><FONT=20
+                  class=3DApple-style-span color=3D#ff0000>&nbsp;&nbsp;=20
+                  "info":{</FONT></SPAN></DIV>
+                  <DIV style=3D"FONT-STYLE: normal"><SPAN=20
+                  style=3D"FONT-STYLE: italic" =
+class=3DApple-style-span><FONT=20
+                  class=3DApple-style-span color=3D#ff0000>&nbsp;&nbsp; =
+&nbsp;=20
+                  &nbsp;"record_total</FONT></SPAN><SPAN=20
+                  style=3D"FONT-STYLE: italic" =
+class=3DApple-style-span><FONT=20
+                  class=3DApple-style-span =
+color=3D#ff0000>":"5"</FONT></SPAN></DIV>
+                  <DIV style=3D"FONT-STYLE: normal"><SPAN=20
+                  style=3D"FONT-STYLE: italic" =
+class=3DApple-style-span><FONT=20
+                  class=3DApple-style-span color=3D#ff0000>&nbsp;&nbsp;=20
+                  },</FONT></SPAN></DIV></SPAN></DIV>
                   <DIV><SPAN style=3D"FONT-STYLE: italic"=20
                   class=3DApple-style-span>&nbsp;&nbsp; &nbsp;"records": =
 
@@ -1060,8 +1234,8 @@ success.",</SPAN></DIV>
                   <DIV><SPAN style=3D"FONT-STYLE: italic"=20
                   class=3DApple-style-span>&nbsp;&nbsp; &nbsp; &nbsp; =
 &nbsp;=20
-                  &nbsp; &nbsp; &nbsp; &nbsp;"type": =
-"CNAME",</SPAN></DIV>
+                  &nbsp; &nbsp; &nbsp; &nbsp;"type": "<SPAN=20
+                  highlight=3D"Search">CNAME</SPAN>",</SPAN></DIV>
                   <DIV><SPAN style=3D"FONT-STYLE: italic"=20
                   class=3DApple-style-span>&nbsp;&nbsp; &nbsp; &nbsp; =
 &nbsp;=20
@@ -1153,7 +1327,10 @@ success.",</SPAN></DIV>
                   <H3>=3D=3D =
 =E4=BF=AE=E6=94=B9=E8=AE=B0=E5=BD=95<BR></H3>
                   <DIV><BR></DIV>
-                  <DIV>URL: /API/Record.Modify</DIV>
+                  <DIV>URL: <A =
+href=3D"https://www.dnspod.com/API/Record.Modify"=20
+                  =
+target=3D_blank>https://www.dnspod.com/API/Record.Modify</A></DIV>
                   <DIV>=E6=96=B9=E6=B3=95: POST</DIV>
                   <DIV>=E5=8F=82=E6=95=B0:</DIV>
                   <DIV>&nbsp;login_email - =
@@ -1169,9 +1346,10 @@ success.",</SPAN></DIV>
 1234567</DIV>
                   <DIV>&nbsp;sub_domain - =
 =E4=B8=BB=E6=9C=BA=E8=AE=B0=E5=BD=95, =E5=A6=82 www</DIV>
-                  <DIV>&nbsp;record_type=20
-                  {'A','CNAME','MX','URL','NS','TXT','AAAA'} - =
-=E8=AE=B0=E5=BD=95=E7=B1=BB=E5=9E=8B</DIV>
+                  <DIV>&nbsp;record_type {'A','<SPAN=20
+                  =
+highlight=3D"Search">CNAME</SPAN>','MX','URL','NS','TXT','AAAA'}=20
+                  - =E8=AE=B0=E5=BD=95=E7=B1=BB=E5=9E=8B</DIV>
                   <DIV>&nbsp;record_line {'default', 'tel', 'cnc', =
 'edu', '<SPAN=20
                   style=3D"COLOR: rgb(255,0,0)">cmc</SPAN>', '<SPAN=20
@@ -1185,8 +1363,10 @@ success.",</SPAN></DIV>
 bold">=EF=BC=88=E7=BA=A2=E5=AD=97=E4=BB=85=E5=AF=B9VIP=E6=9C=89=E6=95=88=EF=
 =BC=89</SPAN></DIV>
                   <DIV>&nbsp;value - =E8=AE=B0=E5=BD=95=E5=80=BC, =
-=E5=A6=82 IP:200.200.200.200, CNAME:=20
-                  cname.dnspod.com., MX: mail.dnspod.com.</DIV>
+=E5=A6=82 IP:200.200.200.200, <SPAN=20
+                  highlight=3D"Search">CNAME</SPAN>: cname.dnspod.com., =
+MX:=20
+                  mail.dnspod.com.</DIV>
                   <DIV>&nbsp;mx {1-20} - MX=E4=BC=98=E5=85=88=E7=BA=A7, =
 =E5=BD=93=E8=AE=B0=E5=BD=95=E7=B1=BB=E5=9E=8B=E6=98=AF MX =
 =E6=97=B6=E6=9C=89=E6=95=88=EF=BC=8C=E8=8C=83=E5=9B=B41-20</DIV>
@@ -1221,8 +1401,9 @@ TTL=EF=BC=8C=E8=8C=83=E5=9B=B41-604800</DIV>
                   <DIV>&nbsp;12 MX =E5=BF=85=E9=A1=BB=E5=A4=A7=E4=BA=8E =
 1</DIV>
                   <DIV>&nbsp;12 =
-=E8=AE=B0=E5=BD=95=E9=87=8D=E5=A4=8D=E6=88=96=E8=80=85=E5=92=8C CNAME =
-=E8=AE=B0=E5=BD=95=E5=86=B2=E7=AA=81</DIV>
+=E8=AE=B0=E5=BD=95=E9=87=8D=E5=A4=8D=E6=88=96=E8=80=85=E5=92=8C <SPAN =
+highlight=3D"Search">CNAME</SPAN>=20
+                  =E8=AE=B0=E5=BD=95=E5=86=B2=E7=AA=81</DIV>
                   =
 <DIV>=E8=BF=94=E5=9B=9E=E6=95=B0=E6=8D=AE=E5=8F=82=E8=80=83:</DIV>
                   <DIV>XML</DIV>
@@ -1306,7 +1487,10 @@ success",</SPAN></DIV>
                   <H3>=3D=3D =
 =E5=88=A0=E9=99=A4=E8=AE=B0=E5=BD=95<BR></H3>
                   <DIV><BR></DIV>
-                  <DIV>URL: /API/Record.Remove</DIV>
+                  <DIV>URL: <A =
+href=3D"https://www.dnspod.com/API/Record.Remove"=20
+                  =
+target=3D_blank>https://www.dnspod.com/API/Record.Remove</A></DIV>
                   <DIV>=E6=96=B9=E6=B3=95: POST</DIV>
                   <DIV>=E5=8F=82=E6=95=B0:</DIV>
                   <DIV>&nbsp;login_email - =
@@ -1393,7 +1577,10 @@ class=3DApple-style-span>&nbsp;&lt;/status&gt;</SPAN></DIV>
                   <H3>=3D=3D =
 =E8=AE=BE=E7=BD=AE=E8=AE=B0=E5=BD=95=E7=8A=B6=E6=80=81<BR></H3>
                   <DIV><BR></DIV>
-                  <DIV>URL: /API/Record.Status</DIV>
+                  <DIV>URL: <A =
+href=3D"https://www.dnspod.com/API/Record.Status"=20
+                  =
+target=3D_blank>https://www.dnspod.com/API/Record.Status</A></DIV>
                   <DIV>=E6=96=B9=E6=B3=95: POST</DIV>
                   <DIV>=E5=8F=82=E6=95=B0:</DIV>
                   <DIV>&nbsp;login_email - =
@@ -1556,874 +1743,2093 @@ align=3Dleft><IMG=20
 src=3D"http://support.dnspod.com/themes/client_default/star_3.gif"></TD><=
 /TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE><=
 /FIELDSET>=20
-                  <BR>
-                  <FORM id=3Dcommentform method=3Dpost =
-name=3Dcommentform action=3D"">
-                  <TABLE border=3D0 cellSpacing=3D0 cellPadding=3D0 =
-width=3D"100%">
-                    <TBODY>
-                    <TR>
-                      <TD>
-                        <DIV class=3Dtabletitle>
-                        <TABLE border=3D0 cellSpacing=3D0 =
-cellPadding=3D0=20
-width=3D"100%">
-                          <TBODY>
-                          <TR class=3Dsmalltext>
-                            <TD width=3D1 align=3Dleft><IMG border=3D0=20
-                              =
-src=3D"http://support.dnspod.com/themes/client_default/icon_comment.gif">=
-</TD>
-                            <TD align=3Dleft>&nbsp;<A=20
-                              =
-onclick=3D"javascript:switchDisplay('comments');"=20
-                              =
-href=3D"http://support.dnspod.com/index.php?_m=3Dknowledgebase&amp;_a=3Dv=
-iewarticle&amp;kbarticleid=3D43&amp;nav=3D0#">=E7=94=A8=E6=88=B7=E8=AF=84=
-=E8=AE=BA</A></TD>
-                            <TD width=3D"30%" align=3Dright><A =
-id=3Dmoduletitle=20
-                              =
-onclick=3D"javascript:switchDisplay('comments');"=20
-                              =
-href=3D"http://support.dnspod.com/index.php?_m=3Dknowledgebase&amp;_a=3Dv=
-iewarticle&amp;kbarticleid=3D43&amp;nav=3D0#">=E6=B7=BB=E5=8A=A0=E8=AF=84=
-=E8=AE=BA</A></TD></TR></TBODY></TABLE></DIV></TD></TR>
-                    <TR>
-                      <TD>
-                        <DIV id=3Dcommentdata><SPAN class=3Dsmalltext>
-                        <DIV =
-class=3Dcommentrow1>=E5=8F=91=E8=A1=A8=E4=BA=BA:Hua Tao =
-(avbsr5585@gmail.com)=20
-                        On: 2008-11-30 3:02 PM=20
-                        <HR class=3Dcommenthr>
-                        =
+                  <BR><!--              <form id=3D"commentform" =
+name=3D"commentform" method=3D"post" action=3D"">
+				<table width=3D"100%"  border=3D"0" cellspacing=3D"0" =
+cellpadding=3D"0">
+                    <tr>
+                      <td><div class=3D"tabletitle">
+							<table width=3D"100%"  border=3D"0" cellspacing=3D"0" =
+cellpadding=3D"0"><tr class=3D"smalltext"><td align=3D"left" =
+width=3D"1"><img =
+src=3D"http://support.dnspod.com/themes/client_default/icon_comment.gif" =
+border=3D"0" /></td><td align=3D"left">&nbsp;<a href=3D"#" =
+onClick=3D"javascript:switchDisplay('comments');">=E7=94=A8=E6=88=B7=E8=AF=
+=84=E8=AE=BA</a></td> <td align=3D"right" width=3D"30%"><a href=3D"#" =
+onClick=3D"javascript:switchDisplay('comments');" =
+id=3D"moduletitle">=E6=B7=BB=E5=8A=A0=E8=AF=84=E8=AE=BA</a></td></tr></ta=
+ble>
+							</div></td>
+                    </tr>
+					<tr><td><div id=3D"commentdata"><span class=3D"smalltext">
+															<div class=3D"commentrow1">
+					 =E5=8F=91=E8=A1=A8=E4=BA=BA:Hua Tao (avbsr5585@gmail.com) On: =
+2008-11-30 3:02 PM
+					<HR class=3D"commenthr">
+					=
 =E8=80=81=E5=A4=A7=EF=BC=8C=E7=BB=99=E4=B8=AA=E7=A4=BA=E4=BE=8B=E5=90=A7=E3=
 =80=82=E6=88=91=E7=94=A8=E4=B8=8B=E9=9D=A2=E7=9A=84URL=E5=9C=A8=E5=9C=B0=E5=
 =9D=80=E6=A0=8F=E6=89=A7=E8=A1=8C=EF=BC=8C=E6=8F=90=E7=A4=BA=E5=8F=AA=E6=8E=
-=A5=E5=8F=97post=E6=96=B9=E5=BC=8F=EF=BC=9A<BR><BR>http://www.dnspod.com/=
-API/Domain.Create?login_email=3D****&amp;login_password=3D****&amp;format=
-=3Dxml&amp;domain=3Dmydomain.com<BR><BR>---------------------------------=
--------------------------------<BR>DNSPod=20
-                        =E5=B7=A5=E7=A8=8B=E5=B8=88 =
-=E6=9D=8E=E9=99=A2=E9=95=BF=20
-                        =
-=E5=9B=9E=E5=A4=8D=EF=BC=9A<BR><BR>=E8=AF=B7=E7=94=A8post=E7=9A=84=E6=96=B9=
-=E6=B3=95=EF=BC=8C=E8=80=8C=E4=B8=8D=E6=98=AF=E7=9B=B4=E6=8E=A5=E8=BE=93=E5=
-=85=A5=E7=BD=91=E5=9D=80=E7=9A=84=E5=BD=A2=E5=BC=8F=E3=80=82<BR><BR>=E5=B7=
-=B2=E7=BB=8F=E6=8F=90=E4=BE=9B=E7=A4=BA=E4=BE=8B=E3=80=82=20
-                        <HR class=3Dcommenthr>
-                        </DIV>
-                        <DIV =
-class=3Dcommentrow0>=E5=8F=91=E8=A1=A8=E4=BA=BA:=E9=92=B1=E7=BB=B4=E9=87=8F=
- (kellen.qian@gmail.com)=20
-                        On: 2009-03-18 1:04 PM=20
-                        <HR class=3Dcommenthr>
-                        =
+=A5=E5=8F=97post=E6=96=B9=E5=BC=8F=EF=BC=9A<br />
+<br />
+http://www.dnspod.com/API/Domain.Create?login_email=3D****&amp;login_pass=
+word=3D****&amp;format=3Dxml&amp;domain=3Dmydomain.com<br />
+<br />
+----------------------------------------------------------------<br />
+DNSPod =E5=B7=A5=E7=A8=8B=E5=B8=88 =E6=9D=8E=E9=99=A2=E9=95=BF =
+=E5=9B=9E=E5=A4=8D=EF=BC=9A<br />
+<br />
+=E8=AF=B7=E7=94=A8post=E7=9A=84=E6=96=B9=E6=B3=95=EF=BC=8C=E8=80=8C=E4=B8=
+=8D=E6=98=AF=E7=9B=B4=E6=8E=A5=E8=BE=93=E5=85=A5=E7=BD=91=E5=9D=80=E7=9A=84=
+=E5=BD=A2=E5=BC=8F=E3=80=82<br />
+<br />
+=E5=B7=B2=E7=BB=8F=E6=8F=90=E4=BE=9B=E7=A4=BA=E4=BE=8B=E3=80=82
+					<HR class=3D"commenthr">
+					</div>
+										<div class=3D"commentrow0">
+					 =E5=8F=91=E8=A1=A8=E4=BA=BA:=E9=92=B1=E7=BB=B4=E9=87=8F =
+(kellen.qian@gmail.com) On: 2009-03-18 1:04 PM
+					<HR class=3D"commenthr">
+					=
 =E6=88=91=E5=B0=81=E8=A3=85=E4=BA=86=E4=B8=80=E4=B8=AA=E5=BB=BA=E8=AE=AE=E7=
 =9A=84PHP=E8=AF=AD=E8=A8=80=E7=9A=84DNSPODAPI=E7=B1=BB=EF=BC=8C=E5=8F=91=E4=
-=B8=8A=E6=9D=A5=E7=BB=99=E5=A4=A7=E4=BC=99=E7=94=A8=E5=90=A7=E3=80=82<BR>=
-<BR>&lt;?php<BR>class=20
-                        HTTP {<BR><BR>public $ch;<BR>public =
-$url;<BR>public=20
-                        $param;<BR>public $option;<BR>private=20
-                        $method;<BR><BR>public function =
-__construct($url,=20
-                        $method =3D 'post', $redirect =3D true)=20
-                        {<BR><BR>$this-&gt;url =3D =
-$url;<BR><BR>$this-&gt;ch =3D=20
-                        curl_init ( $this-&gt;url );<BR><BR>if ($method =
-=3D=3D=20
-                        'post') {<BR>curl_setopt ( $this-&gt;ch, =
-CURLOPT_POST,=20
-                        true );<BR>} else {<BR>curl_setopt ( =
-$this-&gt;ch,=20
-                        CURLOPT_HTTPGET, true =
-);<BR>}<BR><BR>$this-&gt;method =3D=20
-                        $method;<BR><BR>curl_setopt ( $this-&gt;ch,=20
-                        CURLOPT_RETURNTRANSFER, true );<BR><BR>if =
-($redirect)=20
-                        {<BR>curl_setopt ( $this-&gt;ch, =
-CURLOPT_FOLLOWLOCATION,=20
-                        true );<BR>}<BR>}<BR><BR>public function=20
-                        setOption($option) {<BR><BR>if (! empty ( =
-$option ))=20
-                        {<BR>$this-&gt;option =3D $option;<BR>} else =
-{<BR>return=20
-                        false;<BR>}<BR><BR>foreach ( $this-&gt;option as =
-$k=20
-                        =3D&gt; $v ) {<BR>curl_setopt ( $this-&gt;ch, =
-$k, $v=20
-                        );<BR>}<BR><BR>return true;<BR>}<BR><BR>public =
-function=20
-                        setParam($param) {<BR>if (! empty ( $param ))=20
-                        {<BR>$this-&gt;param =3D $param;<BR>} else =
-{<BR>return=20
-                        false;<BR>}<BR><BR>foreach ( $param as $k =
-=3D&gt; $v )=20
-                        {<BR>$params [] =3D =
-"$k=3D$v";<BR>}<BR><BR>$this-&gt;param =3D=20
-                        implode ( '&amp;', $params );<BR><BR>if=20
-                        ($this-&gt;method =3D=3D 'post') =
-{<BR>curl_setopt (=20
-                        $this-&gt;ch, CURLOPT_POSTFIELDS, =
-$this-&gt;param=20
-                        );<BR>} else {<BR>curl_setopt ( $this-&gt;ch,=20
-                        CURLOPT_URL, $this-&gt;url . '?' . =
-$this-&gt;param=20
-                        );<BR>}<BR><BR>return true;<BR>}<BR><BR>public =
-function=20
-                        exec() {<BR>return curl_exec ( $this-&gt;ch=20
-                        );<BR>}<BR><BR>public function __destruct()=20
-                        {<BR>curl_close ( $this-&gt;ch =
-);<BR>}<BR>}<BR><BR>class=20
-                        DnspodApi {<BR>private $httpHandler;<BR>private=20
-                        $email;<BR>private $pass;<BR>private $format =3D =
+=B8=8A=E6=9D=A5=E7=BB=99=E5=A4=A7=E4=BC=99=E7=94=A8=E5=90=A7=E3=80=82<br =
+/>
+<br />
+&lt;?php<br />
+class HTTP {<br />
+	<br />
+	public $ch;<br />
+	public $url;<br />
+	public $param;<br />
+	public $option;<br />
+	private $method;<br />
+	<br />
+	public function __construct($url, $method =3D 'post', $redirect =3D =
+true) {<br />
+		<br />
+		$this-&gt;url =3D $url;<br />
+		<br />
+		$this-&gt;ch =3D curl_init ( $this-&gt;url );<br />
+		<br />
+		if ($method =3D=3D 'post') {<br />
+			curl_setopt ( $this-&gt;ch, CURLOPT_POST, true );<br />
+		} else {<br />
+			curl_setopt ( $this-&gt;ch, CURLOPT_HTTPGET, true );<br />
+		}<br />
+		<br />
+		$this-&gt;method =3D $method;<br />
+		<br />
+		curl_setopt ( $this-&gt;ch, CURLOPT_RETURNTRANSFER, true );<br />
+		<br />
+		if ($redirect) {<br />
+			curl_setopt ( $this-&gt;ch, CURLOPT_FOLLOWLOCATION, true );<br />
+		}<br />
+	}<br />
+	<br />
+	public function setOption($option) {<br />
+		<br />
+		if (! empty ( $option )) {<br />
+			$this-&gt;option =3D $option;<br />
+		} else {<br />
+			return false;<br />
+		}<br />
+		<br />
+		foreach ( $this-&gt;option as $k =3D&gt; $v ) {<br />
+			curl_setopt ( $this-&gt;ch, $k, $v );<br />
+		}<br />
+		<br />
+		return true;<br />
+	}<br />
+	<br />
+	public function setParam($param) {<br />
+		if (! empty ( $param )) {<br />
+			$this-&gt;param =3D $param;<br />
+		} else {<br />
+			return false;<br />
+		}<br />
+		<br />
+		foreach ( $param as $k =3D&gt; $v ) {<br />
+			$params [] =3D &quot;$k=3D$v&quot;;<br />
+		}<br />
+		<br />
+		$this-&gt;param =3D implode ( '&amp;', $params );<br />
+		<br />
+		if ($this-&gt;method =3D=3D 'post') {<br />
+			curl_setopt ( $this-&gt;ch, CURLOPT_POSTFIELDS, $this-&gt;param );<br =
+/>
+		} else {<br />
+			curl_setopt ( $this-&gt;ch, CURLOPT_URL, $this-&gt;url . '?' . =
+$this-&gt;param );<br />
+		}<br />
+		<br />
+		return true;<br />
+	}<br />
+	<br />
+	public function exec() {<br />
+		return curl_exec ( $this-&gt;ch );<br />
+	}<br />
+	<br />
+	public function __destruct() {<br />
+		curl_close ( $this-&gt;ch );<br />
+	}<br />
+}<br />
+<br />
+class DnspodApi {<br />
+	private $httpHandler;<br />
+	private $email;<br />
+	private $pass;<br />
+	private $format =3D 'json';<br />
+	<br />
+	private $error =3D array();<br />
+	<br />
+	public function __construct($email, $pass) {<br />
+		if (! $email || ! $pass) {<br />
+			exit ( 'no email or pass' );<br />
+		}<br />
+		$this-&gt;email =3D $email;<br />
+		$this-&gt;pass =3D $pass;<br />
+		$this-&gt;httpHandler =3D new HTTP ( 'http://www.dnspod.com/API/' =
+);<br />
+	}<br />
+	<br />
+	public function createDomain($domain){<br />
+		$this-&gt;setAction('Domain.Create');<br />
+		$params['domain'] =3D $domain;<br />
+		return $this-&gt;exec($params);<br />
+	}<br />
+	<br />
+	public function removeDomain($domainId){<br />
+		$this-&gt;setAction('Domain.Remove');<br />
+		$params['domain_id'] =3D $domainId;<br />
+		return $this-&gt;exec($params);<br />
+	}<br />
+	<br />
+	public function setDomainStatus($domainId,$enable =3D true){<br />
+		$this-&gt;setAction('Domain.Status');<br />
+		$params['domain_id'] =3D $domainId;<br />
+		<br />
+		$status =3D $enable ? 'enable' : 'disable';<br />
+		$params['status'] =3D $status;<br />
+		<br />
+		return $this-&gt;exec($params);<br />
+	}<br />
+	<br />
+	public function getDomainList() {<br />
+		$this-&gt;setAction('Domain.List');<br />
+		return $this-&gt;exec();<br />
+	}<br />
+	<br />
+	public function getRecordList($domainId){<br />
+		$this-&gt;setAction('Record.List');<br />
+		$params['domain_id'] =3D $domainId;<br />
+		return $this-&gt;exec($params);<br />
+	}<br />
+	<br />
+	public function modifyRecord($params){<br />
+		$this-&gt;setAction('Record.Modify');<br />
+		return $this-&gt;exec($params);<br />
+	}<br />
+	<br />
+	public function removeRecord($domainId,$recordId){<br />
+		$this-&gt;setAction('Record.Remove');<br />
+		$params['domain_id'] =3D $domainId;<br />
+		$params['record_id'] =3D $recordId;<br />
+		<br />
+		return $this-&gt;exec($params);<br />
+	}<br />
+	<br />
+	public function setRecordStatus($domainId,$recordId,$enable =3D =
+true){<br />
+		$this-&gt;setAction('Record.Status');<br />
+		$params['domain_id'] =3D $domainId;<br />
+		$params['record_id'] =3D $recordId;<br />
+		<br />
+		$status =3D $enable ? 'enable' : 'disable';<br />
+		$params['status'] =3D $status;<br />
+		<br />
+		return $this-&gt;exec($params);<br />
+	}<br />
+	<br />
+	private function exec($params =3D ''){<br />
+		$params['login_email'] =3D $this-&gt;email;<br />
+		$params['login_password'] =3D $this-&gt;pass;<br />
+		$params['format'] =3D $this-&gt;format;<br />
+		<br />
+		$this-&gt;httpHandler-&gt;setParam($params);<br />
+		<br />
+		$result =3D $this-&gt;httpHandler-&gt;exec ();<br />
+		<br />
+		$result =3D json_decode ( $result );<br />
+		<br />
+		if ($result-&gt;status-&gt;code !=3D=3D '1') {<br />
+			$this-&gt;error($result);<br />
+			return false;<br />
+		}<br />
+		<br />
+		return $result;<br />
+	}<br />
+	<br />
+	private function setAction($action){<br />
+		$this-&gt;httpHandler-&gt;setOption ( array (CURLOPT_URL =3D&gt; =
+$this-&gt;httpHandler-&gt;url . $action ) );<br />
+	}<br />
+	<br />
+	private function error($result){<br />
+		$this-&gt;error['code'] =3D $result-&gt;status-&gt;code;<br />
+		$this-&gt;error['message'] =3D $result-&gt;status-&gt;message;<br />
+	}<br />
+	<br />
+	public function getError(){<br />
+		return $this-&gt;error;<br />
+	}<br />
+}<br />
+<br />
+$dnspod =3D new dnspodapi ( 'xxxx@gmail.com', 'xxxx' );<br />
+<br />
+print_r($dnspod-&gt;getRecordList (23096));<br />
+<br />
+<br />
+<br />
+print_r($dnspod-&gt;getError());<br />
+<br />
+?&gt;<br />
+<br />
+----------------------------------------------------------------<br />
+DNSPod =E5=B7=A5=E7=A8=8B=E5=B8=88 =E6=9D=8E=E9=99=A2=E9=95=BF =
+=E5=9B=9E=E5=A4=8D=EF=BC=9A<br />
+<br />
+=E8=B0=A2=E8=B0=A2=E6=8F=90=E4=BE=9B=E3=80=82
+					<HR class=3D"commenthr">
+					</div>
+										<div class=3D"commentrow1">
+					 =E5=8F=91=E8=A1=A8=E4=BA=BA:Kevin On: 2009-12-02 12:03 PM
+					<HR class=3D"commenthr">
+					   &lt;line&gt;CNAME&lt;/line&gt;<br />
+   &lt;type&gt;tel&lt;/type&gt;<br />
+<br />
+=E4=B8=8A=E9=9D=A2=E7=9A=84=E7=A4=BA=E4=BE=8B=E5=86=99=E5=8F=8D=E4=BA=86<=
+br />
+<br />
+----------------------------------------------------------------<br />
+DNSPod =E5=B7=A5=E7=A8=8B=E5=B8=88 =E6=9D=8E=E9=99=A2=E9=95=BF =
+=E5=9B=9E=E5=A4=8D=EF=BC=9A<br />
+<br />
+=E8=BF=99=E4=B8=AA=E5=86=99=E5=8F=8D=E4=BA=86=E6=B2=A1=E5=85=B3=E7=B3=BB=E7=
+=9A=84=E3=80=82
+					<HR class=3D"commenthr">
+					</div>
+										<div class=3D"commentrow0">
+					 =E5=8F=91=E8=A1=A8=E4=BA=BA:=E9=BA=BB=E8=99=8E=E5=AD=90 =
+(mahuzi@foxmail.com) On: 2009-12-28 4:17 PM
+					<HR class=3D"commenthr">
+					=
+=E8=A6=81=E6=98=AF=E5=86=8D=E6=8F=90=E4=BE=9B=E4=B8=AA=E5=B1=80=E5=9F=9F=E7=
+=BD=91=E5=86=85=E8=83=BD=E8=8E=B7=E5=8F=96=E5=85=AC=E7=BD=91ip=E7=9A=84=E6=
+=8E=A5=E5=8F=A3=E5=B0=B1=E5=A5=BD=E4=BA=86=EF=BC=8C=E7=9C=81=E7=9A=84=E7=94=
+=A8ip138=E5=8E=BB=E6=AD=A3=E5=88=99=E5=88=86=E6=9E=90=E4=BA=86<br />
+<br />
+----------------------------------------------------------------<br />
+DNSPod =E5=B7=A5=E7=A8=8B=E5=B8=88 =E6=9D=8E=E9=99=A2=E9=95=BF =
+=E5=9B=9E=E5=A4=8D=EF=BC=9A<br />
+<br />
+=E8=AF=95=E8=AF=95=EF=BC=9Ahttps://www.dnspod.com/about/ip
+					<HR class=3D"commenthr">
+					</div>
+										<div class=3D"commentrow1">
+					 =E5=8F=91=E8=A1=A8=E4=BA=BA:=E9=BA=BB=E8=99=8E=E5=AD=90 =
+(mahuzi@foxmail.com) On: 2009-12-28 8:41 PM
+					<HR class=3D"commenthr">
+					=
+=E6=88=91=E4=B9=9F=E6=8F=90=E4=BE=9B=E4=B8=80=E4=B8=AA=E8=87=AA=E5=B7=B1=E5=
+=81=9A=E7=9A=84=E5=BA=94=E7=94=A8,=E5=85=B6=E4=B8=AD=E5=8C=85=E6=8B=AC=E4=
+=B8=80=E4=B8=AA=E5=AF=B9dnspod =
+1.5=E7=89=88=E6=9C=AC=E6=89=80=E6=9C=89api=E6=8E=A5=E5=8F=A3=E7=9A=84=E5=B0=
+=81=E8=A3=85=E7=9A=84=E7=B1=BB=EF=BC=8C=E8=BF=98=E6=9C=89=E4=B8=80=E4=B8=AA=
+linux=E4=B8=8B=E5=91=BD=E4=BB=A4=E8=A1=8C=E6=89=A7=E8=A1=8C=E7=9A=84daemo=
+n=E7=A8=8B=E5=BA=8F=EF=BC=8C600=E7=A7=92=E8=87=AA=E5=8A=A8=E5=90=8C=E6=AD=
+=A5=E8=A7=A3=E6=9E=90=EF=BC=8C=E6=94=AF=E6=8C=81=E5=A4=9A=E4=B8=AA=E5=9F=9F=
+=E5=90=8D=E5=92=8C=E5=A4=9A=E4=B8=AA=E5=AD=90=E5=9F=9F=E5=90=8D=E5=8A=A8=E6=
+=80=81=E8=A7=A3=E6=9E=90<br />
+class=E6=94=AF=E6=8C=81=E5=A4=9A=E5=B9=B3=E5=8F=B0=E4=B8=8B=E8=B0=83=E7=94=
+=A8=E3=80=82=E5=91=BD=E4=BB=A4=E8=A1=8C=E8=84=9A=E6=9C=AC=E5=8F=AA=E6=94=AF=
+=E6=8C=81linux/unix/mac os=E3=80=82<br />
+=E6=BA=90=E7=A0=81=E4=B8=8B=E8=BD=BD=E5=9C=B0=E5=9D=80=EF=BC=9Ahttp://www=
+.banqiaoju.com/ddns.tar.gz<br />
+=E6=BA=90=E7=A0=81=EF=BC=9A<br />
+#!/opt/lampp/bin/php<br />
+&lt;?php<br />
+class dnsAP<br />
+{<br />
+    // {{{ members<br />
+<br />
+    /**<br />
+     * dnspod =E7=94=A8=E6=88=B7=E5=B8=90=E5=8F=B7=E5=90=8D<br />
+     *<br />
+     * @var string<br />
+     */<br />
+    private $user =3D '';<br />
+<br />
+    /**<br />
+     * dnspod =E7=94=A8=E6=88=B7=E5=B8=90=E5=8F=B7=E5=AF=86=E7=A0=81<br =
+/>
+     *<br />
+     * @var string<br />
+     */<br />
+    private $pass =3D '';<br />
+    <br />
+    /**<br />
+     * api=E4=BA=A4=E4=BA=92=E6=95=B0=E6=8D=AE=E6=A0=BC=E5=BC=8F =
+=E8=BF=98=E5=8F=AF=E4=BB=A5=E6=98=AFxml<br />
+     *<br />
+     * @var string<br />
+     */<br />
+    private $data_type =3D 'json';<br />
+    <br />
+    /**<br />
+     * dnspod api =E4=B8=BB=E6=9C=BAurl<br />
+     *<br />
+     * @var string<br />
+     */<br />
+    private $base_url =3D 'http://www.dnspod.com';<br />
+    <br />
+    /**<br />
+     * =E6=9C=AC=E5=BA=94=E7=94=A8=E5=90=8D=E7=A7=B0<br />
+     *<br />
+     * @var string<br />
+     */<br />
+    public $app_name =3D 'DnsAP(Dnspod Api for PHP)';<br />
+    <br />
+    /**<br />
+     * =E6=9C=AC=E5=BA=94=E7=94=A8=E7=89=88=E6=9C=AC<br />
+     *<br />
+     * @var string<br />
+     */<br />
+    public $version =3D '0.1 QQ:738148';<br />
+    <br />
+    /**<br />
+     * =
+=E8=B0=83=E5=BC=8F=E6=A8=A1=E5=BC=8F=EF=BC=8Chttp=E9=80=9A=E8=AE=AF=E5=8D=
+=8F=E8=AE=AE=E7=9A=84=E8=B0=83=E8=AF=95=EF=BC=8Capi=E4=BC=9A=E6=8A=9B=E5=BC=
+=82=E5=B8=B8<br />
+     *<br />
+     * @var boolean<br />
+     */<br />
+    public $debug =3D false;<br />
+<br />
+    // }}} members end<br />
+    // {{{ functions <br />
+<br />
+    // {{{ function __construct()<br />
+<br />
+    /**<br />
+     * =E6=9E=84=E9=80=A0=E5=87=BD=E6=95=B0<br />
+     *<br />
+     * @param string $u dnspod=E7=94=A8=E6=88=B7=E8=B4=A6=E6=88=B7<br />
+     * @param string $p dnspod=E8=B4=A6=E6=88=B7=E5=AF=86=E7=A0=81<br />
+     *<br />
+     * @return void<br />
+     */<br />
+    public function __construct($u, $p) <br />
+    {<br />
+        if (!function_exists('curl_init')) {<br />
+            throw new exception(&quot;php need curl module =
+support!&quot;, 0);<br />
+        }<br />
+        <br />
+        if (!function_exists('json_decode')) {<br />
+            throw new exception(&quot;php need json function =
+support!&quot;, 0);<br />
+        }<br />
+<br />
+        $this-&gt;set_login_info($u, $p);<br />
+    }<br />
+    <br />
+    // }}}<br />
+    // {{{ function set_login_info()<br />
+<br />
+    /**<br />
+     * =
+=E8=AE=BE=E7=BD=AE=E7=94=A8=E6=88=B7=E8=B4=A6=E6=88=B7=E4=BF=A1=E6=81=AF<=
+br />
+     *<br />
+     * @param string $u dnspod=E7=94=A8=E6=88=B7=E8=B4=A6=E6=88=B7<br />
+     * @param string $p dnspod=E8=B4=A6=E6=88=B7=E5=AF=86=E7=A0=81<br />
+     *<br />
+     * @return void<br />
+     */<br />
+    public function set_login_info($u, $p)<br />
+    {<br />
+        $this-&gt;user =3D $u;<br />
+        $this-&gt;pass =3D $p;<br />
+    }<br />
+<br />
+    // }}}<br />
+    // {{{ function get_base_params()<br />
+<br />
+    /**<br />
+     * =
+=E8=8E=B7=E5=8F=96post=E6=8F=90=E4=BA=A4=E7=BB=99api=E7=9A=84=E9=BB=98=E8=
+=AE=A4=E5=8F=82=E6=95=B0<br />
+     *<br />
+     * @param void<br />
+     *<br />
+     * @return array<br />
+     */<br />
+    private function get_base_params()<br />
+    {<br />
+        return array(<br />
+                'login_email' =3D&gt; $this-&gt;user,<br />
+                'login_password' =3D&gt; $this-&gt;pass,<br />
+                'format' =3D&gt; $this-&gt;data_type,<br />
+                );<br />
+    }<br />
+<br />
+    // }}}<br />
+    // {{{ function post()<br />
+<br />
+    /**<br />
+     * API=E9=80=9A=E8=AE=AF=E6=8E=A5=E5=8F=A3<br />
+     *<br />
+     * @param string $method =E8=B7=9Fapi=E7=B1=BB=E5=9E=8B =
+=E4=BE=8B=E5=A6=82 Domain.List<br />
+     * @param array $data =
+=E9=99=A4=E4=B8=8A=E8=BF=B0=E5=9F=BA=E6=9C=AC=E5=8F=82=E6=95=B0=E5=A4=96=E7=
+=9A=84=E9=A2=9D=E5=A4=96=E5=8F=82=E6=95=B0<br />
+     *<br />
+     * @return string<br />
+     */<br />
+    private function post($method, $data)<br />
+    {<br />
+        $url =3D $this-&gt;base_url . '/API/' . $method;<br />
+        $data =3D array_merge($this-&gt;get_base_params(), $data);<br />
+        $_data =3D array();<br />
+        foreach ($data as $k =3D&gt; $v) {<br />
+           $_data[] =3D $k . '=3D' . rawurlencode($v);<br />
+        }<br />
+<br />
+        $ch =3D curl_init();<br />
+<br />
+        curl_setopt($ch, CURLOPT_URL, $url);<br />
+        curl_setopt($ch, CURLOPT_HEADER, intval($this-&gt;debug));<br />
+        curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);<br />
+        curl_setopt($ch, CURLOPT_TIMEOUT, 30);<br />
+        curl_setopt($ch, CURLOPT_CUSTOMREQUEST, 'POST');<br />
+        curl_setopt($ch, CURLOPT_VERBOSE, intval($this-&gt;debug));<br =
+/>
+        curl_setopt($ch, CURLOPT_USERAGENT, $this-&gt;app_name . '/' . =
+$this-&gt;version);<br />
+        curl_setopt($ch, CURLOPT_POSTFIELDS, implode('&amp;', =
+$_data));<br />
+<br />
+        $info =3D curl_exec($ch);<br />
+<br />
+        $errno =3D curl_errno($ch);<br />
+        if (0 !=3D=3D $errno) {<br />
+            $error =3D curl_error($ch);<br />
+            throw new exception($error, $errno);<br />
+        }<br />
+<br />
+        curl_close($ch);<br />
+        if ($this-&gt;data_type =3D=3D=3D 'json') {<br />
+            $info =3D json_decode($info);<br />
+        } else {<br />
+            //to do list<br />
+            =
+//=E8=BF=99=E9=87=8C=E8=A7=A3=E6=9E=90XML=E6=A0=BC=E5=BC=8F<br />
+        }<br />
+<br />
+        if (!is_array($info) &amp;&amp; !is_object($info)) {<br />
+            throw new exception('parse data fail!', 10001);<br />
+        }<br />
+        return $info;<br />
+    }<br />
+<br />
+    // }}}<br />
+    // {{{ function get_version()<br />
+<br />
+    /**<br />
+     * =E8=8E=B7=E5=8F=96API=E7=89=88=E6=9C=AC=E4=BF=A1=E6=81=AF<br />
+     *<br />
+     * @param void<br />
+     *<br />
+     * @return string<br />
+     */<br />
+    public function get_version()<br />
+    {<br />
+        $info =3D $this-&gt;post('Info.Version', array()); <br />
+        if (empty($info-&gt;status) || empty($info-&gt;status-&gt;code)) =
+{<br />
+            throw new exception('parse data fail!', 10001);<br />
+        }<br />
+<br />
+        if ($info-&gt;status-&gt;code =3D=3D=3D -1) {<br />
+            throw new exception('error username or password', 10002);<br =
+/>
+        }<br />
+<br />
+        return $info-&gt;status-&gt;message;<br />
+    }<br />
+<br />
+    // }}}<br />
+    // {{{ function get_domain_list()<br />
+    <br />
+    /**<br />
+     * =E8=8E=B7=E5=8F=96=E5=9F=9F=E5=90=8D=E5=88=97=E8=A1=A8<br />
+     *<br />
+     * @param string $grade  =
+=E7=94=A8=E6=88=B7=E5=88=86=E7=B1=BB=EF=BC=8C=E5=85=B1=E5=88=86=E4=B8=BAF=
+ree=EF=BC=8CExpress=EF=BC=8CExtra=EF=BC=8CUltra=E5=9B=9B=E7=B1=BB<br />
+     *<br />
+     * @return array<br />
+     */<br />
+    public function get_domain_list($grade =3D 'Free')<br />
+    {<br />
+        $info =3D $this-&gt;post('Domain.List', array('grade' =3D&gt; =
+$grade)); <br />
+        if (empty($info-&gt;status) || empty($info-&gt;status-&gt;code)) =
+{<br />
+            throw new exception('parse data fail!', 10001);<br />
+        }<br />
+<br />
+        switch ($info-&gt;status-&gt;code) {<br />
+            case -1:<br />
+                throw new exception('error username or password', =
+10002);<br />
+                break;<br />
+            case 1:<br />
+                return $info-&gt;domains-&gt;domain;<br />
+            case 2:<br />
+                throw new exception('http method only access post', =
+10003);<br />
+                break;<br />
+            case 4:<br />
+                throw new exception('empty domain list', 10005);<br />
+                break;<br />
+            default:<br />
+                throw new exception('unknown error', 10004);<br />
+                break;<br />
+        }<br />
+<br />
+    }<br />
+<br />
+    // }}}<br />
+    // {{{ function get_record_list()<br />
+    <br />
+    /**<br />
+     * =E8=8E=B7=E5=8F=96=E8=AE=B0=E5=BD=95=E5=88=97=E8=A1=A8<br />
+     * <br />
+     * @param int $domain_id<br />
+     *<br />
+     * @return array<br />
+     */<br />
+    public function get_record_list($domain_id)<br />
+    {<br />
+        $info =3D $this-&gt;post('Record.List', array('domain_id' =
+=3D&gt; $domain_id)); <br />
+        if (empty($info-&gt;status) || empty($info-&gt;status-&gt;code)) =
+{<br />
+            throw new exception('parse data fail!', 10001);<br />
+        }<br />
+<br />
+        switch ($info-&gt;status-&gt;code) {<br />
+            case -1:<br />
+                throw new exception('error username or password', =
+10002);<br />
+                break;<br />
+            case 1:<br />
+                return $info-&gt;records-&gt;record;<br />
+            case 2:<br />
+                throw new exception('http method only access post', =
+10003);<br />
+                break;<br />
+            case 4:<br />
+                throw new exception('domain id error', 10006);<br />
+                break;<br />
+            case 5:<br />
+                throw new exception('domain not exist', 10007);<br />
+                break;<br />
+            case 6:<br />
+                throw new exception('empty record', 10008);<br />
+                break;<br />
+            default:<br />
+                throw new exception('unknown error', 10004);<br />
+                break;<br />
+        }<br />
+    }<br />
+<br />
+    // }}}<br />
+    // {{{ function create_record()<br />
+    <br />
+    /**<br />
+     * =E5=88=9B=E5=BB=BA=E6=96=B0=E8=AE=B0=E5=BD=95<br />
+     * <br />
+     * @param int $domain_id      =E5=9F=9F=E5=90=8DID<br />
+     * @param string $sub_domain  =E5=AD=90=E5=9F=9F=E5=90=8D =
+=E4=BE=8B=E5=A6=82 www<br />
+     * @param string $record_type =
+{'A','CNAME','MX','URL','NS','TXT','AAAA'} <br />
+     * @param string $value       =E8=AE=B0=E5=BD=95=E5=80=BC, =E5=A6=82 =
+IP:200.200.200.200, CNAME: cname.dnspod.com., MX: mail.dnspod.com.<br />
+     * @param string $record_line {'default', 'tel', 'cnc', 'edu', =
+'cmc', 'foreign'} - =
+=E8=AE=B0=E5=BD=95=E7=BA=BF=E8=B7=AF=E4=BE=9D=E6=AC=A1=E4=B8=BA=EF=BC=9A=E9=
+=BB=98=E8=AE=A4=E3=80=81=E7=94=B5=E4=BF=A1=E3=80=81=E7=BD=91=E9=80=9A=E3=80=
+=81=E6=95=99=E8=82=B2=E7=BD=91=E3=80=81=E7=A7=BB=E5=8A=A8=E3=80=81=E5=9B=BD=
+=E5=A4=96<br />
+     * @param int $mx             {1-20} - =
+MX=E4=BC=98=E5=85=88=E7=BA=A7, =
+=E5=BD=93=E8=AE=B0=E5=BD=95=E7=B1=BB=E5=9E=8B=E6=98=AF MX =
+=E6=97=B6=E6=9C=89=E6=95=88=EF=BC=8C=E8=8C=83=E5=9B=B41-20<br />
+     * @param int $ttl            {1-604800} - =
+TTL=EF=BC=8C=E8=8C=83=E5=9B=B41-604800<br />
+     *<br />
+     * @return object {id:xxx, name:'xxxx'}<br />
+     */<br />
+    public function create_record($domain_id, $sub_domain=3D'', =
+$record_type, $value, $record_line=3D'default', $ttl=3D600, $mx=3D10)<br =
+/>
+    {<br />
+        $sub_domain =3D strtolower($sub_domain);<br />
+<br />
+        $allow_record_type =3D array('A'=3D&gt;true, 'CNAME'=3D&gt;true, =
+'MX'=3D&gt;true, 'URL'=3D&gt;true, 'NS'=3D&gt;true, 'TXT'=3D&gt;true, =
+'AAAA'=3D&gt;true);<br />
+        $record_type =3D strtoupper($record_type);<br />
+        if (!isset($allow_record_type[$record_type]) || =
+!$allow_record_type[$record_type]) {<br />
+            throw new exception('record type error', 10009);<br />
+        }<br />
+<br />
+        $allow_record_line =3D array('default'=3D&gt;true, =
+'tel'=3D&gt;true, 'cnc'=3D&gt;true, 'edu'=3D&gt;true, 'cmc'=3D&gt;true, =
+'foreign'=3D&gt;true);<br />
+        if (!isset($allow_record_line[$record_line]) || =
+!$allow_record_line[$record_line]) {<br />
+            throw new exception('record line error', 10010);<br />
+        }<br />
+<br />
+        if ($ttl &lt; 1 || $ttl &gt; 604800) {<br />
+            throw new exception('record ttl error', 10011);<br />
+        }<br />
+<br />
+        if ($record_type =3D=3D=3D 'MX' &amp;&amp; ($mx &lt;1 || $mx =
+&gt; 20)) {<br />
+            throw new exception('record mx error', 10012);<br />
+        }<br />
+<br />
+        $info =3D $this-&gt;post('Record.Create', array('domain_id' =
+=3D&gt; $domain_id, 'sub_domain' =3D&gt; $sub_domain,<br />
+                        'record_type' =3D&gt; $record_type, 'value' =
+=3D&gt; $value, 'record_line' =3D&gt; $record_line,<br />
+                        'ttl' =3D&gt; $ttl, 'mx' =3D&gt; $mx,<br />
+                    )); <br />
+        if (empty($info-&gt;status) || empty($info-&gt;status-&gt;code)) =
+{<br />
+            throw new exception('parse data fail!', 10001);<br />
+        }<br />
+<br />
+        switch ($info-&gt;status-&gt;code) {<br />
+            case -1:<br />
+                throw new exception('error username or password', =
+10002);<br />
+                break;<br />
+            case 1:<br />
+                return $info-&gt;record;<br />
+            case 2:<br />
+                throw new exception('http method only access post', =
+10003);<br />
+                break;<br />
+            case 4:<br />
+                throw new exception('domain id error', 10006);<br />
+                break;<br />
+            case 5:<br />
+                throw new exception('domain not exist', 10007);<br />
+                break;<br />
+            case 6:<br />
+                throw new exception('not domain onwer', 10013);<br />
+                break;<br />
+            case 7:<br />
+                throw new exception('param error', 10014);<br />
+                break;<br />
+            case 8:<br />
+                throw new exception('domain record error', 10015);<br />
+                break;<br />
+            case 9:<br />
+                throw new exception('record value error', 10016);<br />
+                break;<br />
+            case 10:<br />
+                throw new exception('can not set NS type for =
+&quot;@&quot; record', 10017);<br />
+                break;<br />
+            case 11:<br />
+                throw new exception('TTL need more than 1', 10018);<br =
+/>
+                break;<br />
+            case 12:<br />
+                throw new exception('MX need more than 1', 10019);<br />
+                break;<br />
+            case 13:<br />
+                throw new exception('duplicate record, or conflict with =
+CNAME record', 10020);<br />
+                break;<br />
+            default:<br />
+                throw new exception('unknown error', 10004);<br />
+                break;<br />
+        }<br />
+    }<br />
+<br />
+    // }}}<br />
+    // {{{ function modify_record()<br />
+    <br />
+    /**<br />
+     * =E6=9B=B4=E6=96=B0=E8=AE=B0=E5=BD=95<br />
+     * <br />
+     * @param int $domain_id      =E5=9F=9F=E5=90=8DID<br />
+     * @param int $record_id      =E8=AE=B0=E5=BD=95ID<br />
+     * @param string $sub_domain  =E5=AD=90=E5=9F=9F=E5=90=8D =
+=E4=BE=8B=E5=A6=82 www<br />
+     * @param string $record_type =
+{'A','CNAME','MX','URL','NS','TXT','AAAA'} <br />
+     * @param string $value       =E8=AE=B0=E5=BD=95=E5=80=BC, =E5=A6=82 =
+IP:200.200.200.200, CNAME: cname.dnspod.com., MX: mail.dnspod.com.<br />
+     * @param string $record_line {'default', 'tel', 'cnc', 'edu', =
+'cmc', 'foreign'} - =
+=E8=AE=B0=E5=BD=95=E7=BA=BF=E8=B7=AF=E4=BE=9D=E6=AC=A1=E4=B8=BA=EF=BC=9A=E9=
+=BB=98=E8=AE=A4=E3=80=81=E7=94=B5=E4=BF=A1=E3=80=81=E7=BD=91=E9=80=9A=E3=80=
+=81=E6=95=99=E8=82=B2=E7=BD=91=E3=80=81=E7=A7=BB=E5=8A=A8=E3=80=81=E5=9B=BD=
+=E5=A4=96<br />
+     * @param int $mx             {1-20} - =
+MX=E4=BC=98=E5=85=88=E7=BA=A7, =
+=E5=BD=93=E8=AE=B0=E5=BD=95=E7=B1=BB=E5=9E=8B=E6=98=AF MX =
+=E6=97=B6=E6=9C=89=E6=95=88=EF=BC=8C=E8=8C=83=E5=9B=B41-20<br />
+     * @param int $ttl            {1-604800} - =
+TTL=EF=BC=8C=E8=8C=83=E5=9B=B41-604800<br />
+     *<br />
+     * @return object {id:xxx, name:'xxxx'}<br />
+     */<br />
+    public function modify_record($domain_id, $record_id, =
+$sub_domain=3D'', $record_type, $value, $record_line=3D'default', =
+$ttl=3D600, $mx=3D10)<br />
+    {<br />
+        $sub_domain =3D strtolower($sub_domain);<br />
+<br />
+        $allow_record_type =3D array('A'=3D&gt;true, 'CNAME'=3D&gt;true, =
+'MX'=3D&gt;true, 'URL'=3D&gt;true, 'NS'=3D&gt;true, 'TXT'=3D&gt;true, =
+'AAAA'=3D&gt;true);<br />
+        $record_type =3D strtoupper($record_type);<br />
+        if (!isset($allow_record_type[$record_type]) || =
+!$allow_record_type[$record_type]) {<br />
+            throw new exception('record type error', 10009);<br />
+        }<br />
+<br />
+        $allow_record_line =3D array('default'=3D&gt;true, =
+'tel'=3D&gt;true, 'cnc'=3D&gt;true, 'edu'=3D&gt;true, 'cmc'=3D&gt;true, =
+'foreign'=3D&gt;true);<br />
+        if (!isset($allow_record_line[$record_line]) || =
+!$allow_record_line[$record_line]) {<br />
+            throw new exception('record line error', 10010);<br />
+        }<br />
+<br />
+        if ($ttl &lt; 1 || $ttl &gt; 604800) {<br />
+            throw new exception('record ttl error', 10011);<br />
+        }<br />
+<br />
+        if ($record_type =3D=3D=3D 'MX' &amp;&amp; ($mx &lt;1 || $mx =
+&gt; 20)) {<br />
+            throw new exception('record mx error', 10012);<br />
+        }<br />
+<br />
+        $info =3D $this-&gt;post('Record.Modify', array('domain_id' =
+=3D&gt; $domain_id, 'sub_domain' =3D&gt; $sub_domain,<br />
+                        'record_type' =3D&gt; $record_type, 'value' =
+=3D&gt; $value, 'record_line' =3D&gt; $record_line,<br />
+                        'ttl' =3D&gt; $ttl, 'mx' =3D&gt; $mx, =
+'record_id' =3D&gt; $record_id,<br />
+                    )); <br />
+        if (empty($info-&gt;status) || empty($info-&gt;status-&gt;code)) =
+{<br />
+            throw new exception('parse data fail!', 10001);<br />
+        }<br />
+<br />
+        switch ($info-&gt;status-&gt;code) {<br />
+            case -1:<br />
+                throw new exception('error username or password', =
+10002);<br />
+                break;<br />
+            case 1:<br />
+                return $info-&gt;record;<br />
+            case 2:<br />
+                throw new exception('http method only access post', =
+10003);<br />
+                break;<br />
+            case 4:<br />
+                throw new exception('domain id error', 10006);<br />
+                break;<br />
+            case 5:<br />
+                throw new exception('domain not exist', 10007);<br />
+                break;<br />
+            case 6:<br />
+                throw new exception('not domain onwer', 10013);<br />
+                break;<br />
+            case 7:<br />
+                throw new exception('param error', 10014);<br />
+                break;<br />
+            case 8:<br />
+                throw new exception('domain record error', 10015);<br />
+                break;<br />
+            case 9:<br />
+                throw new exception('record value error', 10016);<br />
+                break;<br />
+            case 10:<br />
+                throw new exception('can not set NS type for =
+&quot;@&quot; record', 10017);<br />
+                break;<br />
+            case 11:<br />
+                throw new exception('TTL need more than 1', 10018);<br =
+/>
+                break;<br />
+            case 12:<br />
+                throw new exception('MX need more than 1', 10019);<br />
+                break;<br />
+            case 13:<br />
+                throw new exception('duplicate record, or conflict with =
+CNAME record', 10020);<br />
+                break;<br />
+            default:<br />
+                throw new exception('unknown error', 10004);<br />
+                break;<br />
+        }<br />
+    }<br />
+<br />
+    // }}}<br />
+    // {{{ function remove_record()<br />
+    <br />
+    /**<br />
+     * =E5=88=A0=E9=99=A4=E8=AE=B0=E5=BD=95<br />
+     * <br />
+     * @param int $domain_id      =E5=9F=9F=E5=90=8DID<br />
+     * @param int $record_id      =E8=AE=B0=E5=BD=95ID<br />
+     *<br />
+     * @return boolean<br />
+     */<br />
+    public function remove_record($domain_id, $record_id)<br />
+    {<br />
+<br />
+        $info =3D $this-&gt;post('Record.Remove', array('domain_id' =
+=3D&gt; $domain_id, 'record_id' =3D&gt; $record_id)); <br />
+        if (empty($info-&gt;status) || empty($info-&gt;status-&gt;code)) =
+{<br />
+            throw new exception('parse data fail!', 10001);<br />
+        }<br />
+<br />
+        switch ($info-&gt;status-&gt;code) {<br />
+            case -1:<br />
+                throw new exception('error username or password', =
+10002);<br />
+                break;<br />
+            case 1:<br />
+                return true;<br />
+            case 2:<br />
+                throw new exception('http method only access post', =
+10003);<br />
+                break;<br />
+            case 4:<br />
+                throw new exception('domain id error', 10006);<br />
+                break;<br />
+            case 5:<br />
+                throw new exception('domain not exist', 10007);<br />
+                break;<br />
+            case 6:<br />
+                throw new exception('not domain onwer', 10013);<br />
+                break;<br />
+            case 7:<br />
+                throw new exception('record not exist', 10021);<br />
+                break;<br />
+            default:<br />
+                throw new exception('unknown error', 10004);<br />
+                break;<br />
+        }<br />
+    }<br />
+<br />
+    // }}}<br />
+    // {{{ function set_record_status()<br />
+    <br />
+    /**<br />
+     * =E8=AE=BE=E7=BD=AE=E8=AE=B0=E5=BD=95=E7=8A=B6=E6=80=81<br />
+     * <br />
+     * @param int $domain_id      =E5=9F=9F=E5=90=8DID<br />
+     * @param int $record_id      =E8=AE=B0=E5=BD=95ID<br />
+     * @param boolean $stauts     =E8=AE=B0=E5=BD=95=E7=8A=B6=E6=80=81 =
+true enable | false disable<br />
+     *<br />
+     * @return boolean<br />
+     */<br />
+    public function set_record_status($domain_id, $record_id, =
+$status)<br />
+    {<br />
+        $status =3D $status ? 'enable' : 'disable';<br />
+<br />
+        $info =3D $this-&gt;post('Record.Status', array('domain_id' =
+=3D&gt; $domain_id, 'record_id' =3D&gt; $record_id, 'status' =3D&gt; =
+$status)); <br />
+        if (empty($info-&gt;status) || empty($info-&gt;status-&gt;code)) =
+{<br />
+            throw new exception('parse data fail!', 10001);<br />
+        }<br />
+<br />
+        switch ($info-&gt;status-&gt;code) {<br />
+            case -1:<br />
+                throw new exception('error username or password', =
+10002);<br />
+                break;<br />
+            case 1:<br />
+                return true;<br />
+            case 2:<br />
+                throw new exception('http method only access post', =
+10003);<br />
+                break;<br />
+            case 4:<br />
+                throw new exception('domain id error', 10006);<br />
+                break;<br />
+            case 5:<br />
+                throw new exception('domain not exist', 10007);<br />
+                break;<br />
+            case 6:<br />
+                throw new exception('not domain onwer', 10013);<br />
+                break;<br />
+            case 7:<br />
+                throw new exception('record not exist', 10021);<br />
+                break;<br />
+            default:<br />
+                throw new exception('unknown error', 10004);<br />
+                break;<br />
+        }<br />
+    }<br />
+<br />
+    // }}}<br />
+    // {{{ function create_domain()<br />
+    <br />
+    /**<br />
+     * =E5=88=9B=E5=BB=BA=E6=96=B0=E5=9F=9F=E5=90=8D<br />
+     * <br />
+     * @param string $domain  =E6=B2=A1=E6=9C=89 WWW, =E5=A6=82 =
+dnspod.com<br />
+     *<br />
+     * @return object {id:000, punycode:'xxx'}<br />
+     */<br />
+    public function create_domain($domain)<br />
+    {<br />
+        $domain =3D strtolower($domain);<br />
+<br />
+<br />
+        $info =3D $this-&gt;post('Domain.Create', array('domain' =3D&gt; =
+$domain)); <br />
+        if (empty($info-&gt;status) || empty($info-&gt;status-&gt;code)) =
+{<br />
+            throw new exception('parse data fail!', 10001);<br />
+        }<br />
+<br />
+        switch ($info-&gt;status-&gt;code) {<br />
+            case -1:<br />
+                throw new exception('error username or password', =
+10002);<br />
+                break;<br />
+            case 1:<br />
+                return $info-&gt;domain;<br />
+            case 2:<br />
+                throw new exception('http method only access post', =
+10003);<br />
+                break;<br />
+            case 4:<br />
+                throw new exception('domain error', 10022);<br />
+                break;<br />
+            case 5:<br />
+                throw new exception('domain exist', 10023);<br />
+                break;<br />
+            default:<br />
+                throw new exception('unknown error', 10004);<br />
+                break;<br />
+        }<br />
+    }<br />
+<br />
+    // }}}<br />
+    // {{{ function remove_domain()<br />
+    <br />
+    /**<br />
+     * =E5=88=A0=E9=99=A4=E5=9F=9F=E5=90=8D<br />
+     * <br />
+     * @param int $domain_id<br />
+     *<br />
+     * @return boolean<br />
+     */<br />
+    public function remove_domain($domain_id)<br />
+    {<br />
+        $info =3D $this-&gt;post('Domain.Remove', array('domain_id' =
+=3D&gt; $domain_id)); <br />
+        if (empty($info-&gt;status) || empty($info-&gt;status-&gt;code)) =
+{<br />
+            throw new exception('parse data fail!', 10001);<br />
+        }<br />
+<br />
+        switch ($info-&gt;status-&gt;code) {<br />
+            case -1:<br />
+                throw new exception('error username or password', =
+10002);<br />
+                break;<br />
+            case 1:<br />
+                return true;<br />
+            case 2:<br />
+                throw new exception('http method only access post', =
+10003);<br />
+                break;<br />
+            case 4:<br />
+                throw new exception('domain id error', 10006);<br />
+                break;<br />
+            case 5:<br />
+                throw new exception('domain not exist', 10007);<br />
+                break;<br />
+            case 6:<br />
+                throw new exception('not domain onwer', 10013);<br />
+                break;<br />
+            default:<br />
+                throw new exception('unknown error', 10004);<br />
+                break;<br />
+        }<br />
+    }<br />
+<br />
+    // }}}<br />
+    // {{{ function set_domain_status()<br />
+    <br />
+    /**<br />
+     * =E8=AE=BE=E7=BD=AE=E5=9F=9F=E5=90=8D=E7=8A=B6=E6=80=81<br />
+     * <br />
+     * @param int $domain_id  =E5=9F=9F=E5=90=8DID<br />
+     * @param boolean $status =E5=9F=9F=E5=90=8D=E7=8A=B6=E6=80=81 true =
+enable | false disable<br />
+     *<br />
+     * @return boolean<br />
+     */<br />
+    public function set_domain_status($domain_id, $status)<br />
+    {<br />
+        $status =3D $status ? 'enable' : 'disable';<br />
+        $info =3D $this-&gt;post('Domain.Status', array('domain_id' =
+=3D&gt; $domain_id, 'status' =3D&gt; $status)); <br />
+        if (empty($info-&gt;status) || empty($info-&gt;status-&gt;code)) =
+{<br />
+            throw new exception('parse data fail!', 10001);<br />
+        }<br />
+<br />
+        switch ($info-&gt;status-&gt;code) {<br />
+            case -1:<br />
+                throw new exception('error username or password', =
+10002);<br />
+                break;<br />
+            case 1:<br />
+                return true;<br />
+            case 2:<br />
+                throw new exception('http method only access post', =
+10003);<br />
+                break;<br />
+            case 4:<br />
+                throw new exception('domain id error', 10006);<br />
+                break;<br />
+            case 5:<br />
+                throw new exception('domain not exist', 10007);<br />
+                break;<br />
+            case 6:<br />
+                throw new exception('not domain onwer', 10013);<br />
+                break;<br />
+            default:<br />
+                throw new exception('unknown error', 10004);<br />
+                break;<br />
+        }<br />
+    }<br />
+<br />
+    // }}}<br />
+    // {{{ function detect_wan_ip()<br />
+<br />
+    /**<br />
+     * =E6=8E=A2=E6=B5=8B=E5=85=AC=E7=BD=91IP<br />
+     *<br />
+     * @param void<br />
+     *<br />
+     * @return string<br />
+     */<br />
+    private function detect_wan_ip()<br />
+    {<br />
+        $url =3D 'http://www.ip138.com/ip2city.asp';<br />
+        <br />
+        $ch =3D curl_init();<br />
+<br />
+        curl_setopt($ch, CURLOPT_URL, $url);<br />
+        curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);<br />
+<br />
+        $info =3D curl_exec($ch);<br />
+<br />
+        $errno =3D curl_errno($ch);<br />
+        if (0 !=3D=3D $errno) {<br />
+            $error =3D curl_error($ch);<br />
+            throw new exception($error, $errno);<br />
+        }<br />
+<br />
+        curl_close($ch);<br />
+<br />
+        if (preg_match('/\[(.+)\]/i', $info, $m)) {<br />
+             return $m[1];<br />
+        } else {<br />
+            return '';<br />
+        }<br />
+    }<br />
+<br />
+    // }}}<br />
+    // {{{ function ddns_run()<br />
+    <br />
+    /**<br />
+     * =E5=8A=A8=E6=80=81=E5=9F=9F=E5=90=8D=E8=A7=A3=E6=9E=90<br />
+     *<br />
+     * @param array $domains        =
+=E9=9C=80=E8=A6=81=E5=8A=A8=E6=80=81=E8=A7=A3=E6=9E=90=E7=9A=84=E5=9F=9F=E5=
+=90=8D =
+=E6=94=AF=E6=8C=81=E5=A4=9A=E4=B8=AA=E5=9F=9F=E5=90=8D=E5=A4=9A=E4=B8=AA=E8=
+=AE=B0=E5=BD=95=E8=A7=A3=E6=9E=90 array('mahuzi.cn' =3D&gt; array('www', =
+'bbs'), ..., )<br />
+     * @param string $ip            =
+=E8=A6=81=E8=A7=A3=E6=9E=90=E7=9A=84=E7=9B=AE=E7=9A=84IP=E5=9C=B0=E5=9D=80=
+<br />
+     * @param string $grade         =
+=E7=94=A8=E6=88=B7=E7=B1=BB=E5=9E=8B<br />
+     * @param boolean $auto_active  =
+=E6=98=AF=E5=90=A6=E8=87=AA=E5=8A=A8=E8=AE=BE=E7=BD=AE=E7=8A=B6=E6=80=81=E4=
+=B8=BAenable<br />
+     *<br />
+     * @return mix<br />
+     */<br />
+    public function ddns_run(array $domains, $ip=3D'', $grade =3D =
+'Free', $auto_active =3D false)<br />
+    {<br />
+        if (empty($ip)) {<br />
+            $ip =3D $this-&gt;detect_wan_ip();<br />
+        }<br />
+        <br />
+        if (empty($ip)) {<br />
+            throw new exception(&quot;empty ip&quot;, 10024);<br />
+        }<br />
+<br />
+        if (empty($domains)) {<br />
+            return true;<br />
+        }<br />
+<br />
+        try {<br />
+            $domain_list =3D $this-&gt;get_domain_list($grade);<br />
+        } catch (exception $e) {<br />
+            $code =3D $e-&gt;getCode();<br />
+            if ($code !=3D 10005) {<br />
+                throw $e;<br />
+            }<br />
+<br />
+            $domain_list =3D array();<br />
+        }<br />
+<br />
+        foreach ($domain_list as $k =3D&gt; $v) {<br />
+            if (isset($domains[$v-&gt;name])) {<br />
+                $domains[$v-&gt;name] =3D array('id' =3D&gt; $v-&gt;id, =
+'sub' =3D&gt; $domains[$v-&gt;name]);<br />
+                if (!$v-&gt;status &amp;&amp; $auto_active) {<br />
+                    try {<br />
+                        $this-&gt;set_domain_status($v-&gt;id, true);<br =
+/>
+                    } catch (exception $e) {<br />
+                        continue;<br />
+                    }<br />
+                }<br />
+            }<br />
+        }<br />
+<br />
+        $fail =3D array();<br />
+<br />
+        foreach ($domains as $k =3D&gt; $v) {<br />
+            if (!isset($v['id'])) {<br />
+                =
+//=E5=9F=9F=E5=90=8D=E4=B8=8D=E5=AD=98=E5=9C=A8=EF=BC=8C=E6=B7=BB=E5=8A=A0=
+=E5=9F=9F=E5=90=8D<br />
+                try {<br />
+                    $res =3D $this-&gt;create_domain($k);<br />
+                    $this_domain_id =3D $res['id'];<br />
+                    $sub_domains =3D $v;<br />
+                } catch (exception $e) {<br />
+                    $fail[$k] =3D $v;<br />
+                    continue;<br />
+                }<br />
+            } else {<br />
+                $this_domain_id =3D $v['id'];<br />
+                $sub_domains =3D $v['sub'];<br />
+            }<br />
+<br />
+            try {<br />
+                $records =3D =
+$this-&gt;get_record_list($this_domain_id);<br />
+            } catch (exception $e) {<br />
+                if (10008 !=3D $e-&gt;getCode()) {<br />
+                    $fail[$k] =3D $sub_domains;<br />
+                    continue;<br />
+                }<br />
+<br />
+                $records =3D array();<br />
+            }<br />
+<br />
+            $sub_domains =3D array_combine($sub_domains, =
+$sub_domains);<br />
+            $_records =3D array();<br />
+            foreach ($records as $this_record) {<br />
+                if (isset($sub_domains[$this_record-&gt;name])) {<br />
+                    $_records[$this_record-&gt;id] =3D array('line' =
+=3D&gt; $this_record-&gt;line, 'name' =3D&gt; $this_record-&gt;name); =
+<br />
+                    $sub_domains[$this_record-&gt;name] =3D false;<br />
+                    if (!$this_record-&gt;enabled &amp;&amp; =
+$auto_active) {<br />
+                        try {<br />
+                            $this-&gt;set_record_status($this_domain_id, =
+$v-&gt;id, true);<br />
+                        } catch (exception $e) {<br />
+                            continue;<br />
+                        }<br />
+                    <br />
+                    }<br />
+                } <br />
+            }<br />
+<br />
+            //_records <br />
+            foreach ($_records as $this_record_id =3D&gt; $rec) {<br />
+                try {<br />
+                    $this-&gt;modify_record($this_domain_id, =
+$this_record_id, $rec['name'], 'A', $ip, $rec['line'], 600);<br />
+                } catch (exception $e) {<br />
+                    if (!isset($fail[$k])) {<br />
+                        $fail[$k] =3D array();<br />
+                    }<br />
+<br />
+                    $fail[$k][] =3D $rec['name'];<br />
+                }<br />
+            }<br />
+<br />
+            foreach ($sub_domains as  $this_sub_domain) {<br />
+                if (false =3D=3D=3D $this_sub_domain) {<br />
+                    continue;<br />
+                }<br />
+                try {<br />
+                    $this-&gt;create_record($this_domain_id, =
+$this_sub_domain, 'A', $ip, 'default', 600);<br />
+                } catch (exception $e) {<br />
+                    if (!isset($fail[$k])) {<br />
+                        $fail[$k] =3D array();<br />
+                    }<br />
+<br />
+                    $fail[$k][] =3D $this_sub_domain;<br />
+                }<br />
+            }<br />
+        } <br />
+<br />
+        if (empty($fail)) {<br />
+            return true;<br />
+        }<br />
+<br />
+        return $fail;<br />
+    }<br />
+<br />
+    // }}}<br />
+<br />
+    // }}} functions end<br />
+<br />
+}<br />
+<br />
+$user =3D empty($argv[1]) ? '' : $argv[1];<br />
+$pass =3D empty($argv[2]) ? '' : $argv[2];<br />
+$domain =3D empty($argv[3]) ? '' : $argv[3];<br />
+$ip =3D empty($argv[4]) ? '' : $argv[4];<br />
+if (!$user || !$pass || !$domain) {<br />
+    echo &quot;DnsAP(Dnspod Api for PHP) v0.1 QQ738148\nUsage: ddns.php =
+user pass domain [force_ip]\ndomain format: =
+\&quot;domain:subdomain1,dubdomain2;domain2:subdomain1,subdomain2\&quot;\=
+nsample:ddns.php abc@abc.com 123456 =
+\&quot;banqiaoju.com:www,@,*;dphost.cn:www,bbs\&quot;\n&quot;;<br />
+    exit;<br />
+}<br />
+<br />
+$_domain =3D array();<br />
+$tmp_domain =3D explode(';', $domain);<br />
+foreach ($tmp_domain as $v) {<br />
+    if (trim($v) =3D=3D=3D '') {<br />
+        continue;<br />
+    } <br />
+<br />
+    $domain_info =3D explode(':', $v);<br />
+    if (count($domain_info) !=3D=3D 2) {<br />
+        continue;<br />
+    }<br />
+<br />
+    $this_domain =3D $domain_info[0];<br />
+    $this_sub_domain =3D explode(',', $domain_info[1]);<br />
+    $_domain[$this_domain] =3D array();<br />
+    foreach ($this_sub_domain as $tmp) {<br />
+        if (trim($tmp) =3D=3D=3D '') {<br />
+            continue;<br />
+        }<br />
+        $_domain[$this_domain][] =3D $tmp;<br />
+    }<br />
+<br />
+    if (empty($_domain[$this_domain])) {<br />
+        unset($_domain[$this_domain]);<br />
+    }<br />
+}<br />
+<br />
+$pid =3D pcntl_fork();<br />
+if ($pid =3D=3D -1) {<br />
+         exit(&quot;could not fork\n&quot;);<br />
+} else if ($pid) {<br />
+    echo &quot;ddns runing($pid), you can use kill $pid to termination =
+of ddns\n&quot;;<br />
+    //=E7=88=B6=E8=BF=9B=E7=A8=8B=E9=80=80=E5=87=BA<br />
+    exit();<br />
+} else {<br />
+    $app =3D new dnsAP($user, $pass);<br />
+    while(1) {<br />
+        $res =3D $app-&gt;ddns_run($_domain, $ip);<br />
+        error_log(var_export($res, true). &quot;\n\n&quot;, 3, =
+'./ddns.log');<br />
+        sleep(600);<br />
+    }<br />
+}<br />
+<br />
+----------------------------------------------------------------<br />
+DNSPod =E5=B7=A5=E7=A8=8B=E5=B8=88 =E6=9D=8E=E9=99=A2=E9=95=BF =
+=E5=9B=9E=E5=A4=8D=EF=BC=9A<br />
+<br />
+=E8=B0=A2=E8=B0=A2=E6=8F=90=E4=BE=9B=E3=80=82<br />
 
-                        'json';<BR><BR>private $error =3D =
-array();<BR><BR>public=20
-                        function __construct($email, $pass) {<BR>if (! =
-$email ||=20
-                        ! $pass) {<BR>exit ( 'no email or pass'=20
-                        );<BR>}<BR>$this-&gt;email =3D =
-$email;<BR>$this-&gt;pass =3D=20
-                        $pass;<BR>$this-&gt;httpHandler =3D new HTTP (=20
-                        'http://www.dnspod.com/API/' =
-);<BR>}<BR><BR>public=20
-                        function=20
-                        =
-createDomain($domain){<BR>$this-&gt;setAction('Domain.Create');<BR>$param=
-s['domain']=20
-                        =3D $domain;<BR>return=20
-                        $this-&gt;exec($params);<BR>}<BR><BR>public =
-function=20
-                        =
-removeDomain($domainId){<BR>$this-&gt;setAction('Domain.Remove');<BR>$par=
-ams['domain_id']=20
-                        =3D $domainId;<BR>return=20
-                        $this-&gt;exec($params);<BR>}<BR><BR>public =
-function=20
-                        setDomainStatus($domainId,$enable =3D=20
-                        =
-true){<BR>$this-&gt;setAction('Domain.Status');<BR>$params['domain_id']=20
-                        =3D $domainId;<BR><BR>$status =3D $enable ? =
-'enable' :=20
-                        'disable';<BR>$params['status'] =3D =
-$status;<BR><BR>return=20
-                        $this-&gt;exec($params);<BR>}<BR><BR>public =
-function=20
-                        getDomainList()=20
-                        =
-{<BR>$this-&gt;setAction('Domain.List');<BR>return=20
-                        $this-&gt;exec();<BR>}<BR><BR>public function=20
-                        =
-getRecordList($domainId){<BR>$this-&gt;setAction('Record.List');<BR>$para=
-ms['domain_id']=20
-                        =3D $domainId;<BR>return=20
-                        $this-&gt;exec($params);<BR>}<BR><BR>public =
-function=20
-                        =
-modifyRecord($params){<BR>$this-&gt;setAction('Record.Modify');<BR>return=
-=20
-                        $this-&gt;exec($params);<BR>}<BR><BR>public =
-function=20
-                        =
-removeRecord($domainId,$recordId){<BR>$this-&gt;setAction('Record.Remove'=
-);<BR>$params['domain_id']=20
-                        =3D $domainId;<BR>$params['record_id'] =3D=20
-                        $recordId;<BR><BR>return=20
-                        $this-&gt;exec($params);<BR>}<BR><BR>public =
-function=20
-                        setRecordStatus($domainId,$recordId,$enable =3D=20
-                        =
-true){<BR>$this-&gt;setAction('Record.Status');<BR>$params['domain_id']=20
-                        =3D $domainId;<BR>$params['record_id'] =3D=20
-                        $recordId;<BR><BR>$status =3D $enable ? 'enable' =
-:=20
-                        'disable';<BR>$params['status'] =3D =
-$status;<BR><BR>return=20
-                        $this-&gt;exec($params);<BR>}<BR><BR>private =
-function=20
-                        exec($params =3D ''){<BR>$params['login_email'] =
-=3D=20
-                        $this-&gt;email;<BR>$params['login_password'] =
-=3D=20
-                        $this-&gt;pass;<BR>$params['format'] =3D=20
-                        =
-$this-&gt;format;<BR><BR>$this-&gt;httpHandler-&gt;setParam($params);<BR>=
-<BR>$result=20
-                        =3D $this-&gt;httpHandler-&gt;exec =
-();<BR><BR>$result =3D=20
-                        json_decode ( $result );<BR><BR>if=20
-                        ($result-&gt;status-&gt;code !=3D=3D '1')=20
-                        {<BR>$this-&gt;error($result);<BR>return=20
-                        false;<BR>}<BR><BR>return =
-$result;<BR>}<BR><BR>private=20
-                        function=20
-                        =
-setAction($action){<BR>$this-&gt;httpHandler-&gt;setOption=20
-                        ( array (CURLOPT_URL =3D&gt; =
-$this-&gt;httpHandler-&gt;url=20
-                        . $action ) );<BR>}<BR><BR>private function=20
-                        error($result){<BR>$this-&gt;error['code'] =3D=20
-                        =
-$result-&gt;status-&gt;code;<BR>$this-&gt;error['message']=20
-                        =3D =
-$result-&gt;status-&gt;message;<BR>}<BR><BR>public=20
-                        function getError(){<BR>return=20
-                        $this-&gt;error;<BR>}<BR>}<BR><BR>$dnspod =3D =
-new=20
-                        dnspodapi ( 'xxxx@gmail.com', 'xxxx'=20
-                        );<BR><BR>print_r($dnspod-&gt;getRecordList=20
-                        =
-(23096));<BR><BR><BR><BR>print_r($dnspod-&gt;getError());<BR><BR>?&gt;<BR=
-><BR>----------------------------------------------------------------<BR>=
-DNSPod=20
-                        =E5=B7=A5=E7=A8=8B=E5=B8=88 =
-=E6=9D=8E=E9=99=A2=E9=95=BF =
-=E5=9B=9E=E5=A4=8D=EF=BC=9A<BR><BR>=E8=B0=A2=E8=B0=A2=E6=8F=90=E4=BE=9B=E3=
-=80=82=20
-                        <HR class=3Dcommenthr>
-                        </DIV>
-                        <DIV =
-class=3Dcommentrow1>=E5=8F=91=E8=A1=A8=E4=BA=BA:lazy On: 2009-10-22 =
-12:52 AM=20
-                        <HR class=3Dcommenthr>
-                        #!/usr/bin/php<BR>&lt;?php<BR>/**<BR>* =
-=E7=89=88=E6=9C=AC:0.3<BR>*=20
-                        =
-=E4=BD=9C=E8=80=85:lazy&lt;supporter@qq.com&gt;<BR>*=20
-                        =
+					<HR class=3D"commenthr">
+					</div>
+										<div class=3D"commentrow0">
+					 =E5=8F=91=E8=A1=A8=E4=BA=BA:lazy On: 2009-10-22 12:52 AM
+					<HR class=3D"commenthr">
+					#!/usr/bin/php<br />
+&lt;?php<br />
+/**<br />
+ * =E7=89=88=E6=9C=AC:0.3<br />
+ * =E4=BD=9C=E8=80=85:lazy&lt;supporter@qq.com&gt;<br />
+ * =
 =E7=89=88=E6=9D=83:=E6=97=A0,=E4=BD=86=E8=AF=B7=E4=BF=9D=E7=95=99=E6=AD=A4=
-=E4=BF=A1=E6=81=AF,=E8=B0=A2=E8=B0=A2.<BR>* =E6=97=A5=E5=BF=97:<BR>*=20
-                        =
+=E4=BF=A1=E6=81=AF,=E8=B0=A2=E8=B0=A2.<br />
+ * =E6=97=A5=E5=BF=97:<br />
+ *		=
 0.3=E5=8E=BB=E6=8E=89http=E7=B1=BB,json=E7=B1=BB,prce=E6=AD=A3=E5=88=99=E4=
 =BE=9D=E8=B5=96,=E6=B7=BB=E5=8A=A0=E4=BA=86=E6=89=80=E6=9C=89=E7=9A=84DNS=
-POD=E7=9A=84API<BR>*=20
-                        =
+POD=E7=9A=84API<br />
+ *		=
 0.2=E7=AE=80=E5=8D=95=E7=9A=84=E5=AE=9E=E7=8E=B0=E4=BA=86=E8=8E=B7=E5=8F=96=
 =E5=9F=9F=E5=90=8D,=E8=8E=B7=E5=8F=96=E5=9F=9F=E5=90=8D=E8=AE=B0=E5=BD=95=
-,=E6=9B=B4=E6=96=B0=E5=9F=9F=E5=90=8D=E8=AE=B0=E5=BD=95=E7=9A=84API<BR>* =
-0.1=E6=97=A0=E6=AD=A4=E7=89=88=E6=9C=AC<BR>*=20
-                        =E6=89=AF=E6=B7=A1:<BR>* =
+,=E6=9B=B4=E6=96=B0=E5=9F=9F=E5=90=8D=E8=AE=B0=E5=BD=95=E7=9A=84API<br =
+/>
+ *		0.1=E6=97=A0=E6=AD=A4=E7=89=88=E6=9C=AC<br />
+ * =E6=89=AF=E6=B7=A1:<br />
+ *		=
 =E5=86=99=E8=BF=99=E4=B8=AA=E7=9A=84=E7=9B=AE=E7=9A=84=E6=98=AF=E6=83=B3=E5=
 =9C=A8=E6=88=91=E7=9A=84=E8=B7=AF=E7=94=B1(OpenWRT,DD-WRT=E7=AD=89)=E4=B8=
-=8A=E5=AE=9E=E7=8E=B0DDNS=E5=8A=9F=E8=83=BD.<BR>*=20
-                        =
+=8A=E5=AE=9E=E7=8E=B0DDNS=E5=8A=9F=E8=83=BD.<br />
+ *		=
 =E7=94=B1=E4=BA=8E=E8=B7=AF=E7=94=B1=E6=9C=AC=E8=BA=AB=E8=87=AA=E5=B8=A6=E7=
 =9A=84=E9=82=A3=E4=BA=9B=E5=85=8D=E8=B4=B9=E7=9A=84DDNS=E4=B8=8D=E6=94=AF=
 =E6=8C=81=E9=A1=B6=E7=BA=A7=E5=9F=9F=E5=90=8D,=E6=88=96=E8=80=85=E9=9C=80=
-=E8=A6=81=E4=BA=A4=E9=92=B1.<BR>*=20
-                        =
+=E8=A6=81=E4=BA=A4=E9=92=B1.<br />
+ *		=
 =E8=80=8CDNSPOD=E6=9C=AC=E8=BA=AB=E6=94=AF=E6=8C=81=E9=A1=B6=E7=BA=A7=E5=9F=
 =9F=E5=90=8D=E4=B8=94=E5=85=8D=E8=B4=B9,=E4=BD=86=E6=98=AF=E5=AE=98=E6=96=
 =B9=E7=9A=84API=E5=8D=B4=E5=8F=88=E4=B8=8D=E6=94=AF=E6=8C=81GET=E6=96=B9=E5=
-=BC=8F=E6=8F=90=E4=BA=A4=E8=AF=B7=E6=B1=82.<BR>*=20
-                        =
+=BC=8F=E6=8F=90=E4=BA=A4=E8=AF=B7=E6=B1=82.<br />
+ *		=
 =E5=88=9A=E5=A5=BD=E6=88=91=E7=9A=84=E8=B7=AF=E7=94=B1(OpenWRT)=E4=B8=8A=E4=
 =B9=9F=E5=AE=89=E8=A3=85=E4=BA=86php=E5=92=8Clighttpd,=E6=89=80=E4=BB=A5=E5=
-=B0=B1=E6=8A=BD=E7=A9=BA=E5=86=99=E4=BA=86=E8=BF=99=E4=B8=AA.<BR>*=20
-                        =E9=99=84=E6=B3=A8:<BR>*=20
-                        =
+=B0=B1=E6=8A=BD=E7=A9=BA=E5=86=99=E4=BA=86=E8=BF=99=E4=B8=AA.<br />
+ * =E9=99=84=E6=B3=A8:<br />
+ *		=
 =E5=9C=A8openwrt=E7=AD=89=E8=B7=AF=E7=94=B1=E4=B8=8A=E4=BD=BF=E7=94=A8=E6=
 =96=B9=E5=BC=8F,shell=E9=AB=98=E6=89=8B=E8=AF=B7=E8=B7=B3=E8=BF=87,=E6=82=
 =A8=E5=8F=AF=E4=BB=A5=E7=94=A8nc=E5=92=8Cawk=E7=AD=89=E5=86=99=E4=B8=80=E4=
-=B8=AAsh=E6=9D=A5=E5=AE=9E=E7=8E=B0.<BR>*=20
-                        =
+=B8=AAsh=E6=9D=A5=E5=AE=9E=E7=8E=B0.<br />
+ *			=
 =E5=B0=86=E8=BF=99=E4=B8=AAphp=E8=84=9A=E6=9C=AC=E5=A4=8D=E5=88=B6=E5=88=B0=
 =E8=B7=AF=E7=94=B1=E4=B8=8A,=E6=AF=94=E5=A6=82=E5=A4=8D=E5=88=B6=E5=88=B0=
 /root/=E7=9A=84dnspod.php,=E7=84=B6=E5=90=8E=E4=BF=AE=E6=94=B9=E6=9C=80=E5=
 =BA=95=E9=83=A8=E7=9A=84=E7=94=A8=E6=88=B7=E5=90=8D=EF=BC=8C=E5=AF=86=E7=A0=
-=81=EF=BC=8C=E5=9F=9F=E5=90=8D=E7=AD=89=E4=BF=A1=E6=81=AF<BR>*=20
-                        =
+=81=EF=BC=8C=E5=9F=9F=E5=90=8D=E7=AD=89=E4=BF=A1=E6=81=AF<br />
+ *			=
 =E7=BB=99=E4=B8=8E=E5=8F=AF=E6=89=A7=E8=A1=8C=E7=9A=84=E6=9D=83=E9=99=90<=
-BR>* chmod +x /root/dnspod.php<BR>*=20
-                        =
+br />
+ *			chmod +x /root/dnspod.php<br />
+ *			=
 1.=E5=88=A9=E7=94=A8pppoe=E6=8B=A8=E5=8F=B7=E6=88=90=E5=8A=9F=E5=90=8E=E8=
-=87=AA=E5=8A=A8=E6=89=A7=E8=A1=8C<BR>*=20
-                        =
+=87=AA=E5=8A=A8=E6=89=A7=E8=A1=8C<br />
+ *				=
 =E7=9B=B4=E6=8E=A5=E5=9C=A8/etc/ppp/ip-up.d/=E4=B8=8B=E5=88=9B=E5=BB=BA=E4=
-=B8=80=E4=B8=AA=E9=93=BE=E6=8E=A5=E5=8D=B3=E5=8F=AF<BR>* ln -s=20
-                        /root/dnspod.php /etc/ppp/ip-up.d/ddns.php<BR>*=20
-                        =
+=B8=80=E4=B8=AA=E9=93=BE=E6=8E=A5=E5=8D=B3=E5=8F=AF<br />
+ *				ln -s /root/dnspod.php /etc/ppp/ip-up.d/ddns.php<br />
+ *			=
 2.=E7=94=A8cron=E6=96=B9=E5=BC=8F=E6=AF=8F=E9=9A=9410=E7=A7=92=E6=89=A7=E8=
-=A1=8C<BR>* echo "10 * * * * /root/dnspod.php"=20
-                        &gt;&gt; /etc/crontabs/root<BR>*=20
-                        =
+=A1=8C<br />
+ *				echo &quot;10 * * * * /root/dnspod.php&quot; &gt;&gt; =
+/etc/crontabs/root<br />
+ *		=
 =E7=94=B1=E4=BA=8Epppoe=E9=87=8D=E6=8B=A8=E5=8F=B7=E5=90=8E=E4=B8=8D=E4=BC=
 =9A=E5=86=8D=E6=AC=A1=E6=89=A7=E8=A1=8Cip-up.d=E7=9A=84=E8=84=9A=E6=9C=AC=
 =E6=89=80=E4=BB=A5=E5=BB=BA=E8=AE=AE=E5=90=8C=E6=97=B6=E4=BD=BF=E7=94=A8c=
 ron.=E5=A6=82=E6=9E=9C=E6=9C=89=E6=9B=B4=E5=A5=BD=E7=9A=84=E6=96=B9=E5=BC=
-=8F=E8=AF=B7=E5=91=8A=E7=9F=A5,=E8=B0=A2=E8=B0=A2<BR>*<BR>*=20
-                        =
-=E9=99=84=E6=B3=A8=E7=9A=84=E9=99=84=E6=B3=A8:<BR>* =
-openwrt=E5=AE=89=E8=A3=85php=E7=9A=84=E6=96=B9=E6=B3=95<BR>* opkg =
-install php4-cli=20
-                        =
+=8F=E8=AF=B7=E5=91=8A=E7=9F=A5,=E8=B0=A2=E8=B0=A2<br />
+ *<br />
+ * =E9=99=84=E6=B3=A8=E7=9A=84=E9=99=84=E6=B3=A8:<br />
+ *		openwrt=E5=AE=89=E8=A3=85php=E7=9A=84=E6=96=B9=E6=B3=95<br />
+ *		opkg install php4-cli =
 (ddwrt=E7=9A=84=E5=AE=89=E8=A3=85=E6=96=B9=E5=BC=8F=E7=B1=BB=E4=BC=BC,=E8=
-=AF=B7=E8=87=AA=E8=A1=8Cgoogle=E6=88=96=E8=80=85baidu)<BR>*=20
-                        =
+=AF=B7=E8=87=AA=E8=A1=8Cgoogle=E6=88=96=E8=80=85baidu)<br />
+ * =
 =E5=B8=8C=E6=9C=9B=E8=BF=99=E4=B8=AA=E8=83=BD=E5=B8=AE=E5=88=B0=E4=BD=A0<=
-BR>*/<BR>class dnspodAPI{<BR>var $ip;<BR>var=20
-                        $domainList =3D array();<BR>var $recordList =3D=20
-                        array();<BR>var $baseURL =3D=20
-                        'http://www.dnspod.com';<BR>var $postData =3D=20
-                        =
+br />
+ */<br />
+class dnspodAPI{<br />
+	var $ip;<br />
+	var $domainList =3D array();<br />
+	var $recordList =3D array();<br />
+	var $baseURL =3D 'http://www.dnspod.com';<br />
+	var $postData =3D =
 array('login_email'=3D&gt;'','login_password'=3D&gt;'','format'=3D&gt;'xm=
-l');<BR>function=20
-                        dnspodAPI($account,$password){<BR>return=20
-                        =
-$this-&gt;__construct($account,$password);<BR>}<BR>function=20
-                        =
-__construct($account,$password){<BR>$this-&gt;postData['login_email']=20
-                        =3D=20
-                        =
-trim($account);<BR>$this-&gt;postData['login_password']=20
-                        =3D trim($password);<BR>}<BR>function =
-getIP($hostname =3D=20
-                        null){<BR>if(isset($hostname{4})){<BR>$ip =3D=20
-                        trim(gethostbyname($hostname));<BR>return $ip =
-=3D=3D=20
-                        $hostname ? false : $ip;<BR>}<BR>$remote =3D=20
-                        =
-$this-&gt;get('http://www.ip138.com/ips8.asp');<BR>ereg('\[[0-9]+\.[0-9]+=
-\.[0-9]+\.[0-9]+\]',$remote,$tmp);<BR>$this-&gt;ip=20
-                        =3D trim($tmp[0],'[=20
-                        =
-]');<BR>if(!isset($this-&gt;ip{4})){<BR>error_log(date('Y-m-d=20
-                        H:i:s').":"."Get ip=20
-                        fail!",1,"/tmp/dnspod.log");<BR>return=20
-                        false;<BR>}else{<BR>return=20
-                        $this-&gt;ip;<BR>}<BR>}<BR>function=20
-                        betweenTagsVal($tags,$contents){<BR>$startOffset =
-=3D=20
-                        strpos($contents,"&lt;$tags&gt;") +=20
-                        strlen("&lt;$tags&gt;");<BR>$endOffset =3D=20
-                        strpos($contents,"&lt;/$tags&gt;");<BR>$length =
-=3D=20
-                        $endOffset - $startOffset;<BR>return=20
-                        =
-substr($contents,$startOffset,$length);<BR>}<BR>function=20
-                        buildQuery($data,$prefix =3D =
-'',$sep=3D'',$key=3D''){<BR>$ret=20
-                        =3D array();<BR>foreach($data as $k =3D&gt;=20
-                        $v){<BR>if(is_int($k) &amp;&amp; $prefix !=3D =
-null){<BR>$k=20
-                        =3D =
-urlencode($prefix.$k);<BR>}<BR>if((!empty($key)) ||=20
-                        ($key =3D=3D=3D 0)){<BR>$k =3D=20
-                        =
-$key.'['.urlencode($k).']';<BR>}<BR>if(is_array($v) ||=20
-                        =
-is_object($v)){<BR>array_push($ret,http_build_query($v,'',$sep,$k));<BR>}=
-else{<BR>array_push($ret,$k.'=3D'.urlencode($v));<BR>}<BR>}<BR>if(empty($=
-sep)){<BR>$sep=20
-                        =3D =
-ini_get('arg_separator.output');<BR>}<BR>return=20
-                        implode($sep,$ret);<BR>}<BR>function=20
-                        post($url,$data){<BR>$request =3D =
-"";<BR>$response =3D=20
-                        "";<BR>$info =3D parse_url($url);<BR>$socket =3D =
-
-                        =
-fsockopen($info['host'],80,$errNo,$errStr,60);<BR>if(!$socket){<BR>error_=
-log(date('Y-m-d=20
-                        =
-H:i:s').":"."=E6=89=93=E5=BC=80=E7=BD=91=E7=BB=9C=E9=93=BE=E6=8E=A5=E5=A4=
-=B1=E8=B4=A5(=E9=98=B2=E7=81=AB=E5=A2=99=E9=99=90=E5=88=B6?=E7=BD=91=E7=BB=
-=9C=E9=97=AE=E9=A2=98?)=20
-                        =
-$errNo=3D&gt;$errStr",2,"/tmp/dnspodAPI.log");<BR>return=20
-                        false;<BR>}<BR>$data =3D=20
-                        $this-&gt;buildQuery($data);<BR>$request .=3D =
-"POST=20
-                        {$info['path']} HTTP/1.1\r\n";<BR>$request .=3D =
-"HOST:=20
-                        {$info['host']}\r\n";<BR>$request .=3D =
-"User-Agent:=20
-                        PhpDnspodAPI/0.3 =
-(supporter@qq.com)\r\n";<BR>$request .=3D=20
-                        "Content-type:=20
-                        =
-application/x-www-form-urlencoded\r\n";<BR>$request .=3D=20
-                        =
-"Content-length:".strlen($data)."\r\n";<BR>$request .=3D=20
-                        "Connection: close\r\n\r\n";<BR>$request .=3D=20
-                        =
-$data;<BR>fwrite($socket,$request);<BR>while(!feof($socket)){<BR>$respons=
-e=20
-                        .=3D=20
-                        =
-fgets($socket,128);<BR>}<BR>fclose($socket);<BR>$return=20
-                        =3D=20
-                        =
-explode("\r\n\r\n",$response);<BR>array_shift($return);<BR>return=20
-                        implode("\r\n\r\n",$return);<BR>}<BR>function=20
-                        get($url){<BR>return=20
-                        file_get_contents($url);<BR>}<BR>function=20
-                        setUpdateDomain($domain){<BR>return=20
-                        $this-&gt;updateDomain =3D =
-$domain;<BR>}<BR>function=20
-                        =
-getDomainId($domain){<BR>if(isset($this-&gt;domainList[$domain]['id'])){<=
-BR>return=20
-                        =
-$this-&gt;domainList[$domain]['id'];<BR>}<BR>$this-&gt;getDomainList();<B=
-R>return=20
-                        =
+l');<br />
+	function dnspodAPI($account,$password){<br />
+		return $this-&gt;__construct($account,$password);<br />
+	}<br />
+	function __construct($account,$password){<br />
+		$this-&gt;postData['login_email'] =3D trim($account);<br />
+		$this-&gt;postData['login_password'] =3D trim($password);<br />
+	}<br />
+	function getIP($hostname =3D null){<br />
+		if(isset($hostname{4})){<br />
+			$ip =3D trim(gethostbyname($hostname));<br />
+			return $ip =3D=3D $hostname ? false : $ip;<br />
+		}<br />
+		$remote =3D $this-&gt;get('http://www.ip138.com/ips8.asp');<br />
+		ereg('\[[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+\]',$remote,$tmp);<br />
+		$this-&gt;ip =3D trim($tmp[0],'[ ]');<br />
+		if(!isset($this-&gt;ip{4})){<br />
+			error_log(date('Y-m-d H:i:s').&quot;:&quot;.&quot;Get ip =
+fail!&quot;,1,&quot;/tmp/dnspod.log&quot;);<br />
+			return false;<br />
+		}else{<br />
+			return $this-&gt;ip;<br />
+		}<br />
+	}<br />
+	function betweenTagsVal($tags,$contents){<br />
+		$startOffset =3D strpos($contents,&quot;&lt;$tags&gt;&quot;) + =
+strlen(&quot;&lt;$tags&gt;&quot;);<br />
+		$endOffset =3D strpos($contents,&quot;&lt;/$tags&gt;&quot;);<br />
+		$length =3D $endOffset - $startOffset;<br />
+		return substr($contents,$startOffset,$length);<br />
+	}<br />
+	function buildQuery($data,$prefix =3D '',$sep=3D'',$key=3D''){<br />
+		$ret =3D array();<br />
+		foreach($data as $k =3D&gt; $v){<br />
+			if(is_int($k) &amp;&amp; $prefix !=3D null){<br />
+				$k =3D urlencode($prefix.$k);<br />
+			}<br />
+			if((!empty($key)) || ($key =3D=3D=3D 0)){<br />
+				$k =3D $key.'['.urlencode($k).']';<br />
+			}<br />
+			if(is_array($v) || is_object($v)){<br />
+				array_push($ret,http_build_query($v,'',$sep,$k));<br />
+			}else{<br />
+				array_push($ret,$k.'=3D'.urlencode($v));<br />
+			}<br />
+		}<br />
+		if(empty($sep)){<br />
+			$sep =3D ini_get('arg_separator.output');<br />
+		}<br />
+		return implode($sep,$ret);<br />
+	}<br />
+	function post($url,$data){<br />
+		$request =3D  &quot;&quot;;<br />
+		$response =3D &quot;&quot;;<br />
+		$info =3D parse_url($url);<br />
+		$socket =3D fsockopen($info['host'],80,$errNo,$errStr,60);<br />
+		if(!$socket){<br />
+			error_log(date('Y-m-d =
+H:i:s').&quot;:&quot;.&quot;=E6=89=93=E5=BC=80=E7=BD=91=E7=BB=9C=E9=93=BE=
+=E6=8E=A5=E5=A4=B1=E8=B4=A5(=E9=98=B2=E7=81=AB=E5=A2=99=E9=99=90=E5=88=B6=
+?=E7=BD=91=E7=BB=9C=E9=97=AE=E9=A2=98?) =
+$errNo=3D&gt;$errStr&quot;,2,&quot;/tmp/dnspodAPI.log&quot;);<br />
+			return false;<br />
+		}<br />
+		$data =3D $this-&gt;buildQuery($data);<br />
+		$request .=3D &quot;POST {$info['path']} HTTP/1.1\r\n&quot;;<br />
+		$request .=3D &quot;HOST: {$info['host']}\r\n&quot;;<br />
+		$request .=3D &quot;User-Agent: PhpDnspodAPI/0.3 =
+(supporter@qq.com)\r\n&quot;;<br />
+		$request .=3D &quot;Content-type: =
+application/x-www-form-urlencoded\r\n&quot;;<br />
+		$request .=3D =
+&quot;Content-length:&quot;.strlen($data).&quot;\r\n&quot;;<br />
+		$request .=3D &quot;Connection: close\r\n\r\n&quot;;<br />
+		$request .=3D $data;<br />
+		fwrite($socket,$request);<br />
+		while(!feof($socket)){<br />
+			$response .=3D fgets($socket,128);<br />
+		}<br />
+		fclose($socket);<br />
+		$return =3D explode(&quot;\r\n\r\n&quot;,$response);<br />
+		array_shift($return);<br />
+		return implode(&quot;\r\n\r\n&quot;,$return);<br />
+	}<br />
+	function get($url){<br />
+		return file_get_contents($url);<br />
+	}<br />
+	function setUpdateDomain($domain){<br />
+		return $this-&gt;updateDomain =3D $domain;<br />
+	}<br />
+	function getDomainId($domain){<br />
+		if(isset($this-&gt;domainList[$domain]['id'])){<br />
+			return $this-&gt;domainList[$domain]['id'];<br />
+		}<br />
+		$this-&gt;getDomainList();<br />
+		return =
 isset($this-&gt;domainList[$domain]['id'])?$this-&gt;domainList[$domain][=
-'id']:false;<BR>}<BR>function=20
-                        getDomainList(){<BR>$remote =3D=20
-                        =
+'id']:false;<br />
+	}<br />
+	function getDomainList(){<br />
+		$remote =3D =
 $this-&gt;post($this-&gt;baseURL.'/API/Domain.List',$this-&gt;postData);<=
-BR>ereg('&lt;domain&gt;.*&lt;\/domain&gt;',$remote,$temp);<BR>$contents=20
-                        =3D=20
-                        =
-explode('&lt;/domain&gt;',$temp[0]);<BR>if($contents[0]=20
-                        =3D=3D $temp[0]){<BR>error_log(date('Y-m-d=20
-                        =
-H:i:s').":"."=E8=8E=B7=E5=8F=96=E5=9F=9F=E5=90=8D=E5=88=97=E8=A1=A8=E5=A4=
-=B1=E8=B4=A5!",2,"/tmp/dnspodAPI.log");<BR>return=20
-                        =
-false;<BR>}<BR>array_pop($contents);<BR>foreach($contents=20
-                        as $content){<BR>$id =3D=20
-                        =
-$this-&gt;betweenTagsVal('id',$content);<BR>$domain =3D=20
-                        =
-$this-&gt;betweenTagsVal('name',$content);<BR>$status =3D=20
-                        =
-$this-&gt;betweenTagsVal('status',$content);<BR>$records=20
-                        =3D=20
-                        =
-$this-&gt;betweenTagsVal('records',$content);<BR>$this-&gt;domainList[$do=
-main]=20
-                        =3D array('id' =3D&gt; $id,'status' =3D&gt; =
-$status,'records'=20
-                        =3D&gt; $records);<BR>}<BR>return=20
-                        $this-&gt;domainList;<BR>}<BR>function=20
-                        createDomain($domain){<BR>$error =3D=20
-                        =
-array(<BR>'-1'=3D&gt;"=E7=99=BB=E5=BD=95=E5=A4=B1=E8=B4=A5",<BR>'1'=3D&gt=
-;"=E5=88=9B=E5=BB=BA=E6=88=90=E5=8A=9F",<BR>'2'=3D&gt;"=E5=8F=AA=E5=85=81=
-=E8=AE=B8POST=E6=96=B9=E6=B3=95",<BR>'3'=3D&gt;"=E6=9C=AA=E7=9F=A5=E9=94=99=
-=E8=AF=AF",<BR>'4'=3D&gt;"=E5=9F=9F=E5=90=8D=E6=97=A0=E6=95=88",<BR>'5'=3D=
-&gt;"=E5=9F=9F=E5=90=8D=E5=B7=B2=E7=BB=8F=E5=AD=98=E5=9C=A8"<BR>);<BR>$th=
-is-&gt;postData['domain']=20
-                        =3D $domain;<BR>$remote =3D=20
-                        =
+br />
+		ereg('&lt;domain&gt;.*&lt;\/domain&gt;',$remote,$temp);<br />
+		$contents =3D explode('&lt;/domain&gt;',$temp[0]);<br />
+		if($contents[0] =3D=3D $temp[0]){<br />
+			error_log(date('Y-m-d =
+H:i:s').&quot;:&quot;.&quot;=E8=8E=B7=E5=8F=96=E5=9F=9F=E5=90=8D=E5=88=97=
+=E8=A1=A8=E5=A4=B1=E8=B4=A5!&quot;,2,&quot;/tmp/dnspodAPI.log&quot;);<br =
+/>
+			return false;<br />
+		}<br />
+		array_pop($contents);<br />
+		foreach($contents as $content){<br />
+			$id =3D $this-&gt;betweenTagsVal('id',$content);<br />
+			$domain =3D $this-&gt;betweenTagsVal('name',$content);<br />
+			$status =3D $this-&gt;betweenTagsVal('status',$content);<br />
+			$records =3D $this-&gt;betweenTagsVal('records',$content);<br />
+			$this-&gt;domainList[$domain] =3D array('id' =3D&gt; $id,'status' =
+=3D&gt; $status,'records' =3D&gt; $records);<br />
+		}<br />
+		return $this-&gt;domainList;<br />
+	}<br />
+	function createDomain($domain){<br />
+		$error =3D array(<br />
+			'-1'=3D&gt;&quot;=E7=99=BB=E5=BD=95=E5=A4=B1=E8=B4=A5&quot;,<br />
+			'1'=3D&gt;&quot;=E5=88=9B=E5=BB=BA=E6=88=90=E5=8A=9F&quot;,<br />
+			=
+'2'=3D&gt;&quot;=E5=8F=AA=E5=85=81=E8=AE=B8POST=E6=96=B9=E6=B3=95&quot;,<=
+br />
+			'3'=3D&gt;&quot;=E6=9C=AA=E7=9F=A5=E9=94=99=E8=AF=AF&quot;,<br />
+			'4'=3D&gt;&quot;=E5=9F=9F=E5=90=8D=E6=97=A0=E6=95=88&quot;,<br />
+			=
+'5'=3D&gt;&quot;=E5=9F=9F=E5=90=8D=E5=B7=B2=E7=BB=8F=E5=AD=98=E5=9C=A8&qu=
+ot;<br />
+		);<br />
+		$this-&gt;postData['domain'] =3D $domain;<br />
+		$remote =3D =
 $this-&gt;post($this-&gt;baseURL.'/API/Domain.Create',$this-&gt;postData)=
-;<BR>$status=20
-                        =3D =
-$this-&gt;betweenTagsVal('code',$remote);<BR>$id =3D=20
-                        =
-$this-&gt;betweenTagsVal('id',$remote);<BR>$punycode =3D=20
-                        =
-$this-&gt;betweenTagsVal('punycode',$remote);<BR>$this-&gt;domainList[$do=
-main]=20
-                        =3D=20
-                        =
-array('id'=3D&gt;$id,'status'=3D&gt;$error["$status"],'punycode'=3D&gt;$p=
-unycode);<BR>return=20
-                        $this-&gt;domainList;<BR>}<BR>function=20
-                        removeDomain($domain){<BR>$error =3D=20
-                        =
-array(<BR>'-1'=3D&gt;"=E7=99=BB=E5=BD=95=E5=A4=B1=E8=B4=A5",<BR>'1'=3D&gt=
-;"=E5=88=A0=E9=99=A4=E6=88=90=E5=8A=9F",<BR>'2'=3D&gt;"=E5=8F=AA=E5=85=81=
-=E8=AE=B8POST=E6=96=B9=E6=B3=95",<BR>'3'=3D&gt;"=E6=9C=AA=E7=9F=A5=E9=94=99=
-=E8=AF=AF",<BR>'4'=3D&gt;"=E5=9F=9F=E5=90=8DID=E9=94=99=E8=AF=AF",<BR>'5'=
-=3D&gt;"=E5=9F=9F=E5=90=8D=E4=B8=8D=E5=AD=98=E5=9C=A8",<BR>'6'=3D&gt;"=E9=
-=9D=9E=E5=9F=9F=E5=90=8D=E6=89=80=E6=9C=89=E8=80=85"<BR>);<BR>$id=20
-                        =3D=20
-                        =
-$this-&gt;getDomainId($domain);<BR>$this-&gt;postData['domain_id']=20
-                        =3D $id;<BR>$remote =3D=20
-                        =
+;<br />
+		$status =3D $this-&gt;betweenTagsVal('code',$remote);<br />
+		$id =3D $this-&gt;betweenTagsVal('id',$remote);<br />
+		$punycode =3D $this-&gt;betweenTagsVal('punycode',$remote);<br />
+		$this-&gt;domainList[$domain] =3D =
+array('id'=3D&gt;$id,'status'=3D&gt;$error[&quot;$status&quot;],'punycode=
+'=3D&gt;$punycode);<br />
+		return $this-&gt;domainList;<br />
+	}<br />
+	function removeDomain($domain){<br />
+		$error =3D array(<br />
+			'-1'=3D&gt;&quot;=E7=99=BB=E5=BD=95=E5=A4=B1=E8=B4=A5&quot;,<br />
+			'1'=3D&gt;&quot;=E5=88=A0=E9=99=A4=E6=88=90=E5=8A=9F&quot;,<br />
+			=
+'2'=3D&gt;&quot;=E5=8F=AA=E5=85=81=E8=AE=B8POST=E6=96=B9=E6=B3=95&quot;,<=
+br />
+			'3'=3D&gt;&quot;=E6=9C=AA=E7=9F=A5=E9=94=99=E8=AF=AF&quot;,<br />
+			'4'=3D&gt;&quot;=E5=9F=9F=E5=90=8DID=E9=94=99=E8=AF=AF&quot;,<br />
+			=
+'5'=3D&gt;&quot;=E5=9F=9F=E5=90=8D=E4=B8=8D=E5=AD=98=E5=9C=A8&quot;,<br =
+/>
+			=
+'6'=3D&gt;&quot;=E9=9D=9E=E5=9F=9F=E5=90=8D=E6=89=80=E6=9C=89=E8=80=85&qu=
+ot;<br />
+		);<br />
+		$id =3D $this-&gt;getDomainId($domain);<br />
+		$this-&gt;postData['domain_id'] =3D $id;<br />
+		$remote =3D =
 $this-&gt;post($this-&gt;baseURL.'/API/Domain.Remove',$this-&gt;postData)=
-;<BR>$status=20
-                        =3D =
-$this-&gt;betweenTagsVal('code',$remote);<BR>$message=20
-                        =3D =
-$this-&gt;betweenTagsVal('message',$remote);<BR>return=20
-                        =
+;<br />
+		$status =3D $this-&gt;betweenTagsVal('code',$remote);<br />
+		$message =3D $this-&gt;betweenTagsVal('message',$remote);<br />
+		return =
 array('status'=3D&gt;$status,'message'=3D&gt;$message,'error'=3D&gt;$erro=
-r["$status"]);<BR>}<BR>function=20
-                        setDomainStatus($domain,$status){<BR>$error =3D=20
-                        =
-array(<BR>'-1'=3D&gt;"=E7=99=BB=E5=BD=95=E5=A4=B1=E8=B4=A5",<BR>'1'=3D&gt=
-;"=E4=BF=AE=E6=94=B9=E6=88=90=E5=8A=9F",<BR>'2'=3D&gt;"=E5=8F=AA=E5=85=81=
-=E8=AE=B8POST=E6=96=B9=E6=B3=95",<BR>'3'=3D&gt;"=E6=9C=AA=E7=9F=A5=E9=94=99=
-=E8=AF=AF",<BR>'4'=3D&gt;"=E5=9F=9F=E5=90=8DID=E9=94=99=E8=AF=AF",<BR>'5'=
-=3D&gt;"=E5=9F=9F=E5=90=8D=E4=B8=8D=E5=AD=98=E5=9C=A8",<BR>'6'=3D&gt;"=E9=
-=9D=9E=E5=9F=9F=E5=90=8D=E6=89=80=E6=9C=89=E8=80=85"<BR>);<BR>$id=20
-                        =3D=20
-                        =
-$this-&gt;getDomainId($domain);<BR>$this-&gt;postData['domain_id']=20
-                        =3D $id;<BR>$this-&gt;postData['status'] =3D=20
-                        $status;<BR>$remote =3D=20
-                        =
+r[&quot;$status&quot;]);<br />
+	}<br />
+	function setDomainStatus($domain,$status){<br />
+		$error =3D array(<br />
+			'-1'=3D&gt;&quot;=E7=99=BB=E5=BD=95=E5=A4=B1=E8=B4=A5&quot;,<br />
+			'1'=3D&gt;&quot;=E4=BF=AE=E6=94=B9=E6=88=90=E5=8A=9F&quot;,<br />
+			=
+'2'=3D&gt;&quot;=E5=8F=AA=E5=85=81=E8=AE=B8POST=E6=96=B9=E6=B3=95&quot;,<=
+br />
+			'3'=3D&gt;&quot;=E6=9C=AA=E7=9F=A5=E9=94=99=E8=AF=AF&quot;,<br />
+			'4'=3D&gt;&quot;=E5=9F=9F=E5=90=8DID=E9=94=99=E8=AF=AF&quot;,<br />
+			=
+'5'=3D&gt;&quot;=E5=9F=9F=E5=90=8D=E4=B8=8D=E5=AD=98=E5=9C=A8&quot;,<br =
+/>
+			=
+'6'=3D&gt;&quot;=E9=9D=9E=E5=9F=9F=E5=90=8D=E6=89=80=E6=9C=89=E8=80=85&qu=
+ot;<br />
+		);<br />
+		$id =3D $this-&gt;getDomainId($domain);<br />
+		$this-&gt;postData['domain_id'] =3D $id;<br />
+		$this-&gt;postData['status'] =3D $status;<br />
+		$remote =3D =
 $this-&gt;post($this-&gt;baseURL.'/API/Domain.Status',$this-&gt;postData)=
-;<BR>$status=20
-                        =3D =
-$this-&gt;betweenTagsVal('code',$remote);<BR>$message=20
-                        =3D =
-$this-&gt;betweenTagsVal('message',$remote);<BR>return=20
-                        =
+;<br />
+		$status =3D $this-&gt;betweenTagsVal('code',$remote);<br />
+		$message =3D $this-&gt;betweenTagsVal('message',$remote);<br />
+		return =
 array('status'=3D&gt;$status,'message'=3D&gt;$message,'error'=3D&gt;$erro=
-r["$status"]);<BR>}<BR>function=20
-                        =
-getDomainRecordId($domain,$name,$type=3Dnull,$line=3Dnull){<BR>$error=20
-                        =3D=20
-                        =
-array(<BR>'-1'=3D&gt;"=E7=99=BB=E5=BD=95=E5=A4=B1=E8=B4=A5",<BR>'1'=3D&gt=
-;"=E6=88=90=E5=8A=9F",<BR>'2'=3D&gt;"=E5=8F=AA=E5=85=81=E8=AE=B8POST=E6=96=
-=B9=E6=B3=95",<BR>'3'=3D&gt;"=E6=9C=AA=E7=9F=A5=E9=94=99=E8=AF=AF",<BR>'4=
-'=3D&gt;"=E5=9F=9F=E5=90=8DID=E9=94=99=E8=AF=AF",<BR>'5'=3D&gt;"=E5=9F=9F=
-=E5=90=8D=E4=B8=8D=E5=AD=98=E5=9C=A8",<BR>'6'=3D&gt;"=E9=9D=9E=E5=9F=9F=E5=
-=90=8D=E6=89=80=E6=9C=89=E8=80=85",<BR>'7'=3D&gt;"=E6=B2=A1=E6=9C=89=E8=AE=
-=B0=E5=BD=95"<BR>);<BR>if(empty($type)=20
-                        &amp;&amp; empty($line)){<BR>$hash =3D=20
-                        $name;<BR>}else{<BR>$hash =3D=20
-                        =
-md5($type.$name.$line);<BR>}<BR>if(isset($this-&gt;recordList[$domain][$h=
-ash]['id'])){<BR>return=20
-                        =
-$this-&gt;recordList[$domain][$hash]['id'];<BR>}<BR>$this-&gt;getDomainRe=
-cordList($domain);<BR>if(isset($this-&gt;recordList[$domain][$hash]['id']=
-)){<BR>return=20
-                        =
-$this-&gt;recordList[$domain][$hash]['id'];<BR>}else{<BR>return=20
-                        false;<BR>}<BR>}<BR>function=20
-                        getDomainRecordList($domain){<BR>$arrayType =3D=20
-                        =
-array(<BR>"1"=3D&gt;"A",<BR>"2"=3D&gt;"CNAME",<BR>"3"=3D&gt;"MX",<BR>"4"=3D=
-&gt;"URL",<BR>"5"=3D&gt;"NS",<BR>"6"=3D&gt;"TXT",<BR>"7"=3D&gt;"AAAA"<BR>=
-);<BR>$arrayLine=20
-                        =3D=20
-                        =
-array(<BR>"1"=3D&gt;"GEN",<BR>"2"=3D&gt;"TEL",<BR>"3"=3D&gt;"CNC",<BR>"4"=
-=3D&gt;"EDU"<BR>);<BR>$id=20
-                        =3D=20
-                        =
-$this-&gt;getDomainId($domain);<BR>$this-&gt;postData['domain_id']=20
-                        =3D $id;<BR>$remote =3D=20
-                        =
+r[&quot;$status&quot;]);<br />
+	}<br />
+	function getDomainRecordId($domain,$name,$type=3Dnull,$line=3Dnull){<br =
+/>
+		$error =3D array(<br />
+			'-1'=3D&gt;&quot;=E7=99=BB=E5=BD=95=E5=A4=B1=E8=B4=A5&quot;,<br />
+			'1'=3D&gt;&quot;=E6=88=90=E5=8A=9F&quot;,<br />
+			=
+'2'=3D&gt;&quot;=E5=8F=AA=E5=85=81=E8=AE=B8POST=E6=96=B9=E6=B3=95&quot;,<=
+br />
+			'3'=3D&gt;&quot;=E6=9C=AA=E7=9F=A5=E9=94=99=E8=AF=AF&quot;,<br />
+			'4'=3D&gt;&quot;=E5=9F=9F=E5=90=8DID=E9=94=99=E8=AF=AF&quot;,<br />
+			=
+'5'=3D&gt;&quot;=E5=9F=9F=E5=90=8D=E4=B8=8D=E5=AD=98=E5=9C=A8&quot;,<br =
+/>
+			=
+'6'=3D&gt;&quot;=E9=9D=9E=E5=9F=9F=E5=90=8D=E6=89=80=E6=9C=89=E8=80=85&qu=
+ot;,<br />
+			'7'=3D&gt;&quot;=E6=B2=A1=E6=9C=89=E8=AE=B0=E5=BD=95&quot;<br />
+		);<br />
+		if(empty($type) &amp;&amp; empty($line)){<br />
+			$hash =3D $name;<br />
+		}else{<br />
+			$hash =3D md5($type.$name.$line);<br />
+		}<br />
+		if(isset($this-&gt;recordList[$domain][$hash]['id'])){<br />
+			return $this-&gt;recordList[$domain][$hash]['id'];<br />
+		}<br />
+		$this-&gt;getDomainRecordList($domain);<br />
+		if(isset($this-&gt;recordList[$domain][$hash]['id'])){<br />
+			return $this-&gt;recordList[$domain][$hash]['id'];<br />
+		}else{<br />
+			return false;<br />
+		}<br />
+	}<br />
+	function getDomainRecordList($domain){<br />
+		$arrayType =3D array(<br />
+			&quot;1&quot;=3D&gt;&quot;A&quot;,<br />
+			&quot;2&quot;=3D&gt;&quot;CNAME&quot;,<br />
+			&quot;3&quot;=3D&gt;&quot;MX&quot;,<br />
+			&quot;4&quot;=3D&gt;&quot;URL&quot;,<br />
+			&quot;5&quot;=3D&gt;&quot;NS&quot;,<br />
+			&quot;6&quot;=3D&gt;&quot;TXT&quot;,<br />
+			&quot;7&quot;=3D&gt;&quot;AAAA&quot;<br />
+		);<br />
+		$arrayLine =3D array(<br />
+			&quot;1&quot;=3D&gt;&quot;GEN&quot;,<br />
+			&quot;2&quot;=3D&gt;&quot;TEL&quot;,<br />
+			&quot;3&quot;=3D&gt;&quot;CNC&quot;,<br />
+			&quot;4&quot;=3D&gt;&quot;EDU&quot;<br />
+		);<br />
+		$id =3D $this-&gt;getDomainId($domain);<br />
+		$this-&gt;postData['domain_id'] =3D $id;<br />
+		$remote =3D =
 $this-&gt;post($this-&gt;baseURL.'/API/Record.List',$this-&gt;postData);<=
-BR>ereg('&lt;records&gt;.*&lt;\/records&gt;',$remote,$temp);<BR>$contents=
-=20
-                        =3D=20
-                        =
-explode('&lt;/record&gt;',$temp[0]);<BR>if($contents[0]=20
-                        =3D=3D $temp[0]){<BR>error_log(date('Y-m-d=20
-                        =
-H:i:s').":"."=E8=8E=B7=E5=8F=96=E5=9F=9F=E5=90=8D=E5=88=97=E8=A1=A8=E5=A4=
-=B1=E8=B4=A5!",2,"/tmp/dnspodAPI.log");<BR>return=20
-                        =
-false;<BR>}<BR>array_pop($contents);<BR>foreach($contents=20
-                        as $content){<BR>$id =3D=20
-                        =
-$this-&gt;betweenTagsVal('id',$content);<BR>$name =3D=20
-                        =
-$this-&gt;betweenTagsVal('name',$content);<BR>$line =3D=20
-                        =
-$this-&gt;betweenTagsVal('line',$content);<BR>$type =3D=20
-                        =
-$this-&gt;betweenTagsVal('type',$content);<BR>$ttl =3D=20
-                        =
-$this-&gt;betweenTagsVal('ttl',$content);<BR>$value =3D=20
-                        =
-$this-&gt;betweenTagsVal('value',$content);<BR>$mx =3D=20
-                        =
-$this-&gt;betweenTagsVal('mx',$content);<BR>$enabled =3D=20
-                        =
-$this-&gt;betweenTagsVal('enabled',$content);<BR>$type =3D=20
-                        $arrayType["$type"];<BR>$line =3D=20
-                        $arrayLine["$line"];<BR>$hash =3D=20
-                        =
-md5($type.$name.$line);<BR>$this-&gt;recordList[$domain][$hash]=20
-                        =3D array(<BR>'id' =3D&gt; $id,<BR>'type' =
-=3D&gt;=20
-                        $type,<BR>'name' =3D&gt; $name,<BR>'value' =
-=3D&gt;=20
-                        $value,<BR>'line' =3D&gt; $line,<BR>'ttl' =
-=3D&gt;=20
-                        $ttl,<BR>'mx' =3D&gt; $mx,<BR>'enabled' =3D&gt;=20
-                        $enabled<BR>);<BR>}<BR>return=20
-                        $this-&gt;recordList;<BR>}<BR>function=20
-                        =
+br />
+		ereg('&lt;records&gt;.*&lt;\/records&gt;',$remote,$temp);<br />
+		$contents =3D explode('&lt;/record&gt;',$temp[0]);<br />
+		if($contents[0] =3D=3D $temp[0]){<br />
+			error_log(date('Y-m-d =
+H:i:s').&quot;:&quot;.&quot;=E8=8E=B7=E5=8F=96=E5=9F=9F=E5=90=8D=E5=88=97=
+=E8=A1=A8=E5=A4=B1=E8=B4=A5!&quot;,2,&quot;/tmp/dnspodAPI.log&quot;);<br =
+/>
+			return false;<br />
+		}<br />
+		array_pop($contents);<br />
+		foreach($contents as $content){<br />
+			$id =3D $this-&gt;betweenTagsVal('id',$content);<br />
+			$name =3D $this-&gt;betweenTagsVal('name',$content);<br />
+			$line =3D $this-&gt;betweenTagsVal('line',$content);<br />
+			$type =3D $this-&gt;betweenTagsVal('type',$content);<br />
+			$ttl =3D $this-&gt;betweenTagsVal('ttl',$content);<br />
+			$value =3D $this-&gt;betweenTagsVal('value',$content);<br />
+			$mx =3D $this-&gt;betweenTagsVal('mx',$content);<br />
+			$enabled =3D $this-&gt;betweenTagsVal('enabled',$content);<br />
+			$type =3D $arrayType[&quot;$type&quot;];<br />
+			$line =3D $arrayLine[&quot;$line&quot;];<br />
+			$hash =3D md5($type.$name.$line);<br />
+			$this-&gt;recordList[$domain][$hash] =3D array(<br />
+				'id' =3D&gt; $id,<br />
+				'type' =3D&gt; $type,<br />
+				'name' =3D&gt; $name,<br />
+				'value' =3D&gt; $value,<br />
+				'line' =3D&gt; $line,<br />
+				'ttl' =3D&gt; $ttl,<br />
+				'mx' =3D&gt; $mx,<br />
+				'enabled' =3D&gt; $enabled<br />
+			);<br />
+		}<br />
+		return $this-&gt;recordList;<br />
+	}<br />
+	function =
 createDomainRecord($domain,$subdomain=3D'@',$type=3D'A',$line=3D'GEN',$va=
-lue=3D"127.0.0.1",$mx=3D10,$ttl=3D1){<BR>$type=20
-                        =3D strtoupper($type);<BR>$line =3D=20
-                        strtoupper($line);<BR>$error =3D=20
-                        =
-array(<BR>"-1"=3D&gt;'=E7=99=BB=E9=99=86=E5=A4=B1=E8=B4=A5',<BR>"1"=3D&gt=
-;'=E6=88=90=E5=8A=9F',<BR>"2"=3D&gt;'=E5=8F=AA=E5=85=81=E8=AE=B8POST=E6=96=
-=B9=E6=B3=95',<BR>"3"=3D&gt;'=E6=9C=AA=E7=9F=A5=E9=94=99=E8=AF=AF',<BR>"4=
-"=3D&gt;'=E5=9F=9F=E5=90=8DID=E9=94=99=E8=AF=AF',<BR>"5"=3D&gt;'=E5=9F=9F=
-=E5=90=8D=E4=B8=8D=E5=AD=98=E5=9C=A8',<BR>"6"=3D&gt;'=E9=9D=9E=E5=9F=9F=E5=
-=90=8D=E6=89=80=E6=9C=89=E8=80=85',<BR>"7"=3D&gt;'=E7=BC=BA=E5=B0=91=E5=8F=
-=82=E6=95=B0=E6=88=96=E8=80=85=E5=8F=82=E6=95=B0=E9=94=99=E8=AF=AF',<BR>"=
-8"=3D&gt;'=E4=B8=BB=E6=9C=BA=E8=AE=B0=E5=BD=95=E9=94=99=E8=AF=AF',<BR>"9"=
-=3D&gt;'=E8=AE=B0=E5=BD=95=E5=80=BC=E9=94=99=E8=AF=AF',<BR>"10"=3D&gt;'=E4=
-=B8=8D=E8=83=BD=E4=B8=BA@=E8=AE=B0=E5=BD=95=E8=AE=BE=E7=BD=AENS=E7=B1=BB=E5=
-=9E=8B',<BR>"11"=3D&gt;'TTL=20
-                        =E5=BF=85=E9=A1=BB=E5=A4=A7=E4=BA=8E =
-1',<BR>"12"=3D&gt;'MX =E5=BF=85=E9=A1=BB=E5=A4=A7=E4=BA=8E =
-1',<BR>"13"=3D&gt;'=E8=AE=B0=E5=BD=95=E9=87=8D=E5=A4=8D=E6=88=96=E8=80=85=
-=E5=92=8C=20
-                        CNAME =
-=E8=AE=B0=E5=BD=95=E5=86=B2=E7=AA=81'<BR>);<BR>$arrayType =3D=20
-                        =
-array(<BR>"A"=3D&gt;1,<BR>"CNAME"=3D&gt;2,<BR>"MX"=3D&gt;3,<BR>"URL"=3D&g=
-t;4,<BR>"NS"=3D&gt;5,<BR>"TXT"=3D&gt;6,<BR>"AAAA"=3D&gt;7<BR>);<BR>$array=
-Line=20
-                        =3D=20
-                        =
-array(<BR>"GEN"=3D&gt;1,<BR>"TEL"=3D&gt;2,<BR>"CNC"=3D&gt;3,<BR>"EDU"=3D&=
-gt;4<BR>);<BR>$this-&gt;postData['domain_id']=20
-                        =3D=20
-                        =
-$this-&gt;getDomainId($domain);<BR>$this-&gt;postData['sub_domain']=20
-                        =3D =
-$subdomain;<BR>$this-&gt;postData['record_type'] =3D=20
-                        =
-$arrayType[$type];<BR>$this-&gt;postData['record_line']=20
-                        =3D =
-$arrayLine[$line];<BR>$this-&gt;postData['value'] =3D=20
-                        $value;<BR>$this-&gt;postData['mx'] =3D=20
-                        $mx;<BR>$this-&gt;postData['ttl'] =3D =
-$ttl;<BR>$remote =3D=20
-                        =
+lue=3D&quot;127.0.0.1&quot;,$mx=3D10,$ttl=3D1){<br />
+		$type =3D strtoupper($type);<br />
+		$line =3D strtoupper($line);<br />
+		$error =3D array(<br />
+			&quot;-1&quot;=3D&gt;'=E7=99=BB=E9=99=86=E5=A4=B1=E8=B4=A5',<br />
+			&quot;1&quot;=3D&gt;'=E6=88=90=E5=8A=9F',<br />
+			=
+&quot;2&quot;=3D&gt;'=E5=8F=AA=E5=85=81=E8=AE=B8POST=E6=96=B9=E6=B3=95',<=
+br />
+			&quot;3&quot;=3D&gt;'=E6=9C=AA=E7=9F=A5=E9=94=99=E8=AF=AF',<br />
+			&quot;4&quot;=3D&gt;'=E5=9F=9F=E5=90=8DID=E9=94=99=E8=AF=AF',<br />
+			=
+&quot;5&quot;=3D&gt;'=E5=9F=9F=E5=90=8D=E4=B8=8D=E5=AD=98=E5=9C=A8',<br =
+/>
+			=
+&quot;6&quot;=3D&gt;'=E9=9D=9E=E5=9F=9F=E5=90=8D=E6=89=80=E6=9C=89=E8=80=85=
+',<br />
+			=
+&quot;7&quot;=3D&gt;'=E7=BC=BA=E5=B0=91=E5=8F=82=E6=95=B0=E6=88=96=E8=80=85=
+=E5=8F=82=E6=95=B0=E9=94=99=E8=AF=AF',<br />
+			=
+&quot;8&quot;=3D&gt;'=E4=B8=BB=E6=9C=BA=E8=AE=B0=E5=BD=95=E9=94=99=E8=AF=AF=
+',<br />
+			=
+&quot;9&quot;=3D&gt;'=E8=AE=B0=E5=BD=95=E5=80=BC=E9=94=99=E8=AF=AF',<br =
+/>
+			=
+&quot;10&quot;=3D&gt;'=E4=B8=8D=E8=83=BD=E4=B8=BA@=E8=AE=B0=E5=BD=95=E8=AE=
+=BE=E7=BD=AENS=E7=B1=BB=E5=9E=8B',<br />
+			&quot;11&quot;=3D&gt;'TTL =E5=BF=85=E9=A1=BB=E5=A4=A7=E4=BA=8E 1',<br =
+/>
+			&quot;12&quot;=3D&gt;'MX =E5=BF=85=E9=A1=BB=E5=A4=A7=E4=BA=8E 1',<br =
+/>
+			=
+&quot;13&quot;=3D&gt;'=E8=AE=B0=E5=BD=95=E9=87=8D=E5=A4=8D=E6=88=96=E8=80=
+=85=E5=92=8C CNAME =E8=AE=B0=E5=BD=95=E5=86=B2=E7=AA=81'<br />
+		);<br />
+		$arrayType =3D array(<br />
+			&quot;A&quot;=3D&gt;1,<br />
+			&quot;CNAME&quot;=3D&gt;2,<br />
+			&quot;MX&quot;=3D&gt;3,<br />
+			&quot;URL&quot;=3D&gt;4,<br />
+			&quot;NS&quot;=3D&gt;5,<br />
+			&quot;TXT&quot;=3D&gt;6,<br />
+			&quot;AAAA&quot;=3D&gt;7<br />
+		);<br />
+		$arrayLine =3D array(<br />
+			&quot;GEN&quot;=3D&gt;1,<br />
+			&quot;TEL&quot;=3D&gt;2,<br />
+			&quot;CNC&quot;=3D&gt;3,<br />
+			&quot;EDU&quot;=3D&gt;4<br />
+		);<br />
+		$this-&gt;postData['domain_id'] =3D $this-&gt;getDomainId($domain);<br =
+/>
+		$this-&gt;postData['sub_domain'] =3D $subdomain;<br />
+		$this-&gt;postData['record_type'] =3D $arrayType[$type];<br />
+		$this-&gt;postData['record_line'] =3D $arrayLine[$line];<br />
+		$this-&gt;postData['value'] =3D $value;<br />
+		$this-&gt;postData['mx'] =3D $mx;<br />
+		$this-&gt;postData['ttl'] =3D $ttl;<br />
+		$remote =3D =
 $this-&gt;post($this-&gt;baseURL.'/API/Record.Create',$this-&gt;postData)=
-;<BR>$id=20
-                        =3D =
-$this-&gt;betweenTagsVal('id',$remote);<BR>$name =3D=20
-                        =
-$this-&gt;betweenTagsVal('name',$remote);<BR>$status =3D=20
-                        =
-$this-&gt;betweenTagsVal('code',$remote);<BR>$message =3D=20
-                        =
-$this-&gt;betweenTagsVal('message',$remote);<BR>$hash =3D=20
-                        =
-md5($type.$subdomain.$line);<BR>$this-&gt;recordList[$domain][$hash]=20
-                        =3D array(<BR>'id' =3D&gt; $id,<BR>'type' =
-=3D&gt;=20
-                        $type,<BR>'name' =3D&gt; $subdomain,<BR>'value' =
-=3D&gt;=20
-                        $value,<BR>'line' =3D&gt; $line,<BR>'ttl' =
-=3D&gt;=20
-                        $ttl,<BR>'mx' =3D&gt;=20
-                        =
-$mx,<BR>'status'=3D&gt;$status,<BR>'message'=3D&gt;$message,<BR>'error'=3D=
-&gt;$error["$status"]<BR>);<BR>return=20
-                        =
-$this-&gt;recordList[$domain][$hash];<BR>}<BR>function=20
-                        =
+;<br />
+		$id =3D $this-&gt;betweenTagsVal('id',$remote);<br />
+		$name =3D $this-&gt;betweenTagsVal('name',$remote);<br />
+		$status =3D $this-&gt;betweenTagsVal('code',$remote);<br />
+		$message =3D $this-&gt;betweenTagsVal('message',$remote);<br />
+		$hash =3D md5($type.$subdomain.$line);<br />
+		$this-&gt;recordList[$domain][$hash] =3D array(<br />
+			'id' =3D&gt; $id,<br />
+			'type' =3D&gt; $type,<br />
+			'name' =3D&gt; $subdomain,<br />
+			'value' =3D&gt; $value,<br />
+			'line' =3D&gt; $line,<br />
+			'ttl' =3D&gt; $ttl,<br />
+			'mx' =3D&gt; $mx,<br />
+			'status'=3D&gt;$status,<br />
+			'message'=3D&gt;$message,<br />
+			'error'=3D&gt;$error[&quot;$status&quot;]<br />
+		);<br />
+		return $this-&gt;recordList[$domain][$hash];<br />
+	}<br />
+	function =
 updateDomainRecord($domain,$subdomain=3D'@',$type=3D'A',$line=3D'GEN',$va=
-lue=3D"127.0.0.1",$mx=3D10,$ttl=3D1){<BR>$type=20
-                        =3D strtoupper($type);<BR>$line =3D=20
-                        =
-strtoupper($line);<BR>/*<BR>if($this-&gt;getIP("$subdomain.$domain")=20
-                        =3D=3D $value){<BR>return =
-true;<BR>}<BR>*/<BR>$error =3D=20
-                        =
-array(<BR>"-1"=3D&gt;'=E7=99=BB=E9=99=86=E5=A4=B1=E8=B4=A5',<BR>"1"=3D&gt=
-;'=E6=88=90=E5=8A=9F',<BR>"2"=3D&gt;'=E5=8F=AA=E5=85=81=E8=AE=B8POST=E6=96=
-=B9=E6=B3=95',<BR>"3"=3D&gt;'=E6=9C=AA=E7=9F=A5=E9=94=99=E8=AF=AF',<BR>"4=
-"=3D&gt;'=E5=9F=9F=E5=90=8DID=E9=94=99=E8=AF=AF',<BR>"5"=3D&gt;'=E5=9F=9F=
-=E5=90=8D=E4=B8=8D=E5=AD=98=E5=9C=A8',<BR>"6"=3D&gt;'=E9=9D=9E=E5=9F=9F=E5=
-=90=8D=E6=89=80=E6=9C=89=E8=80=85',<BR>"7"=3D&gt;'=E7=BC=BA=E5=B0=91=E5=8F=
-=82=E6=95=B0=E6=88=96=E8=80=85=E5=8F=82=E6=95=B0=E9=94=99=E8=AF=AF',<BR>"=
-8"=3D&gt;'=E4=B8=BB=E6=9C=BA=E8=AE=B0=E5=BD=95=E9=94=99=E8=AF=AF',<BR>"9"=
-=3D&gt;'=E8=AE=B0=E5=BD=95=E5=80=BC=E9=94=99=E8=AF=AF',<BR>"10"=3D&gt;'=E4=
-=B8=8D=E8=83=BD=E4=B8=BA@=E8=AE=B0=E5=BD=95=E8=AE=BE=E7=BD=AENS=E7=B1=BB=E5=
-=9E=8B',<BR>"11"=3D&gt;'TTL=20
-                        =E5=BF=85=E9=A1=BB=E5=A4=A7=E4=BA=8E =
-1',<BR>"12"=3D&gt;'MX =E5=BF=85=E9=A1=BB=E5=A4=A7=E4=BA=8E =
-1',<BR>"13"=3D&gt;'=E8=AE=B0=E5=BD=95=E9=87=8D=E5=A4=8D=E6=88=96=E8=80=85=
-=E5=92=8C=20
-                        CNAME =
-=E8=AE=B0=E5=BD=95=E5=86=B2=E7=AA=81'<BR>);<BR>$arrayType =3D=20
-                        =
-array(<BR>"A"=3D&gt;1,<BR>"CNAME"=3D&gt;2,<BR>"MX"=3D&gt;3,<BR>"URL"=3D&g=
-t;4,<BR>"NS"=3D&gt;5,<BR>"TXT"=3D&gt;6,<BR>"AAAA"=3D&gt;7<BR>);<BR>$array=
-Line=20
-                        =3D=20
-                        =
-array(<BR>"GEN"=3D&gt;1,<BR>"TEL"=3D&gt;2,<BR>"CNC"=3D&gt;3,<BR>"EDU"=3D&=
-gt;4<BR>);<BR>$this-&gt;postData['domain_id']=20
-                        =3D=20
-                        =
-$this-&gt;getDomainId($domain);<BR>$this-&gt;postData['record_id']=20
-                        =3D=20
-                        =
-$this-&gt;getDomainRecordId($domain,$subdomain,$type,$line);<BR>$this-&gt=
-;postData['sub_domain']=20
-                        =3D =
-$subdomain;<BR>$this-&gt;postData['record_type'] =3D=20
-                        =
-$arrayType[$type];<BR>$this-&gt;postData['record_line']=20
-                        =3D =
-$arrayLine[$line];<BR>$this-&gt;postData['value'] =3D=20
-                        $value;<BR>$this-&gt;postData['mx'] =3D=20
-                        $mx;<BR>$this-&gt;postData['ttl'] =3D =
-$ttl;<BR>$remote =3D=20
-                        =
+lue=3D&quot;127.0.0.1&quot;,$mx=3D10,$ttl=3D1){<br />
+		$type =3D strtoupper($type);<br />
+		$line =3D strtoupper($line);<br />
+		/*<br />
+		if($this-&gt;getIP(&quot;$subdomain.$domain&quot;) =3D=3D $value){<br =
+/>
+			return true;<br />
+		}<br />
+		*/<br />
+		$error =3D array(<br />
+			&quot;-1&quot;=3D&gt;'=E7=99=BB=E9=99=86=E5=A4=B1=E8=B4=A5',<br />
+			&quot;1&quot;=3D&gt;'=E6=88=90=E5=8A=9F',<br />
+			=
+&quot;2&quot;=3D&gt;'=E5=8F=AA=E5=85=81=E8=AE=B8POST=E6=96=B9=E6=B3=95',<=
+br />
+			&quot;3&quot;=3D&gt;'=E6=9C=AA=E7=9F=A5=E9=94=99=E8=AF=AF',<br />
+			&quot;4&quot;=3D&gt;'=E5=9F=9F=E5=90=8DID=E9=94=99=E8=AF=AF',<br />
+			=
+&quot;5&quot;=3D&gt;'=E5=9F=9F=E5=90=8D=E4=B8=8D=E5=AD=98=E5=9C=A8',<br =
+/>
+			=
+&quot;6&quot;=3D&gt;'=E9=9D=9E=E5=9F=9F=E5=90=8D=E6=89=80=E6=9C=89=E8=80=85=
+',<br />
+			=
+&quot;7&quot;=3D&gt;'=E7=BC=BA=E5=B0=91=E5=8F=82=E6=95=B0=E6=88=96=E8=80=85=
+=E5=8F=82=E6=95=B0=E9=94=99=E8=AF=AF',<br />
+			=
+&quot;8&quot;=3D&gt;'=E4=B8=BB=E6=9C=BA=E8=AE=B0=E5=BD=95=E9=94=99=E8=AF=AF=
+',<br />
+			=
+&quot;9&quot;=3D&gt;'=E8=AE=B0=E5=BD=95=E5=80=BC=E9=94=99=E8=AF=AF',<br =
+/>
+			=
+&quot;10&quot;=3D&gt;'=E4=B8=8D=E8=83=BD=E4=B8=BA@=E8=AE=B0=E5=BD=95=E8=AE=
+=BE=E7=BD=AENS=E7=B1=BB=E5=9E=8B',<br />
+			&quot;11&quot;=3D&gt;'TTL =E5=BF=85=E9=A1=BB=E5=A4=A7=E4=BA=8E 1',<br =
+/>
+			&quot;12&quot;=3D&gt;'MX =E5=BF=85=E9=A1=BB=E5=A4=A7=E4=BA=8E 1',<br =
+/>
+			=
+&quot;13&quot;=3D&gt;'=E8=AE=B0=E5=BD=95=E9=87=8D=E5=A4=8D=E6=88=96=E8=80=
+=85=E5=92=8C CNAME =E8=AE=B0=E5=BD=95=E5=86=B2=E7=AA=81'<br />
+		);<br />
+		$arrayType =3D array(<br />
+			&quot;A&quot;=3D&gt;1,<br />
+			&quot;CNAME&quot;=3D&gt;2,<br />
+			&quot;MX&quot;=3D&gt;3,<br />
+			&quot;URL&quot;=3D&gt;4,<br />
+			&quot;NS&quot;=3D&gt;5,<br />
+			&quot;TXT&quot;=3D&gt;6,<br />
+			&quot;AAAA&quot;=3D&gt;7<br />
+		);<br />
+		$arrayLine =3D array(<br />
+			&quot;GEN&quot;=3D&gt;1,<br />
+			&quot;TEL&quot;=3D&gt;2,<br />
+			&quot;CNC&quot;=3D&gt;3,<br />
+			&quot;EDU&quot;=3D&gt;4<br />
+		);<br />
+		$this-&gt;postData['domain_id'] =3D $this-&gt;getDomainId($domain);<br =
+/>
+		$this-&gt;postData['record_id'] =3D =
+$this-&gt;getDomainRecordId($domain,$subdomain,$type,$line);<br />
+		$this-&gt;postData['sub_domain'] =3D $subdomain;<br />
+		$this-&gt;postData['record_type'] =3D $arrayType[$type];<br />
+		$this-&gt;postData['record_line'] =3D $arrayLine[$line];<br />
+		$this-&gt;postData['value'] =3D $value;<br />
+		$this-&gt;postData['mx'] =3D $mx;<br />
+		$this-&gt;postData['ttl'] =3D $ttl;<br />
+		$remote =3D =
 $this-&gt;post($this-&gt;baseURL.'/API/Record.Modify',$this-&gt;postData)=
-;<BR>$status=20
-                        =3D =
-$this-&gt;betweenTagsVal('code',$remote);<BR>$message=20
-                        =3D =
-$this-&gt;betweenTagsVal('message',$remote);<BR>$id =3D=20
-                        $this-&gt;betweenTagsVal('id',$remote);<BR>$name =
-=3D=20
-                        =
-$this-&gt;betweenTagsVal('name',$remote);<BR>return=20
-                        =
-array(<BR>'status'=3D&gt;$status,<BR>'message'=3D&gt;$message,<BR>'id'=3D=
-&gt;$id,<BR>'name'=3D&gt;$name,<BR>'error'=3D&gt;$error["$status"]<BR>);<=
-BR>}<BR>function=20
-                        =
-removeDomainRecord($domain,$subdomain,$type=3D"A",$line=3D"GEN"){<BR>$typ=
-e=20
-                        =3D strtoupper($type);<BR>$line =3D=20
-                        strtoupper($line);<BR>$error =3D=20
-                        =
-array(<BR>"-1"=3D&gt;'=E7=99=BB=E9=99=86=E5=A4=B1=E8=B4=A5',<BR>"1"=3D&gt=
-;'=E6=88=90=E5=8A=9F',<BR>"2"=3D&gt;'=E5=8F=AA=E5=85=81=E8=AE=B8POST=E6=96=
-=B9=E6=B3=95',<BR>"3"=3D&gt;'=E6=9C=AA=E7=9F=A5=E9=94=99=E8=AF=AF',<BR>"4=
-"=3D&gt;'=E5=9F=9F=E5=90=8DID=E9=94=99=E8=AF=AF',<BR>"5"=3D&gt;'=E5=9F=9F=
-=E5=90=8D=E4=B8=8D=E5=AD=98=E5=9C=A8',<BR>"6"=3D&gt;'=E9=9D=9E=E5=9F=9F=E5=
-=90=8D=E6=89=80=E6=9C=89=E8=80=85',<BR>"7"=3D&gt;'=E7=BC=BA=E5=B0=91=E5=8F=
-=82=E6=95=B0=E6=88=96=E8=80=85=E5=8F=82=E6=95=B0=E9=94=99=E8=AF=AF',<BR>"=
-8"=3D&gt;'=E4=B8=BB=E6=9C=BA=E8=AE=B0=E5=BD=95=E9=94=99=E8=AF=AF',<BR>"9"=
-=3D&gt;'=E8=AE=B0=E5=BD=95=E5=80=BC=E9=94=99=E8=AF=AF',<BR>"10"=3D&gt;'=E4=
-=B8=8D=E8=83=BD=E4=B8=BA@=E8=AE=B0=E5=BD=95=E8=AE=BE=E7=BD=AENS=E7=B1=BB=E5=
-=9E=8B',<BR>"11"=3D&gt;'TTL=20
-                        =E5=BF=85=E9=A1=BB=E5=A4=A7=E4=BA=8E =
-1',<BR>"12"=3D&gt;'MX =E5=BF=85=E9=A1=BB=E5=A4=A7=E4=BA=8E =
-1',<BR>"13"=3D&gt;'=E8=AE=B0=E5=BD=95=E9=87=8D=E5=A4=8D=E6=88=96=E8=80=85=
-=E5=92=8C=20
-                        CNAME =
-=E8=AE=B0=E5=BD=95=E5=86=B2=E7=AA=81'<BR>);<BR>$arrayType =3D=20
-                        =
-array(<BR>"A"=3D&gt;1,<BR>"CNAME"=3D&gt;2,<BR>"MX"=3D&gt;3,<BR>"URL"=3D&g=
-t;4,<BR>"NS"=3D&gt;5,<BR>"TXT"=3D&gt;6,<BR>"AAAA"=3D&gt;7<BR>);<BR>$array=
-Line=20
-                        =3D=20
-                        =
-array(<BR>"GEN"=3D&gt;1,<BR>"TEL"=3D&gt;2,<BR>"CNC"=3D&gt;3,<BR>"EDU"=3D&=
-gt;4<BR>);<BR>$this-&gt;postData['domain_id']=20
-                        =3D=20
-                        =
-$this-&gt;getDomainId($domain);<BR>$this-&gt;postData['record_id']=20
-                        =3D=20
-                        =
-$this-&gt;getDomainRecordId($domain,$subdomain,$type,$line);<BR>$remote=20
-                        =3D=20
-                        =
+;<br />
+		$status =3D $this-&gt;betweenTagsVal('code',$remote);<br />
+		$message =3D $this-&gt;betweenTagsVal('message',$remote);<br />
+		$id =3D $this-&gt;betweenTagsVal('id',$remote);<br />
+		$name =3D $this-&gt;betweenTagsVal('name',$remote);<br />
+		return array(<br />
+			'status'=3D&gt;$status,<br />
+			'message'=3D&gt;$message,<br />
+			'id'=3D&gt;$id,<br />
+			'name'=3D&gt;$name,<br />
+			'error'=3D&gt;$error[&quot;$status&quot;]<br />
+		);<br />
+	}<br />
+	function =
+removeDomainRecord($domain,$subdomain,$type=3D&quot;A&quot;,$line=3D&quot=
+;GEN&quot;){<br />
+		$type =3D strtoupper($type);<br />
+		$line =3D strtoupper($line);<br />
+		$error =3D array(<br />
+			&quot;-1&quot;=3D&gt;'=E7=99=BB=E9=99=86=E5=A4=B1=E8=B4=A5',<br />
+			&quot;1&quot;=3D&gt;'=E6=88=90=E5=8A=9F',<br />
+			=
+&quot;2&quot;=3D&gt;'=E5=8F=AA=E5=85=81=E8=AE=B8POST=E6=96=B9=E6=B3=95',<=
+br />
+			&quot;3&quot;=3D&gt;'=E6=9C=AA=E7=9F=A5=E9=94=99=E8=AF=AF',<br />
+			&quot;4&quot;=3D&gt;'=E5=9F=9F=E5=90=8DID=E9=94=99=E8=AF=AF',<br />
+			=
+&quot;5&quot;=3D&gt;'=E5=9F=9F=E5=90=8D=E4=B8=8D=E5=AD=98=E5=9C=A8',<br =
+/>
+			=
+&quot;6&quot;=3D&gt;'=E9=9D=9E=E5=9F=9F=E5=90=8D=E6=89=80=E6=9C=89=E8=80=85=
+',<br />
+			=
+&quot;7&quot;=3D&gt;'=E7=BC=BA=E5=B0=91=E5=8F=82=E6=95=B0=E6=88=96=E8=80=85=
+=E5=8F=82=E6=95=B0=E9=94=99=E8=AF=AF',<br />
+			=
+&quot;8&quot;=3D&gt;'=E4=B8=BB=E6=9C=BA=E8=AE=B0=E5=BD=95=E9=94=99=E8=AF=AF=
+',<br />
+			=
+&quot;9&quot;=3D&gt;'=E8=AE=B0=E5=BD=95=E5=80=BC=E9=94=99=E8=AF=AF',<br =
+/>
+			=
+&quot;10&quot;=3D&gt;'=E4=B8=8D=E8=83=BD=E4=B8=BA@=E8=AE=B0=E5=BD=95=E8=AE=
+=BE=E7=BD=AENS=E7=B1=BB=E5=9E=8B',<br />
+			&quot;11&quot;=3D&gt;'TTL =E5=BF=85=E9=A1=BB=E5=A4=A7=E4=BA=8E 1',<br =
+/>
+			&quot;12&quot;=3D&gt;'MX =E5=BF=85=E9=A1=BB=E5=A4=A7=E4=BA=8E 1',<br =
+/>
+			=
+&quot;13&quot;=3D&gt;'=E8=AE=B0=E5=BD=95=E9=87=8D=E5=A4=8D=E6=88=96=E8=80=
+=85=E5=92=8C CNAME =E8=AE=B0=E5=BD=95=E5=86=B2=E7=AA=81'<br />
+		);<br />
+		$arrayType =3D array(<br />
+			&quot;A&quot;=3D&gt;1,<br />
+			&quot;CNAME&quot;=3D&gt;2,<br />
+			&quot;MX&quot;=3D&gt;3,<br />
+			&quot;URL&quot;=3D&gt;4,<br />
+			&quot;NS&quot;=3D&gt;5,<br />
+			&quot;TXT&quot;=3D&gt;6,<br />
+			&quot;AAAA&quot;=3D&gt;7<br />
+		);<br />
+		$arrayLine =3D array(<br />
+			&quot;GEN&quot;=3D&gt;1,<br />
+			&quot;TEL&quot;=3D&gt;2,<br />
+			&quot;CNC&quot;=3D&gt;3,<br />
+			&quot;EDU&quot;=3D&gt;4<br />
+		);<br />
+		$this-&gt;postData['domain_id'] =3D $this-&gt;getDomainId($domain);<br =
+/>
+		$this-&gt;postData['record_id'] =3D =
+$this-&gt;getDomainRecordId($domain,$subdomain,$type,$line);<br />
+		$remote =3D =
 $this-&gt;post($this-&gt;baseURL.'/API/Record.Remove',$this-&gt;postData)=
-;<BR>$status=20
-                        =3D =
-$this-&gt;betweenTagsVal('code',$remote);<BR>$message=20
-                        =3D =
-$this-&gt;betweenTagsVal('message',$remote);<BR>return=20
-                        =
-array(<BR>'status'=3D&gt;$status,<BR>'message'=3D&gt;$message,<BR>'error'=
-=3D&gt;$error["$status"]<BR>);<BR>}<BR>}<BR>/**DEMO**/<BR>$account=20
-                        =3D =
-"=E4=BD=A0=E5=9C=A8dnspod=E4=B8=8A=E6=B3=A8=E5=86=8C=E7=9A=84=E7=94=A8=E6=
-=88=B7=E5=90=8D";<BR>$password =3D=20
-                        =
-"=E4=BD=A0=E5=9C=A8dnspod=E4=B8=8A=E6=B3=A8=E5=86=8C=E7=9A=84=E5=AF=86=E7=
-=A0=81";<BR>//$type =E4=B8=BA=E8=AE=B0=E5=BD=95=E7=B1=BB=E5=9E=8B: A, =
-CNAME, MX, URL,=20
-                        NS, TXT, AAAA<BR>//$line =
-=E4=B8=BA=E7=BA=BF=E8=B7=AF=E7=B1=BB=E5=9E=8B: GEN(=E9=80=9A=E7=94=A8), =
-TEL(=E7=94=B5=E4=BF=A1) CNC(=E7=BD=91=E9=80=9A)=20
-                        EDU(=E6=95=99=E8=82=B2=E7=BD=91)<BR>//$ttl =
+;<br />
+		$status =3D $this-&gt;betweenTagsVal('code',$remote);<br />
+		$message =3D $this-&gt;betweenTagsVal('message',$remote);<br />
+		return array(<br />
+			'status'=3D&gt;$status,<br />
+			'message'=3D&gt;$message,<br />
+			'error'=3D&gt;$error[&quot;$status&quot;]<br />
+		);<br />
+	}<br />
+}<br />
+/**DEMO**/<br />
+$account =3D =
+&quot;=E4=BD=A0=E5=9C=A8dnspod=E4=B8=8A=E6=B3=A8=E5=86=8C=E7=9A=84=E7=94=A8=
+=E6=88=B7=E5=90=8D&quot;;<br />
+$password =3D =
+&quot;=E4=BD=A0=E5=9C=A8dnspod=E4=B8=8A=E6=B3=A8=E5=86=8C=E7=9A=84=E5=AF=86=
+=E7=A0=81&quot;;<br />
+//$type =E4=B8=BA=E8=AE=B0=E5=BD=95=E7=B1=BB=E5=9E=8B: A, CNAME, MX, =
+URL, NS, TXT, AAAA<br />
+//$line =E4=B8=BA=E7=BA=BF=E8=B7=AF=E7=B1=BB=E5=9E=8B: =
+GEN(=E9=80=9A=E7=94=A8), TEL(=E7=94=B5=E4=BF=A1) CNC(=E7=BD=91=E9=80=9A) =
+EDU(=E6=95=99=E8=82=B2=E7=BD=91)<br />
+//$ttl =
 =E4=B8=BA=E5=AD=98=E6=B4=BB=E6=97=B6=E9=97=B4:ddns=E7=9A=84=E8=AF=9D=E4=B8=
-=BA1<BR>$domain =3D=20
-                        =
-'=E4=BD=A0=E8=A6=81=E6=9B=B4=E6=96=B0=E7=9A=84=E5=9F=9F=E5=90=8D';<BR>$ty=
-pe =3D "A";<BR>$line =3D "GEN";<BR>$mx =3D=20
-                        10;<BR>$ttl =3D 1;<BR>$DNSPOD =3D new=20
-                        dnspodAPI($account,$password);<BR>$ip =3D=20
-                        =
-$DNSPOD-&gt;getIP();<BR>$DNSPOD-&gt;getDomainList();<BR>if($DNSPOD-&gt;ge=
-tIP($domain)=20
-                        !=3D=20
-                        =
-$ip){<BR>$DNSPOD-&gt;updateDomainRecord($domain,'=E4=BD=A0=E8=A6=81=E6=9B=
-=B4=E6=96=B0=E7=9A=84=E5=AD=90=E5=9F=9F=E5=90=8D=E6=AF=94=E5=A6=82@',$typ=
-e,$line,$ip,$mx,$ttl);<BR>}<BR>if($DNSPOD-&gt;getIP('www.'.$domain)=20
-                        !=3D=20
-                        =
-$ip){<BR>$DNSPOD-&gt;updateDomainRecord($domain,'=E4=BD=A0=E8=A6=81=E6=9B=
-=B4=E6=96=B0=E7=9A=84=E5=AD=90=E5=9F=9F=E5=90=8D=E6=AF=94=E5=A6=82www',$t=
-ype,$line,$ip,$mx,$ttl);<BR>}<BR>/*******/<BR><BR>-----------------------=
------------------------------------------<BR>DNSPod=20
-                        =E5=B7=A5=E7=A8=8B=E5=B8=88 =
-=E6=9D=8E=E9=99=A2=E9=95=BF =
-=E5=9B=9E=E5=A4=8D=EF=BC=9A<BR><BR>=E8=B0=A2=E8=B0=A2=E6=8F=90=E4=BE=9B=E3=
-=80=82=20
-                        <HR class=3Dcommenthr>
-                        </DIV></SPAN></DIV>
-                        <DIV style=3D"DISPLAY: none" id=3Dcomments>
-                        <TABLE border=3D0 cellSpacing=3D2 =
-cellPadding=3D2=20
-width=3D"100%">
-                          <TBODY>
-                          <TR>
-                            <TD class=3Dsmalltext=20
-                              =
-colSpan=3D2>=E6=82=A8=E7=9A=84=E8=AF=84=E8=AE=BA=E5=9C=A8=E5=8F=91=E8=A1=A8=
-=E4=B9=8B=E5=89=8D=EF=BC=8C=E5=B0=86=E4=BC=9A=E7=94=B1=E6=88=91=E4=BB=AC=E7=
-=9A=84=E5=B7=A5=E4=BD=9C=E4=BA=BA=E5=91=98=E5=AE=A1=E9=98=85=E5=B9=B6=E6=89=
-=B9=E5=87=86=E3=80=82</TD></TR>
-                          <TR>
-                            <TD width=3D"100%" colSpan=3D2>
-                              <FIELDSET class=3Dswiftfieldset=20
-                              =
-width=3D"100%"><LEGEND>=E9=9C=80=E8=A6=81=E5=9B=BE=E7=89=87=E9=AA=8C=E8=AF=
-=81</LEGEND>
-                              <TABLE width=3D"100%">
-                                <TBODY>
-                                <TR class=3Dsmalltext width=3D"100%">
-                                =
-<TD>=E8=AF=B7=E5=87=BA=E5=85=A5=E5=8F=B3=E8=BE=B9=E5=9B=BE=E7=89=87=E4=B8=
+=BA1<br />
+$domain =3D =
+'=E4=BD=A0=E8=A6=81=E6=9B=B4=E6=96=B0=E7=9A=84=E5=9F=9F=E5=90=8D';<br />
+$type =3D &quot;A&quot;;<br />
+$line =3D &quot;GEN&quot;;<br />
+$mx =3D 10;<br />
+$ttl =3D 1;<br />
+$DNSPOD =3D new dnspodAPI($account,$password);<br />
+$ip =3D $DNSPOD-&gt;getIP();<br />
+$DNSPOD-&gt;getDomainList();<br />
+if($DNSPOD-&gt;getIP($domain) !=3D $ip){<br />
+	=
+$DNSPOD-&gt;updateDomainRecord($domain,'=E4=BD=A0=E8=A6=81=E6=9B=B4=E6=96=
+=B0=E7=9A=84=E5=AD=90=E5=9F=9F=E5=90=8D=E6=AF=94=E5=A6=82@',$type,$line,$=
+ip,$mx,$ttl);<br />
+}<br />
+if($DNSPOD-&gt;getIP('www.'.$domain) !=3D $ip){<br />
+	=
+$DNSPOD-&gt;updateDomainRecord($domain,'=E4=BD=A0=E8=A6=81=E6=9B=B4=E6=96=
+=B0=E7=9A=84=E5=AD=90=E5=9F=9F=E5=90=8D=E6=AF=94=E5=A6=82www',$type,$line=
+,$ip,$mx,$ttl);<br />
+}<br />
+/*******/<br />
+<br />
+----------------------------------------------------------------<br />
+DNSPod =E5=B7=A5=E7=A8=8B=E5=B8=88 =E6=9D=8E=E9=99=A2=E9=95=BF =
+=E5=9B=9E=E5=A4=8D=EF=BC=9A<br />
+<br />
+=E8=B0=A2=E8=B0=A2=E6=8F=90=E4=BE=9B=E3=80=82
+					<HR class=3D"commenthr">
+					</div>
+															</span></div><div id=3D"comments" =
+style=3D"display:none;">
+					<table width=3D"100%"  border=3D"0" cellspacing=3D"2" =
+cellpadding=3D"2">
+            <tr>
+              <td colspan=3D"2" =
+class=3D"smalltext">=E6=82=A8=E7=9A=84=E8=AF=84=E8=AE=BA=E5=9C=A8=E5=8F=91=
+=E8=A1=A8=E4=B9=8B=E5=89=8D=EF=BC=8C=E5=B0=86=E4=BC=9A=E7=94=B1=E6=88=91=E4=
+=BB=AC=E7=9A=84=E5=B7=A5=E4=BD=9C=E4=BA=BA=E5=91=98=E5=AE=A1=E9=98=85=E5=B9=
+=B6=E6=89=B9=E5=87=86=E3=80=82</td>
+            </tr>
+         =20
+ =20
+      <tr>
+      <td width=3D"100%" colspan=3D"2">
+        <fieldset class=3D"swiftfieldset" width=3D"100%">
+          =
+<legend>=E9=9C=80=E8=A6=81=E5=9B=BE=E7=89=87=E9=AA=8C=E8=AF=81</legend>
+          <table width=3D"100%">
+            <tr class=3D"smalltext" width=3D"100%">
+              =
+<td>=E8=AF=B7=E5=87=BA=E5=85=A5=E5=8F=B3=E8=BE=B9=E5=9B=BE=E7=89=87=E4=B8=
 =8A=E6=98=BE=E7=A4=BA=E7=9A=84=E5=AD=97=E6=AF=8D=E3=80=82=E8=BF=99=E6=98=AF=
 =E4=B8=BA=E4=BA=86=E8=AF=81=E6=98=8E=E6=82=A8=E6=98=AF=E4=BA=BA=E5=B7=A5=E7=
 =99=BB=E5=BD=95=EF=BC=8C=E5=B9=B6=E9=9D=9E=E6=9C=BA=E5=99=A8=E7=A8=8B=E5=BA=
-=8F=E7=99=BB=E5=BD=95=E3=80=82</TD>
-                                <TD style=3D"TEXT-ALIGN: center"><IMG=20
-                                =
-src=3D"http://support.dnspod.com/index.php?_m=3Dcore&amp;_a=3Dregister&am=
-p;do=3Dcaptcha&amp;genword=3D1"></TD>
-                                <TD style=3D"TEXT-ALIGN: right"><INPUT =
-id=3Dcaptcha=20
-                                class=3Dswifttext type=3Dtext=20
-                                =
-name=3Dcaptcha></TD></TR></TBODY></TABLE></FIELDSET>=20
-                            </TD></TR>
-                          <TR class=3Dsmalltext>
-                            <TD>=E5=85=A8=E5=90=8D:<BR><INPUT =
-id=3Dfullnameinput class=3Dswifttext=20
-                              size=3D30 type=3Dtext =
-name=3Dfullname></TD>
-                            <TD style=3D"PADDING-LEFT: 1em" =
-width=3D"100%">=E9=82=AE=E4=BB=B6:=20
-                              (=E9=80=89=E5=A1=AB)<BR><INPUT =
-class=3Dswifttext size=3D30 type=3Dtext=20
-                              name=3Demail></TD></TR>
-                          <TR>
-                            <TD class=3Dsmalltext =
-colSpan=3D2>=E8=AF=84=E8=AE=BA:<BR><TEXTAREA style=3D"WIDTH: 98%" =
-id=3Dcommentarea class=3Dswifttextarea rows=3D4 =
-name=3Dcomments></TEXTAREA></TD></TR>
-                          <TR>
-                            <TD colSpan=3D2>
-                              <SCRIPT language=3DJavascript =
-type=3Dtext/javascript>
+=8F=E7=99=BB=E5=BD=95=E3=80=82</td>
+              <td style=3D"text-align:center;"><img =
+src=3D"http://support.dnspod.com/index.php?_m=3Dcore&_a=3Dregister&do=3Dc=
+aptcha&genword=3D1"></td>
+              <td style=3D"text-align:right;"><input name=3D"captcha" =
+id=3D"captcha" type=3D"text" class=3D"swifttext"/></td>
+            </tr>
+          </table>
+        </fieldset>
+      </td>
+    </tr>       =20
+   =20
+  <tr class=3D"smalltext">
+    <td>=E5=85=A8=E5=90=8D:<BR /><input id=3D"fullnameinput" =
+name=3D"fullname" type=3D"text" size=3D"30" class=3D"swifttext"></td>
+    <td width=3D"100%" style=3D"padding-left:1em;">=E9=82=AE=E4=BB=B6: =
+(=E9=80=89=E5=A1=AB)<BR /><input name=3D"email" type=3D"text" =
+size=3D"30" class=3D"swifttext"></td>
+  </tr>
+    <tr>
+    <td colspan=3D"2" class=3D"smalltext">=E8=AF=84=E8=AE=BA:<BR =
+/><textarea id=3D"commentarea" name=3D"comments" style=3D"WIDTH:98%;" =
+class=3D"swifttextarea" rows=3D"4"></textarea></td>
+  </tr>
+  <tr>
+    <td colspan=3D"2">
+<script language=3D"Javascript" type=3D"text/javascript">
 function ValidateThenPost() {
   var FN =3D document.getElementById('fullnameinput');
   var CA =3D document.getElementById('commentarea');
@@ -2442,22 +3848,21 @@ return; } else { FN.style.backgroundColor =3D '#ffffff'; }
 return; } else { CA.style.backgroundColor =3D '#ffffff'; }
   document.getElementById('commentform').submit();
 }
-</SCRIPT>
-<INPUT class=3Dyellowbutton onclick=3DValidateThenPost(); =
-value=3D=E6=8F=90=E4=BA=A4 type=3Dbutton rows=3D"4">=20
-                              <INPUT id=3Dsubmit2 class=3Dyellowbutton =
-value=3D=E6=8F=90=E4=BA=A4=20
-                              type=3Dhidden name=3DSubmit2=20
-                        =
-rows=3D"4"></TD></TR></TBODY></TABLE></DIV></TD></TR></TBODY></TABLE><INP=
-UT=20
-                  value=3Dcore type=3Dhidden name=3D_m> <INPUT =
-value=3Daddcomment=20
-                  type=3Dhidden name=3D_a> <INPUT value=3D4 =
-type=3Dhidden=20
-                  name=3Dcommenttype> <INPUT value=3D43 type=3Dhidden =
-name=3Dtypeid>=20
-                  </FORM></TD></TR></TBODY></TABLE>
+</script>
+<input type=3D"button" value=3D"=E6=8F=90=E4=BA=A4" =
+class=3D"yellowbutton" rows=3D"4" onClick=3D"ValidateThenPost();">
+<input type=3D"hidden" id=3D"submit2" name=3D"Submit2" =
+value=3D"=E6=8F=90=E4=BA=A4" class=3D"yellowbutton" rows=3D"4"></td>
+  </tr>
+</table></div>
+	</td></tr></table>
+	<input type=3D"hidden" name=3D"_m" value=3D"core">
+	<input type=3D"hidden" name=3D"_a" value=3D"addcomment">
+	<input type=3D"hidden" name=3D"commenttype" value=3D"4">
+	<input type=3D"hidden" name=3D"typeid" value=3D"43">
+=09
+	</form>
+--></TD></TR></TBODY></TABLE>
             <TABLE border=3D0 cellSpacing=3D0 cellPadding=3D0 =
 width=3D"100%">
               <TBODY>
@@ -2543,8 +3948,7 @@ type=3Dhidden=20
                   name=3D_m><INPUT value=3Dlogin type=3Dhidden =
 name=3D_a><INPUT=20
                   =
-value=3D_m=3Dknowledgebase&amp;_a=3Dviewarticle&amp;kbarticleid=3D43&amp;=
-nav=3D0=20
+value=3D_m=3Dknowledgebase&amp;_a=3Dviewarticle&amp;kbarticleid=3D43=20
                   type=3Dhidden name=3Dquerystring></FORM>
                   <SCRIPT language=3DJavascript>=0A=
 						document.loginform.loginemail.focus();=0A=
@@ -2630,8 +4034,8 @@ f"=20
                   onclick=3D"javascript:switchDisplay('comments');"=20
                   =
 href=3D"http://support.dnspod.com/index.php?_m=3Dknowledgebase&amp;_a=3Dv=
-iewarticle&amp;kbarticleid=3D43&amp;nav=3D0#">=E6=B7=BB=E5=8A=A0=E8=AF=84=
-=E8=AE=BA</A></DIV>
+iewarticle&amp;kbarticleid=3D43#">=E6=B7=BB=E5=8A=A0=E8=AF=84=E8=AE=BA</A=
+></DIV>
                   <DIV class=3Dnavitem=20
                   =
 onmouseover=3D"javascript:this.className=3D'navitemhover';"=20
@@ -2685,8 +4089,8 @@ src=3D"http://support.dnspod.com/themes/client_default/icon_addtofav.gif"=
 cle&amp;kbarticleid=3D43');"=20
                   =
 href=3D"http://support.dnspod.com/index.php?_m=3Dknowledgebase&amp;_a=3Dv=
-iewarticle&amp;kbarticleid=3D43&amp;nav=3D0#">=E6=B7=BB=E5=8A=A0=E5=88=B0=
-=E6=88=91=E7=9A=84=E6=9C=80=E7=88=B1</A></DIV></TD></TR></TBODY></TABLE>
+iewarticle&amp;kbarticleid=3D43#">=E6=B7=BB=E5=8A=A0=E5=88=B0=E6=88=91=E7=
+=9A=84=E6=9C=80=E7=88=B1</A></DIV></TD></TR></TBODY></TABLE>
             <TABLE border=3D0 cellSpacing=3D0 cellPadding=3D3 =
 width=3D"100%">
               <TBODY>
@@ -2787,7 +4191,7 @@ title=3D"DNSPod =E5=85=8D=E8=B4=B9=E7=9A=84=E6=99=BA=E8=83=BDDNS" =
 href=3D"http://www.dnspod.com/">DNSPod.COM</A>, All rights=20
 reserved.<BR>SSL Powered by <A =
 title=3DSSL=E8=AF=81=E4=B9=A6=E6=9C=8D=E5=8A=A1=20
-href=3D"http://www.globalssl.cn/">GlobalSSL</A></SPAN> </CENTER>
+href=3D"http://www.trustasia.com/">TrustAsia</A></SPAN> </CENTER>
 <SCRIPT type=3Dtext/javascript>
 var gaJsHost =3D (("https:" =3D=3D document.location.protocol) ? =
 "https://ssl." : "http://www.");
@@ -2803,8 +4207,8 @@ pageTracker._trackPageview();
 } catch(err) {}</SCRIPT>
 </BODY></HTML>
 
-------=_NextPart_000_001B_01CA7376.6EBCC2C0
-Content-Type: image/gif
+------=_NextPart_000_0000_01CB4A17.13D328E0
+Content-Type: application/octet-stream
 Content-Transfer-Encoding: base64
 Content-Location: http://support.dnspod.com/themes/client_default/supportsuite.gif
 
@@ -2931,8 +4335,8 @@ VhQg4JQTN1jhVVhj3WAJPSigQZgcCbULnj6esSEFNnLIVVBGNXqzHg2aQ2+8f4iJwT37hBEhBuvw
 EsBwdfckaWzI4WB4tTv4LniJGfZhiiu2+GKMA4W3Etd+sAcHIYRAduKMSzb5ZJRTVnllllt2ueWA
 AAA7
 
-------=_NextPart_000_001B_01CA7376.6EBCC2C0
-Content-Type: image/png
+------=_NextPart_000_0000_01CB4A17.13D328E0
+Content-Type: application/octet-stream
 Content-Transfer-Encoding: base64
 Content-Location: http://support.dnspod.com/themes/client_default/dnspodlogo.png
 
@@ -3278,15 +4682,15 @@ eU5tBST5MogGnlzmRyHpQ6Qhycmha9wjFYR1LDhKF6JK70uq9Nuq+smd4FMj4EzvqawAduFM+1dc
 Af5jAshLHUXQp4CDPfxMBeA4F2BQJ3yIapRPHkT+aDue2b079Lds/xWv49+BpjOW6F90l3H7cYrf
 7X0Ff7m8ApquF8WuXSjJb4cD3Cb+guG/KN3/jmT9L8N/FoeBBIVZAAAAAElFTkSuQmCC
 
-------=_NextPart_000_001B_01CA7376.6EBCC2C0
-Content-Type: image/gif
+------=_NextPart_000_0000_01CB4A17.13D328E0
+Content-Type: application/octet-stream
 Content-Transfer-Encoding: base64
 Content-Location: http://support.dnspod.com/themes/client_default/space.gif
 
 R0lGODlhAQABAIAAAP//////zCH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
 
-------=_NextPart_000_001B_01CA7376.6EBCC2C0
-Content-Type: image/gif
+------=_NextPart_000_0000_01CB4A17.13D328E0
+Content-Type: application/octet-stream
 Content-Transfer-Encoding: base64
 Content-Location: http://support.dnspod.com/themes/client_default/icon_topicbig.gif
 
@@ -3298,24 +4702,24 @@ SCwWfcgk0kj09Z7QJfPn3Fl3PadvWl1Ys8+tsWpdgMPj3o7mYJzRzV5bssoqpUKn5JKJmHiAgWJ5
 PRgRHS4PEDAjACU8g1Q9FjMgEAMNFQIJIpBxDxsDJwA5MiQoBp5DTpgAAgovNS0BGqqErgkpOgUe
 NzEftpIKKhMFAQQsBzaAkU4TBiEEFAcIgcFOARwUCDjWzE3e4dd35HhT50EAOw==
 
-------=_NextPart_000_001B_01CA7376.6EBCC2C0
-Content-Type: image/gif
+------=_NextPart_000_0000_01CB4A17.13D328E0
+Content-Type: application/octet-stream
 Content-Transfer-Encoding: base64
 Content-Location: http://support.dnspod.com/themes/client_default/icon_thumbsup.gif
 
 R0lGODlhFAAQAKEAAAAAAPXesx6Q/7+/vyH5BAEAAAMALAAAAAAUABAAAAI3nI8AyG0QwnIUSlrj
 xMnuqijRhVnjqJTnGn5PuEqC4A5mDMz1zepNi/MxeKfWL6apdVohjrNRAAA7
 
-------=_NextPart_000_001B_01CA7376.6EBCC2C0
-Content-Type: image/gif
+------=_NextPart_000_0000_01CB4A17.13D328E0
+Content-Type: application/octet-stream
 Content-Transfer-Encoding: base64
 Content-Location: http://support.dnspod.com/themes/client_default/icon_thumbsdown.gif
 
 R0lGODlhFAAQAJEDAAAAAPXesx6Q/////yH5BAEAAAMALAAAAAAUABAAAAI2nI+pCu2+Tgu0UsCc
 3TgBIQBb8DCgOF5mmKreOZae1nbLlNp39eg76YsYUEHhgGhkuJKIhrEAADs=
 
-------=_NextPart_000_001B_01CA7376.6EBCC2C0
-Content-Type: image/gif
+------=_NextPart_000_0000_01CB4A17.13D328E0
+Content-Type: application/octet-stream
 Content-Transfer-Encoding: base64
 Content-Location: http://support.dnspod.com/themes/client_default/star_3.gif
 
@@ -3330,56 +4734,8 @@ BCcZGScETvf5+/3w6eO3RMcRgwUPIilhYQQKFCMslFjY8GHEiUcYOoQoEUkLGEdgtPAIcojIIxEe
 hGjQIMSDCEhSrmz5MqZKli5hHpHxSoWKV1M8d/b82SNojw8KKGAQgoGCgg9DkCpl6hSqEKlLezR9
 OsQGDxwxhMTAwcNG169he4wtKwQEBxFHRHAAMcQt3CFy6bZ9G3fuEBcvVhxZ8cLF38CDC/cIAgA7
 
-------=_NextPart_000_001B_01CA7376.6EBCC2C0
-Content-Type: image/gif
-Content-Transfer-Encoding: base64
-Content-Location: http://support.dnspod.com/themes/client_default/icon_comment.gif
-
-R0lGODlhEAAQANUoAPnnsfnpuPnswPrx0PvwzvruyPvvy/rvzfrux/rtxfvx0fvw0Pnqufvuyfnp
-uvnsxPrsw/rswfnrwPrqvfrqu/rtxPvvzPnqvfvw0fnqvPrrvvnqu/vtxvnpufvvzfnrvvrswvvu
-yvnquty7h/vx0v324u7cpMyZZv///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAEAACgALAAAAAAQABAAAAZqQJRw
-SCwaj8aTcslUDk+lqHRaGp2EUBJJQTAgIIIMw3RFZUmDQygR0VA6ZGxJ2y08BBNHIG6eDzwNHCAf
-GwF7ZVAYCxYFFRIXIoZ8JyMmlpYAAJd8Zk2ZZE5IKCOaZaJClaano6qrI6uiQQA7
-
-------=_NextPart_000_001B_01CA7376.6EBCC2C0
+------=_NextPart_000_0000_01CB4A17.13D328E0
 Content-Type: application/octet-stream
-Content-Transfer-Encoding: base64
-Content-Location: http://support.dnspod.com/index.php?_m=core&_a=register&do=captcha&genword=1
-
-/9j/4AAQSkZJRgABAQAAAQABAAD//gA+Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcg
-SlBFRyB2NjIpLCBkZWZhdWx0IHF1YWxpdHkK/9sAQwAIBgYHBgUIBwcHCQkICgwUDQwLCwwZEhMP
-FB0aHx4dGhwcICQuJyAiLCMcHCg3KSwwMTQ0NB8nOT04MjwuMzQy/9sAQwEJCQkMCwwYDQ0YMiEc
-ITIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIy/8AAEQgA
-KAC0AwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMC
-BAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYn
-KCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeY
-mZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5
-+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwAB
-AgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpD
-REVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ip
-qrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMR
-AD8A9/ooooAKKK5PUfib4L0q7mtLzxBaR3ELtHLGNzFGU4IIAPINAHWUUyGaO4gjnibdHIodGHcE
-ZBp9ABRRVG51extLkW80+2Y4wuwnr07YqKlWFNc02kvMqMJTdoq5eoorN1jxDo3h9In1fU7WxWYk
-Rm4lCbyOuM9eoqyTSoqGzvLfULOK7tJknt5lDxyocq6noQe4qagAoqNLiGRyiSxs4GSqsCRUlABR
-TPOi87yfNTzcZ2bhux64p9ABRRRQAUUUUAFFFFABRRRQAUUUUAFfN37ReiafpmpaLeWVjb20l79p
-e4eKMKZXBQlmI6n5jyfWvpGvF/it4G8cePdajtra20pNJsmJtJmlKyPvVN27r3B6AdO9AHpvg2f7
-V4H0Cf8A56adbt+ca1t1xnw40fxXoOhjTfEtxp0sNtFFDZLZliyIoIIckDJ+7jGe9dnQAVzWv6xL
-p2opHHbW7how290y3Ujrn2rY1DVbbTBH9oL/ALzO3auemP8AGuX1Nh4i1W3WzV0+QqXlUgcZPbNe
-Nm2JtT9lRl+8utOup6GBo3nz1F7lnr0O1ry/4z+I9L8OafpM2peGrLWxLLIqJdHAi4BJHB68flXa
-+IvFOkeDtJhvtdujb27yLAHWNpMuVJxhQT0U14X8XfGGhfEZfD+keGLtry+a98tVaJ4hmTCqMuAO
-uK9hHnl3xr4k1IeH/Cl/pE9xo9le6dlbOynZI02noNuM8MBXRTfGaxXUrSBke40hrEC6KwnzzOcg
-gbmAI6fmea6G08G3c3witNAvrS3OrwWBgjMm1vLf2YZx0HI9K5LSPgndHRdQTVZLZdRkCfY5I5WZ
-Y+fm3DAzkYHemBR+B0V2nie8nW2naxe1aMz+WdgcMhALdM4zx7103xdTw1Bdabc+I9e1+xjmjeKK
-10tyFmKkElhgjPzge/4V0/w/8IXHgzRriwnvY7rzZ/OBRCoUlQCOTz90VzHj34Xanq/iK18S+HNU
-dNXjvIphHezn7NCqKOUUKTksqkjnOTQB4fq+t2vhPxBb6l4CGs6ZHJatC82oxKXlYtliucjGNnYd
-K+utMvBqGlWd6MYuIElGOnzKD/WvINd+D/i/xtLbSeK/GVrJ9m3eUtvYDCbsbgMbM52jrmvWtE0z
-+xdB0/SxM04s7aO3ErDBcIoUEj8KAL9FFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABgZzRRRQB
-HPbwXKBLiGOVAchZFDDPrzUcen2UJBitLdCDkFYwMH16UUUAWKKKKACiiigAooooAKKKKACiiigA
-ooooAKKKKAP/2Q==
-
-------=_NextPart_000_001B_01CA7376.6EBCC2C0
-Content-Type: image/gif
 Content-Transfer-Encoding: base64
 Content-Location: http://support.dnspod.com/themes/client_default/icon_back.gif
 
@@ -3394,15 +4750,15 @@ BAEAAGgALAAAAAAQABAAAAeRgGiCg4SFhoeIgyIPAImDISRLOY5oWTYvGWGOWwQbVE9gCDtkNWeD
 Y1wTRUJIMkBKJw5GFz2CED4rMEdeUWUzHUQoAaZoKgotYhE/UFMpBUMxScQsB1c3Ogk8TSBOHAwW
 xGhVFV0NJjQuGkwYBmbhaAAjQRJWAQIlAgNfhxRYWh6UBOGQsiAgmjMDPhgU1KhQIAA7
 
-------=_NextPart_000_001B_01CA7376.6EBCC2C0
-Content-Type: image/gif
+------=_NextPart_000_0000_01CB4A17.13D328E0
+Content-Type: application/octet-stream
 Content-Transfer-Encoding: base64
 Content-Location: http://support.dnspod.com/themes/client_default/blockarrow.gif
 
 R0lGODlhCAAIAIABAP///////yH5BAEAAAEALAAAAAAIAAgAAAIMjI+ZAMpq3mpHIlkAADs=
 
-------=_NextPart_000_001B_01CA7376.6EBCC2C0
-Content-Type: image/gif
+------=_NextPart_000_0000_01CB4A17.13D328E0
+Content-Type: application/octet-stream
 Content-Transfer-Encoding: base64
 Content-Location: http://support.dnspod.com/themes/client_default/icon_addcomment.gif
 
@@ -3413,8 +4769,8 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAEAACIALAAAAAAQABAAAAZvQJFw
 SCwajZ/kMMRshkDQz+AjDHmuWA8oKeVaORxMgQDZDgaA9OfLMVgSkW0S4PWAx4cMdEsHib4GGhMN
 FBsOch9+VgoLFwcMDxIVCHtVAh2YmAEBmR0hS04hm55MR0MCnJ+mRJeqq6eur0ICsq9BADs=
 
-------=_NextPart_000_001B_01CA7376.6EBCC2C0
-Content-Type: image/gif
+------=_NextPart_000_0000_01CB4A17.13D328E0
+Content-Type: application/octet-stream
 Content-Transfer-Encoding: base64
 Content-Location: http://support.dnspod.com/themes/client_default/icon_print.gif
 
@@ -3436,8 +4792,8 @@ AAiHAAEIHEiwYMEACBMGMDgwAIGHBBwuZOhwwICIAQQwBOAQ4kONFAlYtEgApMGOHk02VMgSYcMC
 MGPKLHAAZIACFRwY4NCAwYMFGw4MsFnAgQcIDSY8uJDgQIahAm9agIBgAoYICSRQUACVYwEDCDow
 iLBAqwINXQMYGMmWrUkBcOPKhbuxLoCAADs=
 
-------=_NextPart_000_001B_01CA7376.6EBCC2C0
-Content-Type: image/gif
+------=_NextPart_000_0000_01CB4A17.13D328E0
+Content-Type: application/octet-stream
 Content-Transfer-Encoding: base64
 Content-Location: http://support.dnspod.com/themes/client_default/icon_pdf.gif
 
@@ -3460,8 +4816,8 @@ JQOgJFCQwAWUGXLqzNkBAwYHGDQg3MABAwcOAjh0OGpU6MClHDxU6EC1aAenHzYs7cAAAAQPVa8O
 pephQIMFBsAqxaqVawUDBiwKWOCBbUcBEhhQ8NBgQgGxT+eCpbq06dACAwYfZcrB7uCqjLE+uED5
 wIUDBzRo1hwQADs=
 
-------=_NextPart_000_001B_01CA7376.6EBCC2C0
-Content-Type: image/gif
+------=_NextPart_000_0000_01CB4A17.13D328E0
+Content-Type: application/octet-stream
 Content-Transfer-Encoding: base64
 Content-Location: http://support.dnspod.com/themes/client_default/icon_emailarticle.gif
 
@@ -3483,8 +4839,8 @@ AAh+AAEIHEiwoMGDCBMWFMCwoUOGAwUEKECxosUAAQQKKBDgg4EFEjIcgLAhwICMADZaCIBABAYF
 HS4EqHBSYwENIQJwcPCAQYAGCWqmLPBR4sgAAiiAELoRgYABCjBOGCAgAtMCT3ky8ACUKtOnA8KK
 FStxIMazaM8qXMu2LcGAADs=
 
-------=_NextPart_000_001B_01CA7376.6EBCC2C0
-Content-Type: image/gif
+------=_NextPart_000_0000_01CB4A17.13D328E0
+Content-Type: application/octet-stream
 Content-Transfer-Encoding: base64
 Content-Location: http://support.dnspod.com/themes/client_default/icon_addtofav.gif
 
@@ -3505,7 +4861,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAEAAAAALAAAAAAQABAA
 AAhpAAEIHEiwoMEACBMaJBhAgEMBARYObEiAAIOIEgFQtIiRYUKKBS5+FNjwoYACBxiYxLiRAMoF
 CgwgSDCApYCKL2POZFCT5M2cBgYIFcryowCZNUcWbDizZ8aGCXh2XNhw6NSDH69mXBgQADs=
 
-------=_NextPart_000_001B_01CA7376.6EBCC2C0
+------=_NextPart_000_0000_01CB4A17.13D328E0
 Content-Type: application/octet-stream
 Content-Transfer-Encoding: quoted-printable
 Content-Location: http://support.dnspod.com/index.php?_ca=css&group=default
@@ -3972,7 +5328,7 @@ BORDER-RIGHT: #cccccc 1px solid; PADDING-TOP: 4px; -moz-border-radius: =
 	FONT: 11px Verdana, Tahoma
 }
 
-------=_NextPart_000_001B_01CA7376.6EBCC2C0
+------=_NextPart_000_0000_01CB4A17.13D328E0
 Content-Type: application/x-js
 Content-Transfer-Encoding: quoted-printable
 Content-Location: http://support.dnspod.com/themes/client_default/basejs.js
@@ -4389,7 +5745,7 @@ to get around IE's broken style cascade=0A=
   }=0A=
 }=0A=
 
-------=_NextPart_000_001B_01CA7376.6EBCC2C0
+------=_NextPart_000_0000_01CB4A17.13D328E0
 Content-Type: application/octet-stream
 Content-Transfer-Encoding: quoted-printable
 Content-Location: http://support.dnspod.com/visitor/index.php?_m=livesupport&_a=htmlcode&departmentid=0&fullname=&email=
@@ -4397,22 +5753,22 @@ Content-Location: http://support.dnspod.com/visitor/index.php?_m=livesupport&_a=
 //=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
 =3D=3D=3D=3D=3D=3D=3D=0A=
 // Kayako LiveResponse=0A=
-// Copyright (c) 2001-2009=0A=
+// Copyright (c) 2001-2010=0A=
 // http://www.kayako.com=0A=
 // License: http://www.kayako.com/license.txt=0A=
 //=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
 =3D=3D=3D=3D=3D=3D=3D=0A=
 =0A=
-var sessionid_hc8xvm2h =3D "tnocbf8cnsqiruo00vctja40f2me8bni";=0A=
-var country_hc8xvm2h =3D "China";=0A=
-var countrycode_hc8xvm2h =3D "cn";=0A=
-var hasnotes_hc8xvm2h =3D "";=0A=
-var campaignid_hc8xvm2h =3D "";=0A=
-var campaigntitle_hc8xvm2h =3D "";=0A=
-var isfirsttime_hc8xvm2h =3D 1;=0A=
-var timer_hc8xvm2h =3D 0;=0A=
-var imagefetch_hc8xvm2h =3D 19;=0A=
-var updateurl_hc8xvm2h =3D "";=0A=
+var sessionid_3x0zsugq =3D "rch16pu9ieukeqlud3bsnrdmt04mjs5e";=0A=
+var country_3x0zsugq =3D "";=0A=
+var countrycode_3x0zsugq =3D "";=0A=
+var hasnotes_3x0zsugq =3D "0";=0A=
+var campaignid_3x0zsugq =3D "";=0A=
+var campaigntitle_3x0zsugq =3D "";=0A=
+var isfirsttime_3x0zsugq =3D 1;=0A=
+var timer_3x0zsugq =3D 0;=0A=
+var imagefetch_3x0zsugq =3D 19;=0A=
+var updateurl_3x0zsugq =3D "";=0A=
 var screenHeight =3D window.screen.availHeight;=0A=
 var screenWidth =3D window.screen.availWidth;=0A=
 var colorDepth =3D window.screen.colorDepth;=0A=
@@ -4428,9 +5784,9 @@ var appname =3D navigator.appName;=0A=
 var appVersion =3D navigator.appVersion;=0A=
 var userAgent =3D navigator.userAgent;=0A=
 var dombrowser =3D "default";=0A=
-var isChatRunning_hc8xvm2h =3D 0;=0A=
+var isChatRunning_3x0zsugq =3D 0;=0A=
 var title =3D document.title;=0A=
-var proactiveImageUse_hc8xvm2h =3D new Image();=0A=
+var proactiveImageUse_3x0zsugq =3D new Image();=0A=
 windows =3D (appVersion.indexOf('Win') !=3D -1);=0A=
 mac =3D (appVersion.indexOf('Mac') !=3D -1);=0A=
 linux =3D (appVersion.indexOf('Linux') !=3D -1);=0A=
@@ -4544,7 +5900,7 @@ if (document.getElementById)=0A=
 	dombrowser =3D "IE4";=0A=
 }=0A=
 =0A=
-function browserObject_hc8xvm2h(objid)=0A=
+function browserObject_3x0zsugq(objid)=0A=
 {=0A=
 	if (dombrowser =3D=3D "default")=0A=
 	{=0A=
@@ -4556,7 +5912,7 @@ function browserObject_hc8xvm2h(objid)=0A=
 	}=0A=
 }=0A=
 =0A=
-function doRand_hc8xvm2h()=0A=
+function doRand_3x0zsugq()=0A=
 {=0A=
 	var num;=0A=
 	now=3Dnew Date();=0A=
@@ -4565,7 +5921,7 @@ function doRand_hc8xvm2h()=0A=
 	return num;=0A=
 }=0A=
 =0A=
-function getCookie_hc8xvm2h(name) {=0A=
+function getCookie_3x0zsugq(name) {=0A=
 	var crumb =3D document.cookie;=0A=
 	var index =3D crumb.indexOf(name + "=3D");=0A=
 	if (index =3D=3D -1) return null;=0A=
@@ -4575,36 +5931,36 @@ function getCookie_hc8xvm2h(name) {=0A=
 	return unescape(crumb.substring(index, endstr));=0A=
 }=0A=
 =0A=
-function deleteCookie_hc8xvm2h(name) {=0A=
+function deleteCookie_3x0zsugq(name) {=0A=
 	var expiry =3D new Date();=0A=
 	document.cookie =3D name + "=3D" + "; expires=3DThu, 01-Jan-70 00:00:01 =
 GMT" +  "; path=3D/";=0A=
 }=0A=
 =0A=
-function elapsedTime_hc8xvm2h()=0A=
+function elapsedTime_3x0zsugq()=0A=
 {=0A=
-	if (timer_hc8xvm2h < 3600)=0A=
+	if (timer_3x0zsugq < 3600)=0A=
 	{=0A=
-		timer_hc8xvm2h++;=0A=
-		imagefetch_hc8xvm2h++;=0A=
+		timer_3x0zsugq++;=0A=
+		imagefetch_3x0zsugq++;=0A=
 =0A=
-		if (imagefetch_hc8xvm2h > 20) {=0A=
-			imagefetch_hc8xvm2h =3D 0;=0A=
-			doStatusLoop_hc8xvm2h();=0A=
+		if (imagefetch_3x0zsugq > 20) {=0A=
+			imagefetch_3x0zsugq =3D 0;=0A=
+			doStatusLoop_3x0zsugq();=0A=
 		}=0A=
 =0A=
-		setTimeout("elapsedTime_hc8xvm2h();", 1000);=0A=
+		setTimeout("elapsedTime_3x0zsugq();", 1000);=0A=
 	}=0A=
 }=0A=
 =0A=
-function doStatusLoop_hc8xvm2h() {=0A=
+function doStatusLoop_3x0zsugq() {=0A=
 	date1 =3D new Date();=0A=
-	updateurl_hc8xvm2h =3D =
+	updateurl_3x0zsugq =3D =
 "http://support.dnspod.com/visitor/index.php?_m=3Dlivesupport&_a=3Dupdate=
-footprint&time=3D"+date1.getTime()+"&rand=3D"+doRand_hc8xvm2h()+"&url=3D"=
+footprint&time=3D"+date1.getTime()+"&rand=3D"+doRand_3x0zsugq()+"&url=3D"=
 +encodeURIComponent(window.location)+"&isfirsttime=3D"+encodeURIComponent=
-(isfirsttime_hc8xvm2h)+"&sessionid=3D"+encodeURIComponent(sessionid_hc8xv=
-m2h)+"&referrer=3D"+encodeURIComponent(document.referrer)+"&resolution=3D=
+(isfirsttime_3x0zsugq)+"&sessionid=3D"+encodeURIComponent(sessionid_3x0zs=
+ugq)+"&referrer=3D"+encodeURIComponent(document.referrer)+"&resolution=3D=
 "+encodeURIComponent(screenWidth+"x"+screenHeight)+"&colordepth=3D"+encod=
 eURIComponent(colorDepth)+"&platform=3D"+encodeURIComponent(navigator.pla=
 tform)+"&appversion=3D"+encodeURIComponent(navigator.appVersion)+"&appnam=
@@ -4612,57 +5968,57 @@ e=3D"+encodeURIComponent(navigator.appName)+"&browsercode=3D"+encodeURICo=
 mponent(browsercode)+"&browserversion=3D"+encodeURIComponent(browserversi=
 on)+"&browsername=3D"+encodeURIComponent(browsername)+"&operatingsys=3D"+=
 encodeURIComponent(operatingsys)+"&pagetitle=3D"+encodeURIComponent(title=
-)+"&country=3D"+encodeURIComponent(country_hc8xvm2h)+"&countrycode=3D"+en=
-codeURIComponent(countrycode_hc8xvm2h)+"&hasnotes=3D"+encodeURIComponent(=
-hasnotes_hc8xvm2h)+"&campaignid=3D"+encodeURIComponent(campaignid_hc8xvm2=
-h)+"&campaigntitle=3D"+encodeURIComponent(campaigntitle_hc8xvm2h);=0A=
+)+"&country=3D"+encodeURIComponent(country_3x0zsugq)+"&countrycode=3D"+en=
+codeURIComponent(countrycode_3x0zsugq)+"&hasnotes=3D"+encodeURIComponent(=
+hasnotes_3x0zsugq)+"&campaignid=3D"+encodeURIComponent(campaignid_3x0zsug=
+q)+"&campaigntitle=3D"+encodeURIComponent(campaigntitle_3x0zsugq);=0A=
 //	alert(updateurl);=0A=
 =0A=
-	proactiveImageUse_hc8xvm2h =3D new Image();=0A=
-	proactiveImageUse_hc8xvm2h.onload =3D imageLoaded_hc8xvm2h;=0A=
-	proactiveImageUse_hc8xvm2h.src =3D updateurl_hc8xvm2h;=0A=
+	proactiveImageUse_3x0zsugq =3D new Image();=0A=
+	proactiveImageUse_3x0zsugq.onload =3D imageLoaded_3x0zsugq;=0A=
+	proactiveImageUse_3x0zsugq.src =3D updateurl_3x0zsugq;=0A=
 =0A=
-//	window.location.href =3D updateurl_hc8xvm2h;=0A=
+//	window.location.href =3D updateurl_3x0zsugq;=0A=
 =0A=
-	isfirsttime_hc8xvm2h =3D 0;=0A=
+	isfirsttime_3x0zsugq =3D 0;=0A=
 }=0A=
 =0A=
-function startChat_hc8xvm2h(proactive)=0A=
+function startChat_3x0zsugq(proactive)=0A=
 {=0A=
-	isChatRunning_hc8xvm2h =3D 1;=0A=
+	isChatRunning_3x0zsugq =3D 1;=0A=
 =0A=
 	docWidth =3D (winW-500)/2;=0A=
 	docHeight =3D (winH-480)/2;=0A=
 =0A=
 	chatwindow =3D =
 window.open("http://support.dnspod.com/visitor/index.php?_m=3Dlivesupport=
-&_a=3Dstartclientchat&sessionid=3D"+sessionid_hc8xvm2h+"&proactive=3D"+pr=
-oactive+"&departmentid=3D0&randno=3D"+doRand_hc8xvm2h()+"&fullname=3D&ema=
-il=3D","customerchat"+doRand_hc8xvm2h(), =
+&_a=3Dstartclientchat&sessionid=3D"+sessionid_3x0zsugq+"&proactive=3D"+pr=
+oactive+"&departmentid=3D0&randno=3D"+doRand_3x0zsugq()+"&fullname=3D&ema=
+il=3D","customerchat"+doRand_3x0zsugq(), =
 "toolbar=3D0,location=3D0,directories=3D0,status=3D1,menubar=3D0,scrollba=
 rs=3D0,resizable=3D1,width=3D500,height=3D480,left=3D"+docWidth+",top=3D"=
 +docHeight);=0A=
 =0A=
-	hideProactiveChatData_hc8xvm2h();=0A=
+	hideProactiveChatData_3x0zsugq();=0A=
 }=0A=
 =0A=
-function imageLoaded_hc8xvm2h() {=0A=
-	if (!proactiveImageUse_hc8xvm2h)=0A=
+function imageLoaded_3x0zsugq() {=0A=
+	if (!proactiveImageUse_3x0zsugq)=0A=
 	{=0A=
 		return;=0A=
 	}=0A=
-	proactiveAction =3D proactiveImageUse_hc8xvm2h.width;=0A=
+	proactiveAction =3D proactiveImageUse_3x0zsugq.width;=0A=
 =0A=
 	if (proactiveAction =3D=3D 3)=0A=
 	{=0A=
-		doProactiveForced_hc8xvm2h();=0A=
+		doProactiveForced_3x0zsugq();=0A=
 	} else if (proactiveAction =3D=3D 4) {=0A=
-		displayProactiveChatData_hc8xvm2h();=0A=
+		displayProactiveChatData_3x0zsugq();=0A=
 	} else {=0A=
 	}=0A=
 }=0A=
 =0A=
-function writeProactiveRequestData_hc8xvm2h()=0A=
+function writeProactiveRequestData_3x0zsugq()=0A=
 {=0A=
 	docWidth =3D (winW-450)/2;=0A=
 	docHeight =3D (winH-400)/2;=0A=
@@ -4696,13 +6052,13 @@ sans-serif\"><br>              <br>              =
               <br>              </font><br>              <br></td>       =
    </tr>          <tr>            <td width=3D\"47%\" align=3D\"center\" =
 valign=3D\"top\"><a =
-href=3D\"javascript:doProactiveRequest_hc8xvm2h();\"><font =
+href=3D\"javascript:doProactiveRequest_3x0zsugq();\"><font =
 color=3D\"#FF3300\" size=3D\"4\" face=3D\"Trebuchet MS, Verdana, Arial, =
 Helvetica, =
 sans-serif\">=E7=8E=B0=E5=9C=A8=E5=BC=80=E5=A7=8B=E8=81=8A=E5=A4=A9</font=
 ></a> </td>            <td width=3D\"53%\" align=3D\"center\" =
 valign=3D\"top\"><a =
-href=3D\"javascript:closeProactiveRequest_hc8xvm2h();\"><font =
+href=3D\"javascript:closeProactiveRequest_3x0zsugq();\"><font =
 color=3D\"#6666FF\" size=3D\"4\" face=3D\"Trebuchet MS, Verdana, Arial, =
 Helvetica, =
 sans-serif\">=E4=B8=8D=EF=BC=8C=E8=B0=A2=E8=B0=A2!</a></font></td>       =
@@ -4712,9 +6068,9 @@ sans-serif\">=E4=B8=8D=EF=BC=8C=E8=B0=A2=E8=B0=A2!</a></font></td>       =
 	document.write(writedata);=0A=
 }=0A=
 =0A=
-function displayProactiveChatData_hc8xvm2h()=0A=
+function displayProactiveChatData_3x0zsugq()=0A=
 {=0A=
-	writeObj =3D browserObject_hc8xvm2h("proactivechatdiv");=0A=
+	writeObj =3D browserObject_3x0zsugq("proactivechatdiv");=0A=
 	if (writeObj)=0A=
 	{=0A=
 		docWidth =3D (winW-450)/2;=0A=
@@ -4722,40 +6078,40 @@ function displayProactiveChatData_hc8xvm2h()=0A=
 		writeObj.top =3D docWidth;=0A=
 		writeObj.left =3D docHeight;=0A=
 	}=0A=
-	switchDisplay_hc8xvm2h("proactivechatdiv");=0A=
+	switchDisplay_3x0zsugq("proactivechatdiv");=0A=
 }=0A=
 =0A=
-function hideProactiveChatData_hc8xvm2h()=0A=
+function hideProactiveChatData_3x0zsugq()=0A=
 {=0A=
-	hideDisplay_hc8xvm2h("proactivechatdiv");=0A=
+	hideDisplay_3x0zsugq("proactivechatdiv");=0A=
 }=0A=
 =0A=
-function doProactiveForced_hc8xvm2h()=0A=
+function doProactiveForced_3x0zsugq()=0A=
 {=0A=
-	switchDisplay_hc8xvm2h("proactivechatdiv");=0A=
-	startChat_hc8xvm2h("6");=0A=
+	switchDisplay_3x0zsugq("proactivechatdiv");=0A=
+	startChat_3x0zsugq("6");=0A=
 }=0A=
 =0A=
-function doProactiveRequest_hc8xvm2h()=0A=
+function doProactiveRequest_3x0zsugq()=0A=
 {=0A=
-	startChat_hc8xvm2h("4");=0A=
+	startChat_3x0zsugq("4");=0A=
 }=0A=
 =0A=
-function closeProactiveRequest_hc8xvm2h()=0A=
+function closeProactiveRequest_3x0zsugq()=0A=
 {=0A=
 	rejectProactive =3D new Image();=0A=
 	date1 =3D new Date();=0A=
 	rejectProactive.src =3D =
 "http://support.dnspod.com/visitor/index.php?_m=3Dlivesupport&_a=3Dresetp=
-roactivestatus&time=3D"+date1.getTime()+"&rand=3D"+doRand_hc8xvm2h()+"&se=
-ssionid=3D"+sessionid_hc8xvm2h;=0A=
+roactivestatus&time=3D"+date1.getTime()+"&rand=3D"+doRand_3x0zsugq()+"&se=
+ssionid=3D"+sessionid_3x0zsugq;=0A=
 =0A=
-	hideProactiveChatData_hc8xvm2h();=0A=
+	hideProactiveChatData_3x0zsugq();=0A=
 }=0A=
 =0A=
-function switchDisplay_hc8xvm2h(objid)=0A=
+function switchDisplay_3x0zsugq(objid)=0A=
 {=0A=
-	result =3D browserObject_hc8xvm2h(objid);=0A=
+	result =3D browserObject_3x0zsugq(objid);=0A=
 	if (!result)=0A=
 	{=0A=
 		return;=0A=
@@ -4769,9 +6125,9 @@ function switchDisplay_hc8xvm2h(objid)=0A=
 	}=0A=
 }=0A=
 =0A=
-function hideDisplay_hc8xvm2h(objid)=0A=
+function hideDisplay_3x0zsugq(objid)=0A=
 {=0A=
-	result =3D browserObject_hc8xvm2h(objid);=0A=
+	result =3D browserObject_3x0zsugq(objid);=0A=
 	if (!result)=0A=
 	{=0A=
 		return;=0A=
@@ -4780,21 +6136,21 @@ function hideDisplay_hc8xvm2h(objid)=0A=
 	result.style.display =3D "none";=0A=
 }=0A=
 =0A=
-function resetChatStatus_hc8xvm2h()=0A=
+function resetChatStatus_3x0zsugq()=0A=
 {=0A=
-	isChatRunning_hc8xvm2h =3D 0;=0A=
+	isChatRunning_3x0zsugq =3D 0;=0A=
 }=0A=
 =0A=
-function runURL_hc8xvm2h(url)=0A=
+function runURL_3x0zsugq(url)=0A=
 {=0A=
 	runURLImg =3D new Image();=0A=
 	date1 =3D new Date();=0A=
 	runURLImg.src =3D url;=0A=
 }=0A=
 =0A=
-writeProactiveRequestData_hc8xvm2h();=0A=
-elapsedTime_hc8xvm2h();=0A=
-document.write("<a href=3D\"javascript:startChat_hc8xvm2h(\'0\');\" =
+writeProactiveRequestData_3x0zsugq();=0A=
+elapsedTime_3x0zsugq();=0A=
+document.write("<a href=3D\"javascript:startChat_3x0zsugq(\'0\');\" =
 onMouseOver=3D\"window.status=3D\'=E5=9C=A8=E7=BA=BF=E6=94=AF=E6=8C=81=E7=
 =A6=BB=E7=BA=BF. =
 =E7=82=B9=E5=87=BB=E8=BF=99=E9=87=8C=E7=95=99=E8=A8=80=E3=80=82\'; =
@@ -4806,4 +6162,4 @@ alt=3D\"=E5=9C=A8=E7=BA=BF=E6=94=AF=E6=8C=81=E7=A6=BB=E7=BA=BF. =
 title=3D\"=E5=9C=A8=E7=BA=BF=E6=94=AF=E6=8C=81=E7=A6=BB=E7=BA=BF. =
 =E7=82=B9=E5=87=BB=E8=BF=99=E9=87=8C=E7=95=99=E8=A8=80=E3=80=82\"></a>");=0A=
 
-------=_NextPart_000_001B_01CA7376.6EBCC2C0--
+------=_NextPart_000_0000_01CB4A17.13D328E0--
